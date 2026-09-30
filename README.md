@@ -5,6 +5,6 @@
 
   # CNU-DNS-Lab's Website
 
-  Visit **[website URL](#)** 🚀
+  Visit **[cnu-dns-lab.github.io](https://cnu-dns-lab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
