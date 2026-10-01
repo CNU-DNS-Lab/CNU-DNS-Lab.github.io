@@ -1,5 +1,7 @@
 - id: doi:10.3745/JIPS.01.0024
   image: https://d2kjln74dkk4oj.cloudfront.net/img/journals/jips/JIPS_engpaper.jpg
+- id: doi:10.14257/ijseia.2014.8.10.17
+  remove: true
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
