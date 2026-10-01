@@ -1,10 +1,9 @@
 ---
 ---
 
-# CNU-DNS-Lab's Website
+# CNU DNS Lab's Website
 
-An engaging 1-3 sentence description of your lab.
-
+Welcome to the website of DNS Lab at Chonnam National University. Here you can find projects conducted in our lab, papers published, members, and contact information.
 {% include section.html %}
 
 ## Highlights
