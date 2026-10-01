@@ -26,6 +26,7 @@
   orcid: 0000-0001-9985-3051
   plugin: sources.py
   file: sources-bappi.yaml
+  image: https://wellbeingandequity.org/wp-content/uploads/2024/07/PLOSJournal_image.png
 - id: doi:10.1109/ICAIIC68212.2026.11454411
   title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
   authors:
@@ -119,6 +120,7 @@
   orcid: 0000-0001-9985-3051
   plugin: sources.py
   file: sources-bappi.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959525X00060-cov200h.gif
 - id: doi:10.3390/app15148089
   title: 'A Survey on Video Big Data Analytics: Architecture, Technologies, and Open
     Research Challenges'
@@ -1265,6 +1267,7 @@
   publisher: Korean Institute of Smart Media
   date: '2025-01-31'
   link: https://doi.org/hck534
+  image: https://koreascience.kr/journal/SMTMSH/v14n1/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1109/ICAIIC64266.2025.10920810
@@ -1278,6 +1281,7 @@
     and Communication (ICAIIC)
   date: '2025-02-18'
   link: https://doi.org/hck536
+  image: http://2025.icaiic.org/wp-content/uploads/2024/11/top_img.png
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.3745/PKIPS.y2025m11a.256
@@ -1290,6 +1294,7 @@
   publisher: Annual Conference of KIPS
   date: '2025-11-06'
   link: https://doi.org/hck537
+  image: https://koreascience.kr/journal/JBCRA1/y2025m11a/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.32604/csse.2025.069213
@@ -1305,6 +1310,7 @@
   publisher: Computer Systems Science and Engineering
   date: '2025-01-01'
   link: https://doi.org/hck538
+  image: https://file.techscience.com/uploads/eb0a46cedc690148262595d545ae35d4.jpg?t=20220620
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454422
@@ -1319,6 +1325,7 @@
     and Communication (ICAIIC)
   date: '2026-02-24'
   link: https://doi.org/hck54f
+  image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.3745/PKIPS.y2026m05a.725
@@ -1331,6 +1338,7 @@
   publisher: Annual Conference of KIPS
   date: '2026-05-20'
   link: https://doi.org/hck54h
+  image: https://koreascience.kr/journal/JBCRA1/y2026m05a/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.9728/dcs.2025.26.4.1041
@@ -1343,6 +1351,7 @@
   publisher: Journal of Digital Contents Society
   date: '2025-04-30'
   link: https://doi.org/hck54j
+  image: http://journal.dcs.or.kr/images/basic/book.jpg
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.705
@@ -1352,8 +1361,9 @@
   - Md Ilias Bappi
   - Kyungbaek Kim
   publisher: Annual Conference of KIPS
-  date: '2025-01-01'
+  date: '2025-05-29'
   link: https://doi.org/hck54k
+  image: https://koreascience.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.3745/PKIPS.y2024m10a.653
@@ -1364,5 +1374,6 @@
   publisher: Annual Conference of KIPS
   date: '2024-10-31'
   link: https://doi.org/hck54m
+  image: https://koreascience.kr/journal/JBCRA1/y2024m10a/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
