@@ -295,12 +295,13 @@
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/JIPS.01.0024
-  title: A Survey about Consensus Algorithms Used in Blockchain
+  title: The Identification of Blur Extent from Space-variant Motion Blurred Image
   authors:
-  - Giang-Truong Nguyen
-  - Kyungbaek Kim
+  - Hong-Taek Yang
+  - Joo-Youn Hwang
+  - Doo-Won Paik
   publisher: Journal of Information Processing Systems
-  date: '2018-02-28'
+  date: '2007-12-01'
   link: https://doi.org/ggjjpd
   image: https://d2kjln74dkk4oj.cloudfront.net/img/journals/jips/JIPS_engpaper.jpg
   plugin: sources.py
