@@ -47,5 +47,12 @@
   doi: 10.23173/jnu.000000076408.24010.0012633
   date: '2025-08'
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-# id: doi:10.3745/PKIPS.y2025m05a.683
-#   image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
+- title: TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective Building Energy Prediction
+  authors:
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  doi: 10.3745/PKIPS.y2025m05a.683
+  date: '2025.05.29'
+  image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
+  publisher: KIPS
+  link: https://koreascience.or.kr/article/CFKO202521043204754.page
