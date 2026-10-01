@@ -27,7 +27,7 @@
   - David J. Richter
   - Kyungbaek Kim
   publisher: Scientific Reports
-  doi: 10.1038/s41598-025-03235-w
+  id: doi:10.1038/s41598-025-03235-w
   date: '2025-05-30'
   link: https://doi.org/hck6pq
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhfj6ttU0ORjxjckF56SgO5zP_INHV4KuZVh3sx5b1Q&s=10
@@ -41,14 +41,14 @@
   publisher: Plant Direct
   date: '2026-04-01'
   link: https://doi.org/hck6vp
-  doi: 10.1002/pld3.70167
+  id: doi:10.1002/pld3.70167
   image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
 - title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
   authors:
   - David J. Richter
   publisher: Chonnam National University Graduate School
   link: https://arxiv.org/abs/2605.01283
-  doi: 10.23173/jnu.000000076557.24010.0012721
+  id: doi:10.23173/jnu.000000076557.24010.0012721
   date: '2025-08-31'
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 - title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
