@@ -39,5 +39,13 @@
   image: https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg
 - id: doi:10.23173/jnu.000000076408.24010.0012633
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-- id: doi:10.3745/PKIPS.y2025m05a.683
-  image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
+- title: CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction
+  authors:
+  - Hyeonseok Jin
+  publisher: Chonnam National University Graduate School
+  link: https://arxiv.org/abs/2605.01283
+  doi: 10.23173/jnu.000000076408.24010.0012633
+  date: '2025-08'
+  image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
+# id: doi:10.3745/PKIPS.y2025m05a.683
+#   image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
