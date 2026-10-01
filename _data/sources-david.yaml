@@ -1,5 +1,5 @@
 - title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
-  doi: 10.1109/ACCESS.2024.3433540
+  id: doi:10.1109/ACCESS.2024.3433540
   authors:
   - David J. Richter
   - Ricardo A. Calix
@@ -10,7 +10,7 @@
   orcid: 0000-0001-9985-3051
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 - title: A Systematic Review of the Current State of Transfer Learning Accelerated CNN-Based Plant Leaf Disease Classification
-  doi: 10.1109/ACCESS.2025.3584404
+  id: doi:10.1109/ACCESS.2025.3584404
   authors:
   - David J. Richter
   - Md Ilias Bappi
