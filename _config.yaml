@@ -8,12 +8,9 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@CNU-DNS-Lab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: kyungbaekkim@jnu.ac.kr
   github: CNU-DNS-Lab
-  twitter: CNU-DNS-Lab
-  youtube: CNU-DNS-Lab
+  phone: +82-62-530-3438
 
 ### jekyll settings
 
