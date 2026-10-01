@@ -1,10 +1,40 @@
+  file: orcid.yaml
 - id: doi:10.1109/ACCESS.2025.3623702
+  title: 'A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients With Chronic Obstructive Pulmonary Disease: A Secondary Analysis'
+  authors:
+  - Hyeonseok Jin
+  - Ja Yun Choi
+  - Sehyun Cho
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hck6cc
+  orcid: 0000-0001-9985-3051
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 - id: doi:10.1109/ACCESS.2025.3573639
+  title: 'DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction With Transformer-Style CNN'
+  authors:
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hck6cf
+  orcid: 0000-0001-9985-3051
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 - id: doi:10.3745/TKIPS.2025.14.2.123
   image: https://koreascience.or.kr/journal/JBCRMH/v14n2/cover/thumb.image
 - id: doi:10.1177/20552076251393380
+  title: Enhancing deep learning models for predicting smoking Status using clinical data in patients with chronic obstructive pulmonary disease
+  authors:
+  - Sehyun Cho
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  - Sola Cho
+  - Ja Yun Choi
+  publisher: DIGITAL HEALTH
+  date: '2025-05-01'
+  link: https://doi.org/hck6b9
+  orcid: 0000-0001-9985-3051
   image: https://journals.sagepub.com/cms/asset/78eff45f-1633-4a2f-92ed-18cd8b37a4d3/default_cover.png
 - id: doi:10.48550/arXiv.2507.11550
   image: https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg
