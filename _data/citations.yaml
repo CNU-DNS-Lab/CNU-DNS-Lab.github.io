@@ -28,19 +28,20 @@
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-david.yaml
-- title: 'Assessing the performance of domain-specific models for plant leaf disease
+- id: doi:10.1038/s41598-025-03235-w
+  title: 'Assessing the performance of domain-specific models for plant leaf disease
     classification: a comprehensive benchmark of transfer-learning on open datasets'
   authors:
   - David J. Richter
   - Kyungbaek Kim
   publisher: Scientific Reports
-  doi: 10.1038/s41598-025-03235-w
   date: '2025-05-30'
   link: https://doi.org/hck6pq
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhfj6ttU0ORjxjckF56SgO5zP_INHV4KuZVh3sx5b1Q&s=10
   plugin: sources.py
   file: sources-david.yaml
-- title: "PLDC\u2010Net: A Domain\u2010Specific Base Model for Plant Leaf Disease\
+- id: doi:10.1002/pld3.70167
+  title: "PLDC\u2010Net: A Domain\u2010Specific Base Model for Plant Leaf Disease\
     \ Classification Domain Adaptation Tasks"
   authors:
   - "David\_J. Richter"
@@ -48,17 +49,16 @@
   publisher: Plant Direct
   date: '2026-04-01'
   link: https://doi.org/hck6vp
-  doi: 10.1002/pld3.70167
   image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
   plugin: sources.py
   file: sources-david.yaml
-- title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
+- id: doi:10.23173/jnu.000000076557.24010.0012721
+  title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
   authors:
   - David J. Richter
   publisher: Chonnam National University Graduate School
-  link: https://arxiv.org/abs/2605.01283
-  doi: 10.23173/jnu.000000076557.24010.0012721
   date: '2025-08-31'
+  link: https://arxiv.org/abs/2605.01283
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
   plugin: sources.py
   file: sources-david.yaml
@@ -129,7 +129,7 @@
   - Chulwoong Choi
   - Kyungbaek Kim
   publisher: Annual Conference of KIPS
-  date: '2021-11-04'
+  date: '2021-01-01'
   link: https://doi.org/hck6pc
   image: https://koreascience.kr/journal/JBCRA1/y2021m11a/cover/thumb.image
   plugin: sources.py
@@ -295,13 +295,12 @@
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/JIPS.01.0024
-  title: The Identification of Blur Extent from Space-variant Motion Blurred Image
+  title: A Survey about Consensus Algorithms Used in Blockchain
   authors:
-  - Hong-Taek Yang
-  - Joo-Youn Hwang
-  - Doo-Won Paik
+  - Giang-Truong Nguyen
+  - Kyungbaek Kim
   publisher: Journal of Information Processing Systems
-  date: '2007-12-01'
+  date: '2018-02-28'
   link: https://doi.org/ggjjpd
   image: https://d2kjln74dkk4oj.cloudfront.net/img/journals/jips/JIPS_engpaper.jpg
   plugin: sources.py
