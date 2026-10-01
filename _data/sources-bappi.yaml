@@ -1,22 +1,117 @@
 - id: doi:10.1016/j.icte.2025.08.001
+  title: "Deep learning-based diabetic retinopathy recognition and grading: Challenges, gaps, and an improved approach \u2014 A survey"
+  authors:
+  - Md Ilias Bappi
+  - Jannat Afrin Juthy
+  - Kyungbaek Kim
+  publisher: ICT Express
+  date: '2025-10-01'
+  link: https://doi.org/hck533
+  orcid: 0000-0001-9985-3051
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959525X00060-cov200h.gif
 - id: doi:10.30693/SMJ.2025.14.1.17
+  title: Assessing the Effectiveness of Augmentation Techniques in Enhancing Plant Leaf Disease Classification
+  authors:
+  - MD Ilias Bappi MD Ilias Bappi
+  - David J. Richter David J. Richter
+  - Kyungbaek Kim
+  publisher: Korean Institute of Smart Media
+  date: '2025-01-31'
+  link: https://doi.org/hck534
   image: https://koreascience.kr/journal/SMTMSH/v14n1/cover/thumb.image
 - id: doi:10.1371/journal.pone.0316509
+  title: 'HCLmNet: A unified hybrid continual learning strategy multimodal network for lung cancer survival prediction'
+  authors:
+  - MD Ilias Bappi
+  - David J. Richter
+  - Shivani Sanjay Kolekar
+  - Kyungbaek Kim
+  publisher: PLOS One
+  date: '2026-03-24'
+  link: https://doi.org/hck535
+  orcid: 0000-0001-9985-3051
   image: https://wellbeingandequity.org/wp-content/uploads/2024/07/PLOSJournal_image.png
 - id: doi:10.1109/ICAIIC64266.2025.10920810
+  title: 'STMFNet: Spatial Texture Multi-Scale Feature Fusion Attention Network for Diabetic Retinopathy Classification'
+  authors:
+  - MD Ilias Bappi
+  - Md Monir Ahammod Bin Atique
+  - Kyungbaek Kim
+  publisher: 2025 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2025-02-18'
+  link: https://doi.org/hck536
   image: http://2025.icaiic.org/wp-content/uploads/2024/11/top_img.png
 - id: doi:10.3745/PKIPS.y2025m11a.256
+  title: An encoder-based defense mechanism against adversarial attacks in plant leaf disease classification
+  authors:
+  - Md Ilias Bappi
+  - Taejune Park
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-11-06'
+  link: https://doi.org/hck537
   image: https://koreascience.kr/journal/JBCRA1/y2025m11a/cover/thumb.image
 - id: doi:10.32604/csse.2025.069213
+  title: 'Enhancing Employee Turnover Prediction: An Advanced Feature Engineering Analysis with CatBoost'
+  authors:
+  - Md Monir Ahammod Bin Atique
+  - Md Ilias Bappi
+  - Kwanghoon Choi
+  - Kyungbaek Kim
+  - Md Abul Ala Walid
+  - Pranta Kumar Sarkar
+  publisher: Computer Systems Science and Engineering
+  date: '2025-01-01'
+  link: https://doi.org/hck538
   image: https://file.techscience.com/uploads/eb0a46cedc690148262595d545ae35d4.jpg?t=20220620
 - id: doi:10.1109/ICAIIC68212.2026.11454422
+  title: Multi-Scale Convolutional Reconstruction Defense Against Adversarial and Real-World Corruptions in Plant Disease Recognition
+  authors:
+  - MD Ilias Bappi
+  - Urusha Shakhakarmi
+  - Jisoo Shin
+  - Kyungbaek Kim
+  publisher: 2026 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2026-02-24'
+  link: https://doi.org/hck54f
   image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
 - id: doi:10.3745/PKIPS.y2026m05a.725
+  title: Robust Self-Supervised Learning for Reliable Pain Assessment under Incomplete Physiological Signals
+  authors:
+  - Md Ilias Bappi
+  - Urusha Shakhakarmi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2026-05-20'
+  link: https://doi.org/hck54h
   image: https://koreascience.kr/journal/JBCRA1/y2026m05a/cover/thumb.image
 - id: doi:10.9728/dcs.2025.26.4.1041
+  title: Enhancing Vision-Based Cigarette Smoke Detection in Smart Vehicles by Transfer Learning
+  authors:
+  - MD Ilias Bappi
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  publisher: Journal of Digital Contents Society
+  date: '2025-04-30'
+  link: https://doi.org/hck54j
   image: http://journal.dcs.or.kr/images/basic/book.jpg
 - id: doi:10.3745/PKIPS.y2025m05a.705
+  title: Exploring the Impact of Data Augmentation Techniques on Parkinsons Disease Detection Using S-BERT
+  authors:
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck54k
   image: https://koreascience.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
 - id: doi:10.3745/PKIPS.y2024m10a.653
+  title: Precision Lung Cancer Segmentation from CT &amp; PET Images Using Mask2Former
+  authors:
+  - Md Ilias Bappi
+  - Kyungbeak Kim
+  publisher: Annual Conference of KIPS
+  date: '2024-10-31'
+  link: https://doi.org/hck54m
   image: https://koreascience.kr/journal/JBCRA1/y2024m10a/cover/thumb.image
