@@ -1,5 +1,4 @@
-- id: doi:10.1109/ACCESS.2024.3433540
-  title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
+- title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
   authors:
   - David J. Richter
   - Ricardo A. Calix
@@ -9,9 +8,7 @@
   link: https://doi.org/g83667
   orcid: 0000-0001-9985-3051
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
-- id: doi:10.1109/ACCESS.2025.3584404
-  title: A Systematic Review of the Current State of Transfer Learning Accelerated
-    CNN-Based Plant Leaf Disease Classification
+- title: A Systematic Review of the Current State of Transfer Learning Accelerated CNN-Based Plant Leaf Disease Classification
   authors:
   - David J. Richter
   - Md Ilias Bappi
@@ -30,8 +27,7 @@
   image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
 - id: doi:10.23173/jnu.000000076557.24010.0012721
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-- id: doi:10.1109/ICAIIC68212.2026.11454411
-  title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
+- title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
   authors:
   - David J. Richter
   - Md Ilias Bappi
@@ -42,9 +38,7 @@
   link: https://doi.org/hck6b2
   orcid: 0000-0001-9985-3051
   image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
-- id: doi:10.1109/ICAIIC64266.2025.10920778
-  title: Assessing the Impact of State-Space Complexity on an Image Based DQN via
-    the Game of Snake
+- title: Assessing the Impact of State-Space Complexity on an Image Based DQN via the Game of Snake
   authors:
   - David J. Richter
   - Kyungbaek Kim
