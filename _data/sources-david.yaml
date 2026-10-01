@@ -1,5 +1,5 @@
 - title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
-  doi:10.1109/ACCESS.2024.3433540
+  doi: 10.1109/ACCESS.2024.3433540
   authors:
   - David J. Richter
   - Ricardo A. Calix
@@ -10,7 +10,7 @@
   orcid: 0000-0001-9985-3051
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 - title: A Systematic Review of the Current State of Transfer Learning Accelerated CNN-Based Plant Leaf Disease Classification
-  doi:10.1109/ACCESS.2025.3584404
+  doi: 10.1109/ACCESS.2025.3584404
   authors:
   - David J. Richter
   - Md Ilias Bappi
@@ -41,18 +41,18 @@
   publisher: Plant Direct
   date: '2026-04-01'
   link: https://doi.org/hck6vp
-  doi:10.1002/pld3.70167
+  doi: 10.1002/pld3.70167
   image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
 - title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
   authors:
   - David J. Richter
   publisher: Chonnam National University Graduate School
   link: https://arxiv.org/abs/2605.01283
-  doi:https://doi.org/10.23173/jnu.000000076557.24010.0012721
+  doi: 10.23173/jnu.000000076557.24010.0012721
   date: '2025-08-31'
   image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
 - title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
-  doi:10.1109/ICAIIC68212.2026.11454411
+  doi: 10.1109/ICAIIC68212.2026.11454411
   authors:
   - David J. Richter
   - Md Ilias Bappi
@@ -64,7 +64,7 @@
   orcid: 0000-0001-9985-3051
   image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
 - title: Assessing the Impact of State-Space Complexity on an Image Based DQN via the Game of Snake
-  doi:10.1109/ICAIIC64266.2025.10920778
+  doi: 10.1109/ICAIIC64266.2025.10920778
   authors:
   - David J. Richter
   - Kyungbaek Kim
