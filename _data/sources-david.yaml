@@ -23,8 +23,8 @@
   image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 - id: doi:10.1038/s41598-025-03235-w
   image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhfj6ttU0ORjxjckF56SgO5zP_INHV4KuZVh3sx5b1Q&s=10
-- id: doi:10.3745/PKIPS.y2025m05a.687
-  image: https://koreascience.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
+# - id: doi:10.3745/PKIPS.y2025m05a.687
+#   image: https://koreascience.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
 - id: doi:10.1002/pld3.70167
   image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
 - title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
@@ -58,5 +58,5 @@
   link: https://doi.org/hck6cb
   orcid: 0000-0001-9985-3051
   image: http://2025.icaiic.org/wp-content/uploads/2024/11/top_img.png
-- id: doi:10.3745/PKIPS.y2025m05a.713
-  image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
+# - id: doi:10.3745/PKIPS.y2025m05a.713
+#   image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
