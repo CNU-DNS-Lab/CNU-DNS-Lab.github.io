@@ -17,4 +17,4 @@ Here we link to open source repositories and datasets provided by our lab.
 
 ## All
 
-{% include list.html component="card" data="projects" filter="!group" style="small" %}
+{% include list.html component="card" data="projects" style="small" %}
