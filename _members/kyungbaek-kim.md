@@ -7,7 +7,7 @@ links:
   home-page: http://kyungbaekkim.jnu.ac.kr
   orcid: 0000-0001-9985-3051
   phone: +82-62-530-3438
-  scholar: https://scholar.google.com/citations?user=hRITYcMAAAAJ
+  google-scholar: https://scholar.google.com/citations?user=hRITYcMAAAAJ
   email: kyungbaekkim@jnu.ac.kr
 ---
 
