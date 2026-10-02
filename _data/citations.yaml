@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1109/ACCESS.2024.3433540
+- id: doi:10.1109/ACCESS.2024.3433540
   title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
   authors:
   - David J. Richter
@@ -9,11 +9,9 @@
   publisher: IEEE Access
   date: '2024-01-01'
   link: https://doi.org/g83667
-  orcid: 0000-0001-9985-3051
-  image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-david.yaml
-- id: 10.1109/ACCESS.2025.3584404
+- id: doi:10.1109/ACCESS.2025.3584404
   title: A Systematic Review of the Current State of Transfer Learning Accelerated
     CNN-Based Plant Leaf Disease Classification
   authors:
@@ -24,11 +22,9 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cd
-  orcid: 0000-0001-9985-3051
-  image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-david.yaml
-- id: 10.1038/s41598-025-03235-w
+- id: doi:10.1038/s41598-025-03235-w
   title: 'Assessing the performance of domain-specific models for plant leaf disease
     classification: a comprehensive benchmark of transfer-learning on open datasets'
   authors:
@@ -37,7 +33,17 @@
   publisher: Scientific Reports
   date: '2025-05-30'
   link: https://doi.org/hck6pq
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdhfj6ttU0ORjxjckF56SgO5zP_INHV4KuZVh3sx5b1Q&s=10
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.687
+  title: 'PLDC-80: A Combined Augmented Hybrid Plant Leaf Disease Classification Benchmarking
+    Dataset'
+  authors:
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6p9
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1002/pld3.70167
@@ -49,21 +55,10 @@
   publisher: Plant Direct
   date: '2026-04-01'
   link: https://doi.org/hck6vp
-  image: https://onlinelibrary.wiley.com/cms/asset/8fbf4d22-ba77-437b-bd23-22410bfb8e82/pld3.v10.9.cover.gif
   plugin: sources.py
   file: sources-david.yaml
-- id: doi:10.23173/jnu.000000076557.24010.0012721
-  title: Developing a Strong Pre-Trained Base Model for Plant Leaf Disease Classification
-  authors:
-  - David J. Richter
-  publisher: Chonnam National University Graduate School
-  date: '2025-08-31'
-  link: https://arxiv.org/abs/2605.01283
-  image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-  plugin: sources.py
-  file: sources-david.yaml
-- title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
-  doi: 10.1109/ICAIIC68212.2026.11454411
+- id: doi:10.1109/ICAIIC68212.2026.11454411
+  title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
   authors:
   - David J. Richter
   - Md Ilias Bappi
@@ -72,13 +67,11 @@
     and Communication (ICAIIC)
   date: '2026-02-24'
   link: https://doi.org/hck6b2
-  orcid: 0000-0001-9985-3051
-  image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
   plugin: sources.py
   file: sources-david.yaml
-- title: Assessing the Impact of State-Space Complexity on an Image Based DQN via
+- id: doi:10.1109/ICAIIC64266.2025.10920778
+  title: Assessing the Impact of State-Space Complexity on an Image Based DQN via
     the Game of Snake
-  doi: 10.1109/ICAIIC64266.2025.10920778
   authors:
   - David J. Richter
   - Kyungbaek Kim
@@ -86,8 +79,17 @@
     and Communication (ICAIIC)
   date: '2025-02-18'
   link: https://doi.org/hck6cb
-  orcid: 0000-0001-9985-3051
-  image: http://2025.icaiic.org/wp-content/uploads/2024/11/top_img.png
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.713
+  title: 'SSDC-MiniNet: A Tiny CNN Steel Surface Defect Classifier'
+  authors:
+  - Adam Pradipta
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6qw
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ICAIIC60209.2024.10463204
@@ -102,10 +104,10 @@
     and Communication (ICAIIC)
   date: '2024-02-19'
   link: https://doi.org/hck6n9
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSODe7J6HoRXNKlysY2RIftaldQLcyP8YYUAVhmg9cSHpVlbJfGGoSAWjM4&s=10
   plugin: sources.py
   file: sources-shivani.yaml
-- title: Design of Precision Medicine Web-service Platform Towards Health Care Digital
+- id: doi:10.1109/ICUFN57995.2023.10199942
+  title: Design of Precision Medicine Web-service Platform Towards Health Care Digital
     Twin
   authors:
   - Shivani Sanjay Kolekar
@@ -113,11 +115,8 @@
   - Kyungbaek Kim
   publisher: 2023 Fourteenth International Conference on Ubiquitous and Future Networks
     (ICUFN)
-  doi: 10.1109/ICUFN57995.2023.10199942
   date: '2023-07-04'
   link: https://doi.org/hck6ck
-  orcid: 0000-0001-9985-3051
-  image: https://d2j16w31g89z0j.cloudfront.net/site/icufn2023/common/main_ss02.gif
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.3745/PKIPS.y2021m11a.537
@@ -131,7 +130,6 @@
   publisher: Annual Conference of KIPS
   date: '2021-11-04'
   link: https://doi.org/hck6pc
-  image: https://koreascience.kr/journal/JBCRA1/y2021m11a/cover/thumb.image
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/NOMS57970.2025.11073667
@@ -143,7 +141,6 @@
   publisher: NOMS 2025-2025 IEEE Network Operations and Management Symposium
   date: '2025-05-12'
   link: https://doi.org/hck6pd
-  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR_wMG6WYoFwwhHRLwmjlXp0VZDgV_12bRB1g8pjqt2iIu9qXekEYdZLyK&s=10
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.23919/APNOMS67058.2025.11181385
@@ -155,7 +152,6 @@
   publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
   date: '2025-09-22'
   link: https://doi.org/hck6pf
-  image: https://www.dbpia.co.kr/img_cover/is_Cover/is_486661b.jpg
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ICDCSW72724.2026.00017
@@ -168,10 +164,10 @@
     Workshops (ICDCSW)
   date: '2026-06-01'
   link: https://doi.org/hck6pg
-  image: https://icdcs2026.icdcs.org/wp-content/uploads/2025/12/seoul2-e1767041386860.jpg
   plugin: sources.py
   file: sources-shivani.yaml
-- title: 'ATC-FL: Adaptive Thompson Sampling for Efficient Clustering in Federated
+- id: doi:10.1109/ACCESS.2026.3676500
+  title: 'ATC-FL: Adaptive Thompson Sampling for Efficient Clustering in Federated
     Learning'
   authors:
   - Shivani Sanjay Kolekar
@@ -179,11 +175,8 @@
   - David J. Richter
   - Kyungbaek Kim
   publisher: IEEE Access
-  doi: 10.1109/ACCESS.2026.3676500
   date: '2026-01-01'
   link: https://doi.org/hck6b3
-  orcid: 0000-0001-9985-3051
-  image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454181
@@ -198,10 +191,10 @@
     and Communication (ICAIIC)
   date: '2026-02-24'
   link: https://doi.org/hck6ph
-  image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
   plugin: sources.py
   file: sources-shivani.yaml
-- title: 'A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients
+- id: doi:10.1109/ACCESS.2025.3623702
+  title: 'A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients
     With Chronic Obstructive Pulmonary Disease: A Secondary Analysis'
   authors:
   - Hyeonseok Jin
@@ -209,24 +202,19 @@
   - Sehyun Cho
   - Kyungbaek Kim
   publisher: IEEE Access
-  doi: 10.1109/ACCESS.2025.3623702
   date: '2025-01-01'
   link: https://doi.org/hck6cc
-  orcid: 0000-0001-9985-3051
-  image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-hyeonseok.yaml
-- title: 'DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction With
+- id: doi:10.1109/ACCESS.2025.3573639
+  title: 'DATC-STP: Towards Accurate yet Efficient Spatiotemporal Prediction With
     Transformer-Style CNN'
   authors:
   - Hyeonseok Jin
   - Kyungbaek Kim
   publisher: IEEE Access
-  doi: 10.1109/ACCESS.2025.3573639
   date: '2025-01-01'
   link: https://doi.org/hck6cf
-  orcid: 0000-0001-9985-3051
-  image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/TKIPS.2025.14.2.123
@@ -240,10 +228,10 @@
   publisher: The Transactions of the Korea Information Processing Society
   date: '2025-02-28'
   link: https://doi.org/hck6nc
-  image: https://koreascience.or.kr/journal/JBCRMH/v14n2/cover/thumb.image
   plugin: sources.py
   file: sources-hyeonseok.yaml
-- title: Enhancing deep learning models for predicting smoking Status using clinical
+- id: doi:10.1177/20552076251393380
+  title: Enhancing deep learning models for predicting smoking Status using clinical
     data in patients with chronic obstructive pulmonary disease
   authors:
   - Sehyun Cho
@@ -252,11 +240,8 @@
   - Sola Cho
   - Ja Yun Choi
   publisher: DIGITAL HEALTH
-  doi: 10.1177/20552076251393380
   date: '2025-05-01'
   link: https://doi.org/hck6b9
-  orcid: 0000-0001-9985-3051
-  image: https://journals.sagepub.com/cms/asset/78eff45f-1633-4a2f-92ed-18cd8b37a4d3/default_cover.png
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.48550/arXiv.2507.11550
@@ -269,29 +254,17 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/hck6nd
-  image: https://info.arxiv.org/brand/images/brand-logomark-primary-large.jpg
   plugin: sources.py
   file: sources-hyeonseok.yaml
-- title: CNN-based Multi-In-Multi-Out Model for Efficient Spatiotemporal Prediction
-  authors:
-  - Hyeonseok Jin
-  publisher: Chonnam National University Graduate School
-  link: https://arxiv.org/abs/2605.01283
-  doi: 10.23173/jnu.000000076408.24010.0012633
-  date: ''
-  image: https://thumb.wikimedia.org/wikipedia/en/thumb/7/7f/Chonnam_National_University_logo.svg/250px-Chonnam_National_University_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail
-  plugin: sources.py
-  file: sources-hyeonseok.yaml
-- title: 'TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective
+- id: doi:10.3745/PKIPS.y2025m05a.683
+  title: 'TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective
     Building Energy Prediction'
   authors:
   - Hyeonseok Jin
   - Kyungbaek Kim
-  doi: 10.3745/PKIPS.y2025m05a.683
-  date: ''
-  image: https://koreascience.or.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
-  publisher: KIPS
-  link: https://koreascience.or.kr/article/CFKO202521043204754.page
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6pb
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/JIPS.01.0024
@@ -305,34 +278,32 @@
   image: https://d2kjln74dkk4oj.cloudfront.net/img/journals/jips/JIPS_engpaper.jpg
   plugin: sources.py
   file: sources.yaml
-- title: "Deep learning-based diabetic retinopathy recognition and grading: Challenges,\
+- id: doi:10.1016/j.icte.2025.08.001
+  title: "Deep learning-based diabetic retinopathy recognition and grading: Challenges,\
     \ gaps, and an improved approach \u2014 A survey"
   authors:
   - Md Ilias Bappi
   - Jannat Afrin Juthy
   - Kyungbaek Kim
   publisher: ICT Express
-  doi: 10.1016/j.icte.2025.08.001
   date: '2025-10-01'
   link: https://doi.org/hck533
-  orcid: 0000-0001-9985-3051
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2405959525X00060-cov200h.gif
   plugin: sources.py
   file: sources-bappi.yaml
-- title: Assessing the Effectiveness of Augmentation Techniques in Enhancing Plant
+- id: doi:10.30693/SMJ.2025.14.1.17
+  title: Assessing the Effectiveness of Augmentation Techniques in Enhancing Plant
     Leaf Disease Classification
   authors:
   - MD Ilias Bappi MD Ilias Bappi
   - David J. Richter David J. Richter
   - Kyungbaek Kim
   publisher: Korean Institute of Smart Media
-  doi: 10.30693/SMJ.2025.14.1.17
   date: '2025-01-31'
   link: https://doi.org/hck534
-  image: https://koreascience.kr/journal/SMTMSH/v14n1/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
-- title: 'HCLmNet: A unified hybrid continual learning strategy multimodal network
+- id: doi:10.1371/journal.pone.0316509
+  title: 'HCLmNet: A unified hybrid continual learning strategy multimodal network
     for lung cancer survival prediction'
   authors:
   - MD Ilias Bappi
@@ -340,14 +311,12 @@
   - Shivani Sanjay Kolekar
   - Kyungbaek Kim
   publisher: PLOS One
-  doi: 10.1371/journal.pone.0316509
   date: '2026-03-24'
   link: https://doi.org/hck535
-  orcid: 0000-0001-9985-3051
-  image: https://wellbeingandequity.org/wp-content/uploads/2024/07/PLOSJournal_image.png
   plugin: sources.py
   file: sources-bappi.yaml
-- title: 'STMFNet: Spatial Texture Multi-Scale Feature Fusion Attention Network for
+- id: doi:10.1109/ICAIIC64266.2025.10920810
+  title: 'STMFNet: Spatial Texture Multi-Scale Feature Fusion Attention Network for
     Diabetic Retinopathy Classification'
   authors:
   - MD Ilias Bappi
@@ -356,25 +325,11 @@
   publisher: 2025 International Conference on Artificial Intelligence in Information
     and Communication (ICAIIC)
   date: '2025-02-18'
-  doi: 10.1109/ICAIIC64266.2025.10920810
   link: https://doi.org/hck536
-  image: http://2025.icaiic.org/wp-content/uploads/2024/11/top_img.png
   plugin: sources.py
   file: sources-bappi.yaml
-- title: An encoder-based defense mechanism against adversarial attacks in plant leaf
-    disease classification
-  authors:
-  - Md Ilias Bappi
-  - Taejune Park
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  doi: 10.3745/PKIPS.y2025m11a.256
-  date: '2025-11-06'
-  link: https://doi.org/hck537
-  image: https://koreascience.kr/journal/JBCRA1/y2025m11a/cover/thumb.image
-  plugin: sources.py
-  file: sources-bappi.yaml
-- title: 'Enhancing Employee Turnover Prediction: An Advanced Feature Engineering
+- id: doi:10.32604/csse.2025.069213
+  title: 'Enhancing Employee Turnover Prediction: An Advanced Feature Engineering
     Analysis with CatBoost'
   authors:
   - Md Monir Ahammod Bin Atique
@@ -385,12 +340,11 @@
   - Pranta Kumar Sarkar
   publisher: Computer Systems Science and Engineering
   date: '2025-01-01'
-  doi: 10.32604/csse.2025.069213
   link: https://doi.org/hck538
-  image: https://file.techscience.com/uploads/eb0a46cedc690148262595d545ae35d4.jpg?t=20220620
   plugin: sources.py
   file: sources-bappi.yaml
-- title: Multi-Scale Convolutional Reconstruction Defense Against Adversarial and
+- id: doi:10.1109/ICAIIC68212.2026.11454422
+  title: Multi-Scale Convolutional Reconstruction Defense Against Adversarial and
     Real-World Corruptions in Plant Disease Recognition
   authors:
   - MD Ilias Bappi
@@ -399,58 +353,19 @@
   - Kyungbaek Kim
   publisher: 2026 International Conference on Artificial Intelligence in Information
     and Communication (ICAIIC)
-  doi: 10.1109/ICAIIC68212.2026.11454422
   date: '2026-02-24'
   link: https://doi.org/hck54f
-  image: http://2026.icaiic.org/wp-content/uploads/2025/12/top_img-1.png
   plugin: sources.py
   file: sources-bappi.yaml
-- title: Robust Self-Supervised Learning for Reliable Pain Assessment under Incomplete
-    Physiological Signals
-  authors:
-  - Md Ilias Bappi
-  - Urusha Shakhakarmi
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  doi: 10.3745/PKIPS.y2026m05a.725
-  date: '2026-05-20'
-  link: https://doi.org/hck54h
-  image: https://koreascience.kr/journal/JBCRA1/y2026m05a/cover/thumb.image
-  plugin: sources.py
-  file: sources-bappi.yaml
-- title: Enhancing Vision-Based Cigarette Smoke Detection in Smart Vehicles by Transfer
+- id: doi:10.9728/dcs.2025.26.4.1041
+  title: Enhancing Vision-Based Cigarette Smoke Detection in Smart Vehicles by Transfer
     Learning
   authors:
   - MD Ilias Bappi
   - Hyeonseok Jin
   - Kyungbaek Kim
   publisher: Journal of Digital Contents Society
-  doi: 10.9728/dcs.2025.26.4.1041
   date: '2025-04-30'
   link: https://doi.org/hck54j
-  image: http://journal.dcs.or.kr/images/basic/book.jpg
-  plugin: sources.py
-  file: sources-bappi.yaml
-- title: Exploring the Impact of Data Augmentation Techniques on Parkinsons Disease
-    Detection Using S-BERT
-  authors:
-  - Md Ilias Bappi
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  doi: 10.3745/PKIPS.y2025m05a.705
-  date: '2025-05-29'
-  link: https://doi.org/hck54k
-  image: https://koreascience.kr/journal/JBCRA1/y2025m05a/cover/thumb.image
-  plugin: sources.py
-  file: sources-bappi.yaml
-- title: Precision Lung Cancer Segmentation from CT &amp; PET Images Using Mask2Former
-  authors:
-  - Md Ilias Bappi
-  - Kyungbeak Kim
-  publisher: Annual Conference of KIPS
-  doi: 10.3745/PKIPS.y2024m10a.653
-  date: '2024-10-31'
-  link: https://doi.org/hck54m
-  image: https://koreascience.kr/journal/JBCRA1/y2024m10a/cover/thumb.image
   plugin: sources.py
   file: sources-bappi.yaml
