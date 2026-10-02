@@ -828,3 +828,46 @@
   link: https://doi.org/hck54m
   plugin: sources.py
   file: sources-bappi.yaml
+- id: doi:10.23919/APNOMS67058.2025.11181398
+  title: Edge-Based Policy Caching for Low Latency Security Enforcement in Hybrid
+    Clouds
+  authors:
+  - Geonmin Kim
+  - Yejin Kim
+  - Eunseong Lee
+  - Hyeonji Jang
+  - Kyungbaek Kim
+  publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2025-09-22'
+  link: https://doi.org/hck823
+  plugin: sources.py
+  file: sources-geonmin.yaml
+- id: doi:10.1109/ICUFN69619.2026.11628618
+  title: Communication-Aware Adaptive Decentralized Traffic Signal Control via Broadcast
+    gate
+  authors:
+  - Minjun Choi
+  - Geonmin Kim
+  - Hyeonji Jang
+  - Md Illias Bappi
+  - Kyungbaek Kim
+  publisher: 2026 Seventeenth International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2026-07-01'
+  link: https://doi.org/hck824
+  plugin: sources.py
+  file: sources-geonmin.yaml
+- id: doi:10.1109/ICAIIC68212.2026.11454309
+  title: 'HCAPO: Transformer-Based Adaptive Policy Orchestration for Hybrid-Cloud
+    Security'
+  authors:
+  - Geonmin Kim
+  - Yejin Kim
+  - Taerim Kim
+  - Kyungbaek Kim
+  publisher: 2026 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2026-02-24'
+  link: https://doi.org/hck825
+  plugin: sources.py
+  file: sources-geonmin.yaml
