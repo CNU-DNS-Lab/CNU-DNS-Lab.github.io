@@ -1,6 +1,6 @@
 ---
 name: Kyungbaek Kim
-image: images/photo.jpg
+image: images/kim.png
 role: professor
 affiliation: Chonnam National University
 links:
