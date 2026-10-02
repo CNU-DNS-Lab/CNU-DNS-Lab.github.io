@@ -2,6 +2,7 @@
 name: Ugur Ercelik
 image: images/ugur.png
 role: phd
+affiliation: Chonnam National University
 links:
   github: UgurErcelik
   google-scholar: https://scholar.google.com/citations?user=fu2zI0YAAAAJ
