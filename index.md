@@ -48,7 +48,7 @@ For projects, code, datasets and other resources check the projects page.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/tomato.jpg"
   link="projects"
   title="Our Projects"
   flip=true
