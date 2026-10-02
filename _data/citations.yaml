@@ -92,6 +92,38 @@
   link: https://doi.org/hck6qw
   plugin: sources.py
   file: sources-david.yaml
+- id: doi:10.1109/NOMS59830.2024.10575786
+  title: 'GTT-NTP: A Graph Convolutional Networks-Based Network Traffic Prediction
+    model'
+  authors:
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: NOMS 2024-2024 IEEE Network Operations and Management Symposium
+  date: '2024-05-06'
+  link: https://doi.org/g8p3ch
+  plugin: sources.py
+  file: sources-longfei-chen.yaml
+- id: doi:10.1109/ACCESS.2025.3545117
+  title: 'STE-NTP: A Long-Short Period Aware Network Traffic Prediction Model'
+  authors:
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
+  link: https://doi.org/hck6cg
+  plugin: sources.py
+  file: sources-longfei-chen.yaml
+- id: doi:10.1109/ACCESS.2024.3405957
+  title: Multi-Convolutional Channel Residual Spatial Attention U-Net for Industrial
+    and Medical Image Segmentation
+  authors:
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/hck6ch
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/ICAIIC60209.2024.10463204
   title: 'Advancing AI Voice Synthesis: Integrating Emotional Expression in Multi-Speaker
     Voice Generation'
@@ -554,17 +586,6 @@
   publisher: Lecture Notes in Computer Science
   date: '2003-01-01'
   link: https://doi.org/bxsdbh
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/ACCESS.2024.3405957
-  title: Multi-Convolutional Channel Residual Spatial Attention U-Net for Industrial
-    and Medical Image Segmentation
-  authors:
-  - Haoyu Chen
-  - Kyungbaek Kim
-  publisher: IEEE Access
-  date: '2024-01-01'
-  link: https://doi.org/hck6ch
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2018EDL8020
