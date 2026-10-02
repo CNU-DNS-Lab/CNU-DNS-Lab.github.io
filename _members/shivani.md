@@ -5,7 +5,6 @@ role: phd
 affiliation: Chonnam National University
 links:
   email: shivanikolekar@gmail.com
-  orcid: 0009-0005-8108-6268
   google-scholar: https://scholar.google.com/citations?user=_E95NsMAAAAJ
 ---
 
