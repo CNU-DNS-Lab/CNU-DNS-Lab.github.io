@@ -10,7 +10,7 @@
   date: '2024-01-01'
   link: https://doi.org/g83667
   plugin: sources.py
-  file: sources-david.yaml
+  file: sources.yaml
 - id: doi:10.1109/ACCESS.2025.3584404
   title: A Systematic Review of the Current State of Transfer Learning Accelerated
     CNN-Based Plant Leaf Disease Classification
@@ -118,7 +118,7 @@
   date: '2023-07-04'
   link: https://doi.org/hck6ck
   plugin: sources.py
-  file: sources-shivani.yaml
+  file: sources.yaml
 - id: doi:10.3745/PKIPS.y2021m11a.537
   title: Web based Microservice Framework for Survival Analysis of Lung Cancer Patient
     using Digital Twin
@@ -275,7 +275,400 @@
   publisher: Journal of Information Processing Systems
   date: '2018-02-28'
   link: https://doi.org/ggjjpd
-  image: https://d2kjln74dkk4oj.cloudfront.net/img/journals/jips/JIPS_engpaper.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/INFCOM.2011.5935047
+  title: 'SocialFilter: Introducing social trust to collaborative spam mitigation'
+  authors:
+  - Michael Sirivianos
+  - Kyungbaek Kim
+  - Xiaowei Yang
+  publisher: 2011 Proceedings IEEE INFOCOM
+  date: '2011-04-01'
+  link: https://doi.org/cmxtt7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3184066.3184089
+  title: Design and implementation of intrusion detection system using convolutional
+    neural network for DoS detection
+  authors:
+  - Sinh-Ngoc Nguyen
+  - Van-Quyet Nguyen
+  - Jintae Choi
+  - Kyungbaek Kim
+  publisher: Proceedings of the 2nd International Conference on Machine Learning and
+    Soft Computing
+  date: '2018-02-02'
+  link: https://doi.org/hck6dh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2488222.2489273
+  title: DYNATOPS
+  authors:
+  - Ye Zhao
+  - Kyungbaek Kim
+  - Nalini Venkatasubramanian
+  publisher: Proceedings of the 7th ACM international conference on Distributed event-based
+    systems
+  date: '2013-06-29'
+  link: https://doi.org/hck6d6
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.9728/dcs.2017.18.1.149
+  title: Design of a Platform for Collecting and Analyzing Agricultural Big Data
+  authors:
+  - Van-Quyet Nguyen
+  - Sinh Ngoc Nguyen
+  - Kyungbaek Kim
+  publisher: Journal of Digital Contents Society
+  date: '2017-02-28'
+  link: https://doi.org/hck8zv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICOIN.2015.7057934
+  title: Assessing the impact of resource attack in Software Defined Network
+  authors:
+  - Hiep T. Nguyen Tri
+  - Kyungbaek Kim
+  publisher: 2015 International Conference on Information Networking (ICOIN)
+  date: '2015-01-01'
+  link: https://doi.org/g75t9k
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2022.3169616
+  title: LSTM-Based Collaborative Source-Side DDoS Attack Detection
+  authors:
+  - Sungwoong Yeom
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/hck6cs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3426020.3426170
+  title: Empirical Study on SAT-Encodings of the At-Most-One Constraint
+  authors:
+  - Van-Hau Nguyen
+  - Van-Quyet Nguyen
+  - Kyungbaek Kim
+  - Pedro Barahona
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
+  link: https://doi.org/hck6c8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/BigMM.2017.58
+  title: Real-Time Earthquake Detection Using Convolutional Neural Network and Social
+    Data
+  authors:
+  - Nguyen Van Quan
+  - Hyung-Jeong Yang
+  - Kyungbaek Kim
+  - A-Ran Oh
+  publisher: 2017 IEEE Third International Conference on Multimedia Big Data (BigMM)
+  date: '2017-04-01'
+  link: https://doi.org/hck6dq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/GLOCOM.2010.5685229
+  title: Assessing the Impact of Geographically Correlated Failures on Overlay-Based
+    Data Dissemination
+  authors:
+  - Kyungbaek Kim
+  - Nalini Venkatasubramanian
+  publisher: 2010 IEEE Global Telecommunications Conference GLOBECOM 2010
+  date: '2010-12-01'
+  link: https://doi.org/bz5p69
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/app15148089
+  title: 'A Survey on Video Big Data Analytics: Architecture, Technologies, and Open
+    Research Challenges'
+  authors:
+  - Thi-Thu-Trang Do
+  - Quyet-Thang Huynh
+  - Kyungbaek Kim
+  - Van-Quyet Nguyen
+  publisher: Applied Sciences
+  date: '2025-07-21'
+  link: https://doi.org/hck6b8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/MASCOT.2002.1167062
+  title: 'DFS: a de-fragmented file system'
+  authors:
+  - ' Woo Hyun Ahn'
+  - ' Kyungbaek Kim'
+  - ' Yongjin Choi'
+  - ' Daeyeon Park'
+  publisher: Proceedings. 10th IEEE International Symposium on Modeling, Analysis
+    and Simulation of Computer and Telecommunications Systems
+  date: ''
+  link: https://doi.org/dsg8qd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/electronics11182938
+  title: A Smart Evacuation Guidance System for Large Buildings
+  authors:
+  - Van-Quyet Nguyen
+  - Huy-The Vu
+  - Van-Hau Nguyen
+  - Kyungbaek Kim
+  publisher: Electronics
+  date: '2022-09-16'
+  link: https://doi.org/hck6cp
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-10-5041-1_43
+  title: Assessing the Impact of DoS Attacks on IoT Gateway
+  authors:
+  - Yungee Lee
+  - Wangkwang Lee
+  - Giwon Shin
+  - Kyungbaek Kim
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2017-01-01'
+  link: https://doi.org/hck6dj
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SRDS.2012.35
+  title: 'GSFord: Towards a Reliable Geo-social Notification System'
+  authors:
+  - Kyungbaek Kim
+  - Ye Zhao
+  - Nalini Venkatasubramanian
+  publisher: 2012 IEEE 31st Symposium on Reliable Distributed Systems
+  date: '2012-10-01'
+  link: https://doi.org/hck6d8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TPDS.2013.280
+  title: Efficient and Reliable Application Layer Multicast for Flash Dissemination
+  authors:
+  - Kyungbaek Kim
+  - Sharad Mehrotra
+  - Nalini Venkatasubramanian
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2014-10-01'
+  link: https://doi.org/f6hvgs
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TC.2012.68
+  title: 'ReCREW: A Reliable Flash-Dissemination System'
+  authors:
+  - M. Deshpande
+  - ' Kyungbaek Kim'
+  - B. Hore
+  - S. Mehrotra
+  - N. Venkatasubramanian
+  publisher: IEEE Transactions on Computers
+  date: '2013-07-01'
+  link: https://doi.org/f4znw8
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3412841.3441987
+  title: Source-side DoS attack detection with LSTM and seasonality embedding
+  authors:
+  - Sungwoong Yeom
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: Proceedings of the 36th Annual ACM Symposium on Applied Computing
+  date: '2021-03-22'
+  link: https://doi.org/hck6c3
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-642-16955-7_9
+  title: 'FaReCast: Fast, Reliable Application Layer Multicast for Flash Dissemination'
+  authors:
+  - Kyungbaek Kim
+  - Sharad Mehrotra
+  - Nalini Venkatasubramanian
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
+  link: https://doi.org/cff3wr
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/ietisy/e90-d.9.1452
+  title: Reducing Replication Overhead for Data Durability in DHT Based P2P System
+  authors:
+  - K. KIM
+  - D. PARK
+  publisher: IEICE Transactions on Information and Systems
+  date: '2007-09-01'
+  link: https://doi.org/bmkbx4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/APNOMS50412.2020.9237014
+  title: Improving Performance of Collaborative Source-Side DDoS Attack Detection
+  authors:
+  - Sungwoong Yeom
+  - Kyungbaek Kim
+  publisher: 2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2020-09-01'
+  link: https://doi.org/hck6db
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/SMARTCOMP.2019.00065
+  title: A Scalable Approach for Dynamic Evacuation Routing in Large Smart Buildings
+  authors:
+  - Van-Quyet Nguyen
+  - Huu-Duy Nguyen
+  - Quyet-Thang Huynh
+  - Nalini Venkatasubramanian
+  - Kyungbaek Kim
+  publisher: 2019 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2019-06-01'
+  link: https://doi.org/hck6df
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IoTDI.2015.40
+  title: Resilient Overlays for IoT-Based Community Infrastructure Communications
+  authors:
+  - Kyle E. Benson
+  - Qing Han
+  - Kyungbaek Kim
+  - Phu Nguyen
+  - Nalini Venkatasubramanian
+  publisher: 2016 IEEE First International Conference on Internet-of-Things Design
+    and Implementation (IoTDI)
+  date: '2016-04-01'
+  link: https://doi.org/hck6dv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICN.2008.27
+  title: Time-Related Replication for P2P Storage System
+  authors:
+  - Kyungbaek Kim
+  publisher: Seventh International Conference on Networking (icn 2008)
+  date: '2008-04-01'
+  link: https://doi.org/br5xhq
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-540-45076-4_9
+  title: Efficient and Scalable Client-Clustering for Proxy Cache
+  authors:
+  - Kyungbaek Kim
+  - Woo Jin Kim
+  - Daeyeon Park
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
+  link: https://doi.org/bxsdbh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2024.3405957
+  title: Multi-Convolutional Channel Residual Spatial Attention U-Net for Industrial
+    and Medical Image Segmentation
+  authors:
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2024-01-01'
+  link: https://doi.org/hck6ch
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1587/transinf.2018EDL8020
+  title: Source-Side Detection of DRDoS Attack Request with Traffic-Aware Adaptive
+    Threshold
+  authors:
+  - Sinh-Ngoc NGUYEN
+  - Van-Quyet NGUYEN
+  - Giang-Truong NGUYEN
+  - JeongNyeo KIM
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2018-06-01'
+  link: https://doi.org/gd7mz4
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/COMSNETS.2012.6151325
+  title: Assessing the veracity of identity assertions via OSNs
+  authors:
+  - Michael Sirivianos
+  - Kyungbaek Kim
+  - Jian Wei Gan
+  - Xiaowei Yang
+  publisher: 2012 Fourth International Conference on Communication Systems and Networks
+    (COMSNETS 2012)
+  date: '2012-01-01'
+  link: https://doi.org/hck6d7
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICPADS.2001.934898
+  title: Least Popularity-Per-Byte Replacement algorithm for a proxy cache
+  authors:
+  - ' Kyungbaek Kim'
+  - ' Daeyeon Park'
+  publisher: Proceedings. Eighth International Conference on Parallel and Distributed
+    Systems. ICPADS 2001
+  date: ''
+  link: https://doi.org/cqzgkh
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3426020.3426093
+  title: AutoEncoder Based Feature Extraction for Multi-Malicious Traffic Classification
+  authors:
+  - Sungwoong Yeom
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
+  link: https://doi.org/hck6c5
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3837/tiis.2019.05.023
+  title: Traffic Seasonality aware Threshold Adjustment for Effective Source-side
+    DoS Attack Detection
+  authors: []
+  publisher: KSII Transactions on Internet and Information Systems
+  date: '2019-05-31'
+  link: https://doi.org/hck6dg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/2543711
+  title: Leveraging Social Feedback to Verify Online Identity Claims
+  authors:
+  - Michael Sirivianos
+  - Kyungbaek Kim
+  - Jian Wei Gan
+  - Xiaowei Yang
+  publisher: ACM Transactions on the Web
+  date: '2014-03-01'
+  link: https://doi.org/hck6dz
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3426020.3426072
+  title: Survey on Reinforcement Learning based Efficient Routing in SDN
+  authors:
+  - Hong-Nam Quach
+  - Sungwoong Yeom
+  - Kyungbaek Kim
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
+  link: https://doi.org/hck6dd
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.9728/dcs.2020.21.5.959
+  title: Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease
+    Classification
+  authors:
+  - Ji-yeon Park
+  - Hyeon-ji Kim
+  - Kyungbaek Kim
+  publisher: Journal of Digital Contents Society
+  date: '2020-05-31'
+  link: https://doi.org/grns59
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1587/transinf.2017EDL8060
+  title: Efficient Regular Path Query Evaluation by Splitting with Unit-Subquery Cost
+    Matrix
+  authors:
+  - Van-Quyet NGUYEN
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2017-01-01'
+  link: https://doi.org/gcr68r
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1016/j.icte.2025.08.001
