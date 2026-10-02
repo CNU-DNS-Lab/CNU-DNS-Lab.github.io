@@ -1,20 +1,14 @@
 ---
-name: Jane Smith
+name: Kyungbaek Kim
 image: images/photo.jpg
-role: principal-investigator
-affiliation: University of Colorado
-aliases:
-  - J. Smith
-  - J Smith
+role: professor
+affiliation: Chonnam National University
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: http://kyungbaekkim.jnu.ac.kr
+  orcid: 0000-0001-9985-3051
+  phone: +82-62-530-3438
+  scholar: https://scholar.google.com/citations?user=hRITYcMAAAAJ
+  email: kyungbaekkim@jnu.ac.kr
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+KYUNGBAEK KIM (Member, IEEE) received the B.S., M.S., and Ph.D. degrees in electrical engineering and computer science from Korea Advanced Institute of Science and Technology (KAIST), South Korea, in 1999, 2001, and 2007,  respectively. He is currently a Professor with the Department of Artificial Intelligence Convergence, Chonnam National University. Previously, he was a Postdoctoral Researcher with the Department of Computer Sciences,  University of California, Irvine, CA, USA. His research interests include intelligent distributed systems, software-defined networks/infrastructure, big data platform, GRID/cloud systems, social networking systems, AI  applied cyberphysical systems, blockchain, and other issues of distributed systems. He is a member of ACM, IEICE, KIISE, KIPS, KICS, KIISC, and KISM.
