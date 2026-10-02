@@ -256,6 +256,17 @@
   link: https://doi.org/hck6nd
   plugin: sources.py
   file: sources-hyeonseok.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.683
+  title: 'TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective
+    Building Energy Prediction'
+  authors:
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6pb
+  plugin: sources.py
+  file: sources-hyeonseok.yaml
 - id: doi:10.3745/JIPS.01.0024
   title: A Survey about Consensus Algorithms Used in Blockchain
   authors:
