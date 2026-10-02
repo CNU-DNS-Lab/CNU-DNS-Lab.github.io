@@ -2,17 +2,18 @@
   subtitle: Benchmarking Dataset for Plant Leaf Disease Classification
   group: featured
   image: images/pldc80.png
-  link: https://github.com/JDatPNW/PLDC-Net
+  link: https://github.com/CNU-DNS-Lab/PLDC-Net
   description: Instructions for building PLDC-80, aBenchmarking Dataset for Plant Leaf Disease Classification, from public sources.
-  repo: JDatPNW/PLDC-Net
+  repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - resource
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: PLDC-Net
+  subtitle: PLDC-Net implemented using TensorFlow and Keras
+  group: featured
+  image: images/pldcnet.png
+  link: https://github.com/CNU-DNS-Lab/PLDC-Net
+  description: This repository includes the code for the architecture of PLDC-Net as well as a script to with the set up to train it. The default parameters are set to be the same as they were in the paper when the model was trained on PLDC-80.
+  repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - software
