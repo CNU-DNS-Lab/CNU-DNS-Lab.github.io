@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Contact DNS Lab through on of the options below.
+For any questions, inquiries, or collaboration requests, etc. feel free to contact DNS Lab through one of the options below.
 
 {%
   include button.html
