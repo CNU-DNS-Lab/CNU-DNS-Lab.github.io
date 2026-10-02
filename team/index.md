@@ -16,11 +16,11 @@ Meet our Professor, current students in DNS Lab, as well as alumni that worked a
 
 ## Current Students
 ### PhD
-{% include list.html data="members" component="portrait" filter="role == 'phd'" filter="group != 'alumn'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alumn'" %}
 ### Master
-{% include list.html data="members" component="portrait" filter="role == 'master'" filter="group != 'alumn'" %}
+{% include list.html data="members" component="portrait" filter="role == 'master' and group != 'alumn'" %}
 ### Undergraduate
-{% include list.html data="members" component="portrait" filter="role == 'undergrad'" filter="group != 'alumn'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alumn'" %}
 
 ## Alumni
 
