@@ -317,6 +317,18 @@
   link: https://doi.org/hck536
   plugin: sources.py
   file: sources-bappi.yaml
+- id: doi:10.3745/PKIPS.y2025m11a.256
+  title: An encoder-based defense mechanism against adversarial attacks in plant leaf
+    disease classification
+  authors:
+  - Md Ilias Bappi
+  - Taejune Park
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-11-06'
+  link: https://doi.org/hck537
+  plugin: sources.py
+  file: sources-bappi.yaml
 - id: doi:10.32604/csse.2025.069213
   title: 'Enhancing Employee Turnover Prediction: An Advanced Feature Engineering
     Analysis with CatBoost'
@@ -346,6 +358,18 @@
   link: https://doi.org/hck54f
   plugin: sources.py
   file: sources-bappi.yaml
+- id: doi:10.3745/PKIPS.y2026m05a.725
+  title: Robust Self-Supervised Learning for Reliable Pain Assessment under Incomplete
+    Physiological Signals
+  authors:
+  - Md Ilias Bappi
+  - Urusha Shakhakarmi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2026-05-20'
+  link: https://doi.org/hck54h
+  plugin: sources.py
+  file: sources-bappi.yaml
 - id: doi:10.9728/dcs.2025.26.4.1041
   title: Enhancing Vision-Based Cigarette Smoke Detection in Smart Vehicles by Transfer
     Learning
@@ -356,5 +380,26 @@
   publisher: Journal of Digital Contents Society
   date: '2025-04-30'
   link: https://doi.org/hck54j
+  plugin: sources.py
+  file: sources-bappi.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.705
+  title: "Exploring the Impact of Data Augmentation Techniques on Parkinson\u2019\
+    s Disease Detection Using S-BERT"
+  authors:
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck54k
+  plugin: sources.py
+  file: sources-bappi.yaml
+- id: doi:10.3745/PKIPS.y2024m10a.653
+  title: Precision Lung Cancer Segmentation from CT &amp; PET Images Using Mask2Former
+  authors:
+  - Md Ilias Bappi
+  - Kyungbeak Kim
+  publisher: Annual Conference of KIPS
+  date: '2024-10-31'
+  link: https://doi.org/hck54m
   plugin: sources.py
   file: sources-bappi.yaml
