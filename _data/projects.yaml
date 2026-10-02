@@ -3,10 +3,10 @@
   group: featured
   image: images/pldc80.png
   link: https://github.com/CNU-DNS-Lab/PLDC-Net
-  description: Instructions for building PLDC-80, aBenchmarking Dataset for Plant Leaf Disease Classification, from public sources.
+  description: Instructions for building PLDC-80, a Benchmarking Dataset for Plant Leaf Disease Classification, from public sources.
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
-    - resource
+    - dataset
 
 - title: PLDC-Net
   subtitle: PLDC-Net implemented using TensorFlow and Keras
@@ -17,3 +17,4 @@
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - software
+
