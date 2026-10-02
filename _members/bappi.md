@@ -1,6 +1,6 @@
 ---
 name: Md Ilias Bappi
-image: images/bappi.jpg
+image: images/bappi.png
 role: phd
 affiliation: Chonnam National University
 links:
