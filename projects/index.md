@@ -9,7 +9,7 @@ nav:
 
 Here we link to open source repositories and datasets provided by our lab.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="publication, resource, software" %}
 
 {% include search-info.html %}
 
