@@ -25,7 +25,7 @@ Contact DNS Lab through on of the options below.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="[https://www.google.com/maps](https://maps.app.goo.gl/PYjDM7a6x5no42HW7)"
+  link="https://maps.app.goo.gl/PYjDM7a6x5no42HW7"
 %}
 
 {% include section.html %}
