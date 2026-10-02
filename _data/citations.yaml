@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.3745/PKIPS.y2025m11a.787
+  title: Efficient Fashion Complementary Prediction via 4-bit Quantized LLM Fine-Tuning
+    with LoRA
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-11-06'
+  link: https://doi.org/hck827
+  plugin: sources.py
+  file: sources-roshidat.yaml
+- id: doi:10.3745/PKIPS.y2024m10a.660
+  title: A Study of MultiModal Foundation Model in Fashion Recommendation
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbeak Kim
+  publisher: Annual Conference of KIPS
+  date: '2024-10-31'
+  link: https://doi.org/hck828
+  plugin: sources.py
+  file: sources-roshidat.yaml
 - id: doi:10.1109/ACCESS.2024.3433540
   title: A Review of Reinforcement Learning for Fixed-Wing Aircraft Control Tasks
   authors:
@@ -92,6 +113,30 @@
   link: https://doi.org/hck6qw
   plugin: sources.py
   file: sources-david.yaml
+- id: doi:10.1109/ACCESS.2026.3650927
+  title: An Improved Small Defect Classification System Using Image Patching Methodology
+    on Aluminum Car Doors
+  authors:
+  - Ugur Ercelik
+  - Hyeonseok Jin
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hck6b4
+  plugin: sources.py
+  file: sources-ugur.yaml
+- id: doi:10.3745/PKIPS.y2026m05a.729
+  title: Distance-Aware LiDAR Odometry with Dynamic Object Suppression Using Two-Stage
+    ICP
+  authors:
+  - Ugur Ercelik
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2026-05-20'
+  link: https://doi.org/hck826
+  plugin: sources.py
+  file: sources-ugur.yaml
 - id: doi:10.1109/NOMS59830.2024.10575786
   title: 'GTT-NTP: A Graph Convolutional Networks-Based Network Traffic Prediction
     model'
