@@ -22,7 +22,7 @@ His interests include:
 - Reinforcement Learning
 - Smart Digital Agriculture
 - Evolutionary Programming
-- {: style="margin-left: 2rem; display: flow-root;" }
+{: style="margin-left: 2rem; display: flow-root;" }
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
