@@ -1,4 +1,4 @@
-# decided to also add non first author papers since they seem to be from former bachelor students that I do not know. But only english papers.
 - id: doi:10.23919/APNOMS67058.2025.11181398
-- id: doi:10.1109/ICUFN69619.2026.11628618
+  highlight: true
 - id: doi:10.1109/ICAIIC68212.2026.11454309
+  highlight: true
