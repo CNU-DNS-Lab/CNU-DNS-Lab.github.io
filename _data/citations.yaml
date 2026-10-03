@@ -323,6 +323,7 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cc
+  highlight: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.1109/ACCESS.2025.3573639
@@ -334,6 +335,7 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cf
+  highlight: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/TKIPS.2025.14.2.123
@@ -373,6 +375,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/hck6nd
+  highlight: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.683
