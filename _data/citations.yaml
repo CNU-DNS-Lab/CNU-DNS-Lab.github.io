@@ -127,6 +127,19 @@
   link: https://doi.org/hck6qw
   plugin: sources.py
   file: sources-david.yaml
+- id: doi:10.1109/ACCESS.2026.3723800
+  title: Execution-Aware Stage-Wise Evaluation Framework for Indirect Prompt Injection
+    in LLM-Based Email Agents
+  authors:
+  - Hyeonji Jang
+  - Eunseong Lee
+  - Kyungbaek Kim
+  - Misoo Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
+  link: https://doi.org/hck6b6
+  plugin: sources.py
+  file: sources-hyeonji-jang.yaml
 - id: doi:10.1109/ACCESS.2026.3650927
   title: An Improved Small Defect Classification System Using Image Patching Methodology
     on Aluminum Car Doors
