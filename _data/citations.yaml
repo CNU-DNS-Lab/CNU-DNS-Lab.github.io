@@ -727,6 +727,17 @@
   link: https://doi.org/gcr68r
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3745/PKIPS.y2026m05a.161
+  title: Improve SQL Injection Classification with Feature Engineering
+  authors:
+  - Kimhor Mong
+  - Tumur-Ochir Bayaraa
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2026-05-20'
+  link: https://doi.org/hcmgf5
+  plugin: sources.py
+  file: sources-kimhor.yaml
 - id: doi:10.1016/j.icte.2025.08.001
   title: "Deep learning-based diabetic retinopathy recognition and grading: Challenges,\
     \ gaps, and an improved approach \u2014 A survey"
