@@ -140,6 +140,12 @@ cv:
   tooltip: CV
   link: $VALUE
 
+thesis:
+  icon: fa-solid fa-book
+  text: Thesis/Dissertation
+  tooltip: Thesis/Dissertation
+  link: $VALUE
+
 # alerts
 
 tip:
