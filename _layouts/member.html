@@ -32,12 +32,14 @@ layout: default
   research/?search={% for alias in aliases %}"{{ alias }}" {% endfor %}
 {%- endcapture %}
 
-<p class="center">
-  <a href="{{ search | relative_url | uri_escape }}">
-    Search for {{ page.name | default: page.title }}'s papers on the Research page
-  </a>
-</p>
-
+<div style="margin-left: 2rem; display: flow-root;">
+  <div class="citation">
+    <a href="{{ search | relative_url | uri_escape }}">
+      Search for {{ page.name | default: page.title }}'s papers on the Research page
+    </a>
+  </div>
+</div>
+  
 {% capture search -%}
   blog/?search={{ page.name }}
 {%- endcapture %}
