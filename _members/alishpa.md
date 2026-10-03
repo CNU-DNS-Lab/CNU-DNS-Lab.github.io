@@ -1,6 +1,6 @@
 ---
 name: Alishpa Hafeez
-image: images/kimhor.png
+image: images/alishpa.png
 role: master
 affiliation: Chonnam National University
 links:
