@@ -144,7 +144,7 @@
   date: '2026-07-01'
   link: https://doi.org/hck824
   plugin: sources.py
-  file: sources-geonmin.yaml
+  file: sources-minjun-choi.yaml
 - id: doi:10.1109/ACCESS.2026.3723800
   title: Execution-Aware Stage-Wise Evaluation Framework for Indirect Prompt Injection
     in LLM-Based Email Agents
@@ -263,6 +263,7 @@
   publisher: NOMS 2025-2025 IEEE Network Operations and Management Symposium
   date: '2025-05-12'
   link: https://doi.org/hck6pd
+  highlight: true
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.23919/APNOMS67058.2025.11181385
@@ -286,6 +287,7 @@
     Workshops (ICDCSW)
   date: '2026-06-01'
   link: https://doi.org/hck6pg
+  highlight: true
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ACCESS.2026.3676500
@@ -299,6 +301,7 @@
   publisher: IEEE Access
   date: '2026-01-01'
   link: https://doi.org/hck6b3
+  highlight: true
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454181
@@ -782,6 +785,7 @@
   publisher: ICT Express
   date: '2025-10-01'
   link: https://doi.org/hck533
+  highlight: true
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.30693/SMJ.2025.14.1.17
@@ -807,6 +811,7 @@
   publisher: PLOS One
   date: '2026-03-24'
   link: https://doi.org/hck535
+  highlight: true
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1109/ICAIIC64266.2025.10920810
@@ -920,6 +925,7 @@
   publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
   date: '2025-09-22'
   link: https://doi.org/hck823
+  highlight: true
   plugin: sources.py
   file: sources-geonmin.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454309
@@ -934,5 +940,6 @@
     and Communication (ICAIIC)
   date: '2026-02-24'
   link: https://doi.org/hck825
+  highlight: true
   plugin: sources.py
   file: sources-geonmin.yaml
