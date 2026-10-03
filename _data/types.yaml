@@ -36,6 +36,11 @@ mascot:
 
 # general
 
+
+publications:
+  icon: fa-regular fa-newspaper
+  description: Publication Search on Lab Site
+
 link:
   icon: fa-solid fa-globe
   text: Link
