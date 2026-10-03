@@ -76,7 +76,7 @@ Set the `role` tag according to your current position so you appear in the corre
 You can include any of the following social/academic links under `links:`. *Make sure to indent them with two spaces!*
 
 * `email`: `your-email@domain.com`
-* `google-scholar`: Full URL to your Google Scholar profile
+* `google-scholar`: ID of your Google Scholar profile
 * `github`: Your GitHub username or full profile URL
 * `linkedin`: Full URL to your LinkedIn profile
 * `twitter`: Your Twitter handle (without `@`)
@@ -96,7 +96,7 @@ role: phd
 affiliation: Chonnam National University
 links:
   email: shivanikolekar@gmail.com
-  google-scholar: https://scholar.google.com/citations?user=_E95NsMAAAAJ
+  google-scholar: _E95NsMAAAAJ
 ---
 
 SHIVANI SANJAY KOLEKAR received the bachelor’s degree in computer science and engineering from Shivaji University, India, in 2020. She is currently pursuing the integrated M.S. and Ph.D. degree with the Department of Artificial Intelligence Convergence, Chonnam National University, Gwangju, South Korea. 
