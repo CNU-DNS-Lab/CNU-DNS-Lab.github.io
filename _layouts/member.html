@@ -20,7 +20,7 @@ layout: default
 
 <div>
   <!-- Always-present search button at the top -->
-  {% include button.html type="search" link=search_url text="Search Papers" style="bare" %}<br>
+  {% include button.html type="search" link=search_url text="Publications" style="bare" %}<br>
 
   {% for link in page.links %}
     {% assign key = link[0] %}
@@ -34,3 +34,13 @@ layout: default
 {% include float.html content=floatcontent %}
 
 {{ content }}
+
+<p class="center">
+  <a href="{{ search | relative_url | uri_escape }}">
+    Search for {{ page.name | default: page.title }}'s papers on the Research page
+  </a>
+</p>
+
+{% capture search -%}
+  blog/?search={{ page.name }}
+{%- endcapture %}
