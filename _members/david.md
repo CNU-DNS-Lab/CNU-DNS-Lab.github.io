@@ -7,6 +7,7 @@ aliases:
   - David J. Richter
   - David J Richter
   - David Jona Richter
+  - David Richter
 links:
   email: richter_david@jnu.ac.kr
   github: JDatPNW
