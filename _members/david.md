@@ -19,6 +19,12 @@ links:
 
 DAVID J. RICHTER received the B.S. degree in computer science from Kempten University of Applied Sciences, Germany, in 2019, the M.S. degree in computer information technology from Purdue University Northwest, Hammond, IN, USA, in 2021. and the M.S. in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea in 2025. He is currently a PhD candidate at Chonnam National University in Gwangju, South Korea.
 His interests include:
-  - Reinforcement Learning
-  - Smart Digital Agriculture
-  - Evolutionary Programming
+- Reinforcement Learning
+- Smart Digital Agriculture
+- Evolutionary Programming
+- {: style="margin-left: 2rem; display: flow-root;" }
+
+Select Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /david/i and highlight == true" limit="3"%}
+</div>
