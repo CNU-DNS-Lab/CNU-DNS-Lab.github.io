@@ -26,4 +26,4 @@ HYEONSEOK JIN received the B.S. degree in computer and information engineering a
 </div>
 
 Select Publications:
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" filter="author == 'hyeonseok'"%}
