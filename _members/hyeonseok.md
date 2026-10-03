@@ -5,7 +5,7 @@ role: master
 group: alum
 links:
   github: jhs-164179
-  google-scholar: https://scholar.google.com/citations?user=Vfj2uQgAAAAJ
+  google-scholar: Vfj2uQgAAAAJ
   orcid: 0009-0002-8271-6792
   website: https://jhs-164179.github.io/
 ---
