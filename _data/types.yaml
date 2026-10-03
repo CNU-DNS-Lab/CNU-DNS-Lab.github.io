@@ -134,6 +134,12 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
+cv:
+  icon: fa-regular fa-file
+  text: CV
+  tooltip: CV
+  link: $VALUE
+
 # alerts
 
 tip:
