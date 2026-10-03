@@ -10,7 +10,7 @@ aliases:
 links:
   email: richter_david@jnu.ac.kr
   github: JDatPNW
-  google-scholar: https://scholar.google.com/citations?user=fu2zI0YAAAAJ
+  google-scholar: fu2zI0YAAAAJ
   orcid: 0000-0001-5413-6710
   website: https://jdatpnw.github.io/
 ---
