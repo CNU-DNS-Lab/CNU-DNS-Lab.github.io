@@ -19,8 +19,7 @@ layout: default
 {% include portrait.html lookup=page.slug %}
 
 <div>
-  <!-- Always-present search button at the top -->
-  {% include button.html type="search" link=search_url text="Publications" style="bare" %}<br>
+  {% include button.html type="book" link=search_url text="Publications" style="bare" %}<br>
 
   {% for link in page.links %}
     {% assign key = link[0] %}
