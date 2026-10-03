@@ -49,6 +49,7 @@ links:
   github: your-github-username
   linkedin: your-linkedin-profile
   home-page: https://your-personal-website.com
+  cv: https://link-to-your-cv-or-resume-website.com
 ---
 
 Write a short bio about yourself here in Markdown syntax. 
