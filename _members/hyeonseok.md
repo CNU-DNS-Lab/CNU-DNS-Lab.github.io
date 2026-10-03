@@ -9,6 +9,12 @@ links:
   orcid: 0009-0002-8271-6792
   website: https://jhs-164179.github.io/
   cv: https://jhs-164179.github.io/files/CV_hyeonseokjin.pdf
+  linkedin: hyeonseok-jin
 ---
 
-HYEONSEOK JIN received the B.S. degree in computer and information engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea, in 2023 and 2025, respectively. He is currently preparing to pursue the Ph.D. degree in artificial intelligence. His research interests include artificial intelligence, deep learning, spatiotemporal prediction, time-series anomaly detection, and forecasting.
+HYEONSEOK JIN received the B.S. degree in computer and information engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea, in 2023 and 2025, respectively. He is currently preparing to pursue the Ph.D. degree in artificial intelligence. His research interests include:
+- artificial intelligence
+- deep learning
+- spatiotemporal prediction
+- time-series anomaly detection
+- forecasting.
