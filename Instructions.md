@@ -189,6 +189,20 @@ Your Bio
 
 For select publications use the following syntax:
 
+First, in your `sources-*.yaml* file add the `highlight` tag to `true`.
+To do this after an entry go into a new line, tab (2 space) and set `highlight: true`
+
+example:
+
+```yaml
+-id doi:10/sample_doi_1
+-id doi:10/sample_doi_2
+  highlight: true
+-id doi:10/sample_doi_1
+```
+Please only do this for 3 papers or less
+
+Then update your profile `.md` file:
 ```markdown
 <div style="margin-left: 2rem; display: flow-root;">
 {% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /hyeonseok/i and highlight == 'true'" limit="3"%}
