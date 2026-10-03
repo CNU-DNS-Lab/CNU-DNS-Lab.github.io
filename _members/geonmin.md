@@ -5,7 +5,7 @@ role: master
 affiliation: Chonnam National University
 links:
   email: kgm155388@naver.com
-  google-scholar: https://scholar.google.com/citations?user=GAmztWIAAAAJ
+  google-scholar: GAmztWIAAAAJ
   website: https://geonminkim.com/
 ---
 
