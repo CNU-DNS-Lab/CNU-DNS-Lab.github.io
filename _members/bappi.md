@@ -9,4 +9,14 @@ links:
   google-scholar: IfRRXdcAAAAJ
 ---
 
-MD ILIAS BAPPI received the B.S. degree in computer science and engineering from Daffodil International University, in 2017. He was a Software Engineer with Samsung Electronics, for five years, until 2023. Currently, he is pursuing the master’s degree in AI convergence with Chonnam National University. His research interests include machine learning, deep learning, continual learning in agriculture, and healthcare.
+MD ILIAS BAPPI received the B.S. degree in computer science and engineering from Daffodil International University, in 2017. He was a Software Engineer with Samsung Electronics, for five years, until 2023. Currently, he is pursuing the master’s degree in AI convergence with Chonnam National University. His research interests include:
+
+- machine learning
+- deep learning
+- continual learning in agriculture and healthcare
+{: style="margin-left: 2rem; display: flow-root;" }
+
+Select Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /bappi/i and highlight == true" limit="3"%}
+</div>
