@@ -118,6 +118,97 @@ During her studies with Chonnam National University, she was a Teaching Assistan
 🎉 **Done!** The site will automatically build and update with your new profile page.
 </details>
 
+
+<details>
+
+<summary><B>✏️ Guide: How to upgrade your Page and Bio</B></summary>
+
+# ✏️ Guide: How to upgrade your Page and Bio
+
+
+Example Hyeonseok
+```markdown
+---
+name: Hyeonseok Jin
+image: images/hyeonseok.png
+role: master
+group: alum
+links:
+  github: jhs-164179
+  google-scholar: Vfj2uQgAAAAJ
+  orcid: 0009-0002-8271-6792
+  website: https://jhs-164179.github.io/
+  cv: https://jhs-164179.github.io/files/CV_hyeonseokjin.pdf
+  linkedin: hyeonseok-jin
+  thesis: https://doi.org/10.23173/jnu.000000076408.24010.0012633
+---
+
+HYEONSEOK JIN received the B.S. degree in computer and information engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea, in 2023 and 2025, respectively. He is currently preparing to pursue the Ph.D. degree in artificial intelligence. His research interests include:
+
+- artificial intelligence
+- deep learning
+- spatiotemporal prediction
+- time-series anomaly detection
+- forecasting
+{: style="margin-left: 2rem; display: flow-root;" }
+
+Select Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /hyeonseok/i and highlight == 'true'" limit="3"%}
+</div>
+```
+
+
+You can see that after the bio there is a list of interests and a select publications list.
+To accomplish this you should:
+
+- Leave an empty line after the bio text
+- Then start the list by using `-` at the beginning of the line, followed by 1 space and then the content
+- Repeat this until the list is complete.
+- Then paste `{: style="margin-left: 2rem; display: flow-root;" } in the next line, no empty line in-between, no space in front 
+
+example:
+```markdown
+name: Your Name
+image: images/your_name.png
+role: master
+group: alum
+links:
+  github: your_id
+  google-scholar: your_id
+  orcid: your_id
+---
+
+Your Bio
+
+- interest 1
+- interest 3
+- interest 2
+{: style="margin-left: 2rem; display: flow-root;" }
+```
+
+For select publications use the following syntax:
+
+```markdown
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /hyeonseok/i and highlight == 'true'" limit="3"%}
+</div>
+```
+Where in the line `{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /your_name/i and highlight == 'true'" limit="3"%}` replace the `your_name` part (only this!) with string that is uniquely yours and matches your author name.
+
+example:
+
+```markdown
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /My Name/i and highlight == 'true'" limit="3"%}
+</div>
+```
+
+
+
+</details>
+
+
 <details>
 
 <summary><B>📚 Guide: How to Add Your Publications & Citations to the DNS Lab Website</B></summary>
