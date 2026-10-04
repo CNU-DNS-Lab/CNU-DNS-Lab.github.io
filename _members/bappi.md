@@ -18,5 +18,4 @@ MD ILIAS BAPPI received the B.S. degree in computer science and engineering from
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="highlight =~ /bappi/" limit="3" %}
-</div>
+{% include select_references.html data="citations" component="citation" filter="highlight&.include?('bappi')" limit="3" %}</div>
