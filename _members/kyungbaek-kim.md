@@ -3,6 +3,10 @@ name: Kyungbaek Kim
 image: images/kim.png
 role: professor
 affiliation: Chonnam National University
+aliases:
+- Kyungbaek Kim
+- Kyungbeak Kim
+- K. Kim
 links:
   home-page: http://kyungbaekkim.jnu.ac.kr
   orcid: 0000-0001-9985-3051
