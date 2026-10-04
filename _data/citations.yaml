@@ -57,7 +57,8 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cd
-  highlight: true
+  highlight:
+  - david
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1038/s41598-025-03235-w
@@ -69,7 +70,8 @@
   publisher: Scientific Reports
   date: '2025-05-30'
   link: https://doi.org/hck6pq
-  highlight: true
+  highlight:
+  - david
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.687
@@ -92,7 +94,8 @@
   publisher: Plant Direct
   date: '2026-04-01'
   link: https://doi.org/hck6vp
-  highlight: true
+  highlight:
+  - david
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454411
@@ -332,7 +335,8 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cc
-  highlight: true
+  highlight:
+  - hyeonseok
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.1109/ACCESS.2025.3573639
@@ -344,7 +348,8 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cf
-  highlight: true
+  highlight:
+  - hyeonseok
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/TKIPS.2025.14.2.123
@@ -384,7 +389,8 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/hck6nd
-  highlight: true
+  highlight:
+  - hyeonseok
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.683
