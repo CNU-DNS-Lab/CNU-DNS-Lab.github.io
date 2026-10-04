@@ -154,7 +154,7 @@ HYEONSEOK JIN received the B.S. degree in computer and information engineering a
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /hyeonseok/i and highlight == 'true'" limit="3"%}
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /hyeonseok/i" limit="3"%}
 </div>
 ```
 
@@ -189,15 +189,17 @@ Your Bio
 
 For select publications use the following syntax:
 
-First, in your `sources-*.yaml* file add the `highlight` tag to `true`.
-To do this after an entry go into a new line, tab (2 space) and set `highlight: true`
+First, in your `sources-*.yaml* file add the `highlight` list and add your id (your id is the same as your filename in `filename.md`).
+To do this after an entry go into a new line, tab (2 space) and set `highlight:`, then another new line with the same indent and add `- your_id`.  
 
 example:
 
 ```yaml
 -id doi:10/sample_doi_1
 -id doi:10/sample_doi_2
-  highlight: true
+  highlight:
+  - david
+  - hyeonseok
 -id doi:10/sample_doi_1
 ```
 Please only do this for 3 papers or less
@@ -205,16 +207,16 @@ Please only do this for 3 papers or less
 Then update your profile `.md` file:
 ```markdown
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /hyeonseok/i and highlight == 'true'" limit="3"%}
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /hyeonseok/i" limit="3"%}
 </div>
 ```
-Where in the line `{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /your_name/i and highlight == 'true'" limit="3"%}` replace the `your_name` part (only this!) with string that is uniquely yours and matches your author name.
+Where in the line `{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /your_name/i" limit="3"%}` replace the `your_name` part (only this!) with your id.
 
 example:
 
 ```markdown
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /My Name/i and highlight == 'true'" limit="3"%}
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /hyeonseok/i" limit="3"%}
 </div>
 ```
 
