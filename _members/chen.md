@@ -3,7 +3,7 @@ name: Haoyu Chen
 image: images/chen.png
 role: master
 group: alum
-affiliation: CATL<br>AI Engineer
+affiliation: CATL<br>(AI Engineer)
 links:
   thesis: https://doi.org/10.23173/10.23173/jnu.000000074192.24010.0011718
 ---
