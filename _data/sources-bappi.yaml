@@ -1,8 +1,12 @@
 - id: doi:10.1016/j.icte.2025.08.001
-  highlight: true
+  highlight: 
+  - bappi
 - id: doi:10.30693/SMJ.2025.14.1.17
+  highlight: 
+  - bappi
 - id: doi:10.1371/journal.pone.0316509
-  highlight: true
+  highlight: 
+  - bappi
 - id: doi:10.1109/ICAIIC64266.2025.10920810
 - id: doi:10.3745/PKIPS.y2025m11a.256
 - id: doi:10.32604/csse.2025.069213
