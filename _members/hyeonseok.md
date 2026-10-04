@@ -3,7 +3,7 @@ name: Hyeonseok Jin
 image: images/hyeonseok.png
 role: master
 group: alum
-affiliation: KENTECH\n(PhD Candidate)
+affiliation: KENTECH<br>(PhD Candidate)
 links:
   github: jhs-164179
   google-scholar: Vfj2uQgAAAAJ
