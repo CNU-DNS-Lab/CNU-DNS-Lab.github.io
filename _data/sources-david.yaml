@@ -1,11 +1,14 @@
 - id: doi:10.1109/ACCESS.2024.3433540
 - id: doi:10.1109/ACCESS.2025.3584404
-  highlight: true
+  highlight:
+  - david
 - id: doi:10.1038/s41598-025-03235-w
-  highlight: true
+  highlight:
+  - david
 - id: doi:10.3745/PKIPS.y2025m05a.687
 - id: doi:10.1002/pld3.70167
-  highlight: true
+  highlight:
+  - david
 # - id: doi:10.23173/jnu.000000076557.24010.0012721
 - id: doi:10.1109/ICAIIC68212.2026.11454411
 - id: doi:10.1109/ICAIIC64266.2025.10920778
