@@ -1,6 +1,6 @@
 ---
-name: Jisu Shin
-image: images/jisu-shin.png
+name: Jisoo Shin
+image: images/jisoo-shin.png
 role: master
 affiliation: Chonnam National University
 links:
