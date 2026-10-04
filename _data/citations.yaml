@@ -788,7 +788,8 @@
   publisher: ICT Express
   date: '2025-10-01'
   link: https://doi.org/hck533
-  highlight: true
+  highlight:
+  - bappi
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.30693/SMJ.2025.14.1.17
@@ -801,6 +802,8 @@
   publisher: Korean Institute of Smart Media
   date: '2025-01-31'
   link: https://doi.org/hck534
+  highlight:
+  - bappi
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1371/journal.pone.0316509
@@ -814,7 +817,8 @@
   publisher: PLOS One
   date: '2026-03-24'
   link: https://doi.org/hck535
-  highlight: true
+  highlight:
+  - bappi
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1109/ICAIIC64266.2025.10920810
