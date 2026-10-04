@@ -198,6 +198,8 @@
   publisher: NOMS 2024-2024 IEEE Network Operations and Management Symposium
   date: '2024-05-06'
   link: https://doi.org/g8p3ch
+  highlight:
+  - longfei
   plugin: sources.py
   file: sources-longfei-chen.yaml
 - id: doi:10.1109/ACCESS.2025.3545117
@@ -208,6 +210,8 @@
   publisher: IEEE Access
   date: '2025-01-01'
   link: https://doi.org/hck6cg
+  highlight:
+  - longfei
   plugin: sources.py
   file: sources-longfei-chen.yaml
 - id: doi:10.1109/ACCESS.2024.3405957
@@ -219,6 +223,8 @@
   publisher: IEEE Access
   date: '2024-01-01'
   link: https://doi.org/hck6ch
+  highlight:
+  - chen
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICAIIC60209.2024.10463204
