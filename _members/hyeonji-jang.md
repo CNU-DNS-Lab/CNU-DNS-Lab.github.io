@@ -7,4 +7,13 @@ links:
   email: gka1225@jnu.ac.kr
 ---
 
-HYEONJI JANG received the B.S. degree in artificial intelligence from Chonnam National University, South Korea, in 2026, where she is currently pursuing the M.S. degree in artificial intelligence convergence. She previously interned with Korea Internet and Security Agency (KISA), South Korea. Her research interest includes AI agent security. 
+HYEONJI JANG received the B.S. degree in artificial intelligence from Chonnam National University, South Korea, in 2026, where she is currently pursuing the M.S. degree in artificial intelligence convergence. She previously interned with Korea Internet and Security Agency (KISA), South Korea. 
+Her research interest includes:
+
+- AI agent security. 
+{: style="margin-left: 2rem; display: flow-root;" }
+
+Select Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /hyeonji-jang/i" limit="3"%}
+</div>
