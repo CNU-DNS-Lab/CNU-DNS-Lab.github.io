@@ -96,6 +96,7 @@
   link: https://doi.org/hck6vp
   highlight:
   - david
+  - kyungbaek-kim
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454411
@@ -159,7 +160,9 @@
   publisher: IEEE Access
   date: '2026-01-01'
   link: https://doi.org/hck6b6
-  highlight: hyeonji-jang
+  highlight:
+  - hyeonji-jang
+  - kyungbaek-kim
   plugin: sources.py
   file: sources-hyeonji-jang.yaml
 - id: doi:10.1109/ACCESS.2026.3650927
@@ -294,6 +297,7 @@
   link: https://doi.org/hck6pg
   highlight:
   - shivani
+  - kyungbaek-kim
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ACCESS.2026.3676500
@@ -351,6 +355,7 @@
   link: https://doi.org/hck6cf
   highlight:
   - hyeonseok
+  - kyungbaek-kim
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.3745/TKIPS.2025.14.2.123
@@ -826,6 +831,7 @@
   link: https://doi.org/hck535
   highlight:
   - bappi
+  - kyungbaek-kim
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.1109/ICAIIC64266.2025.10920810
