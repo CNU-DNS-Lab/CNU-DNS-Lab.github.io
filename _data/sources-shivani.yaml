@@ -2,10 +2,13 @@
 - id: doi:10.1109/ICUFN57995.2023.10199942
 - id: doi:10.3745/PKIPS.y2021m11a.537
 - id: doi:10.1109/NOMS57970.2025.11073667
-  highlight: true
+  highlight:
+  - shivani
 - id: doi:10.23919/APNOMS67058.2025.11181385
 - id: doi:10.1109/ICDCSW72724.2026.00017
-  highlight: true
+  highlight:
+  - shivani
 - id: doi:10.1109/ACCESS.2026.3676500
-  highlight: true
+  highlight:
+  - shivani
 - id: doi:10.1109/ICAIIC68212.2026.11454181
