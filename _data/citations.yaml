@@ -932,7 +932,8 @@
   publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
   date: '2025-09-22'
   link: https://doi.org/hck823
-  highlight: true
+  highlight:
+  - geonmin
   plugin: sources.py
   file: sources-geonmin.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454309
@@ -947,6 +948,7 @@
     and Communication (ICAIIC)
   date: '2026-02-24'
   link: https://doi.org/hck825
-  highlight: true
+  highlight:
+  - geonmin
   plugin: sources.py
   file: sources-geonmin.yaml
