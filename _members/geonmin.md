@@ -23,5 +23,5 @@ Research Interests:
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /geonmin kim/i" limit="3"%}
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /geonmin/i" limit="3"%}
 </div>
