@@ -15,6 +15,7 @@ links:
   orcid: 0000-0001-5413-6710
   website: https://jdatpnw.github.io/
   linkedin: david-richter-0b4312200
+  thesis: https://doi.org/10.23173/10.23173/jnu.000000076557.24010.0012721
 ---
 
 DAVID J. RICHTER received the B.S. degree in computer science from Kempten University of Applied Sciences, Germany, in 2019, the M.S. degree in computer information technology from Purdue University Northwest, Hammond, IN, USA, in 2021. and the M.S. in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea in 2025. He is currently a PhD candidate at Chonnam National University in Gwangju, South Korea.
@@ -26,5 +27,5 @@ His interests include:
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="authors.to_s =~ /david/i and highlight == true" limit="3"%}
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /david/i" limit="3"%}
 </div>
