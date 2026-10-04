@@ -17,5 +17,5 @@ SHIVANI SANJAY KOLEKAR received the bachelor’s degree in computer science and 
 
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="highlight =~ /shivani/" limit="3" %}
+{% include select_references.html data="citations" component="citation" filter="item.highlight contains 'shivani'" limit="3" %}
 </div>
