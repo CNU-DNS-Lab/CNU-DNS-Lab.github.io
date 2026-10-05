@@ -6,10 +6,10 @@ group: alum
 affiliation: CATL<br>(AI Engineer)
 links:
   email: 695734114@qq.com
-  thesis: https://doi.org/10.23173/10.23173/jnu.000000074192.24010.0011718
+  thesis: https://doi.org/10.23173/jnu.000000074192.24010.0011718
 ---
 
-HAOYU CHEN received the B.S. degree in mechanical engineering from Chonnam National University, South Korea, in 2022, where he is currently pursuing the M.S. degree with the Department of Artificial Intelligence Convergence. He is currently working as an AI Science Engineer at [CATL](https://www.catl.com/en/).
+HAOYU CHEN received the B.S. degree in mechanical engineering from Chonnam National University, South Korea, in 2022, and the M.S. degree with the Department of Artificial Intelligence Convergence in 2024. He is currently working as an AI Science Engineer at [CATL](https://www.catl.com/en/).
 His research interests include:
 - image segmentation
 - image classification
