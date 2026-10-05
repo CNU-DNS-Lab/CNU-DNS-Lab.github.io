@@ -3,7 +3,7 @@ name: Longfei Li
 image: images/longfei.png
 role: master
 group: alum
-affiliation: Wenzhou Fudeer<br>AI Engineer
+affiliation: Wenzhou Fudeer<br>(AI Engineer)
 links:
   email: lilongfei0712@gmail.com
   thesis: https://doi.org/10.23173/jnu.000000075141.24010.0011966
