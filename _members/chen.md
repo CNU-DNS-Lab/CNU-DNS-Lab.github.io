@@ -5,6 +5,7 @@ role: master
 group: alum
 affiliation: CATL<br>(AI Engineer)
 links:
+  email: 695734114@qq.com
   thesis: https://doi.org/10.23173/10.23173/jnu.000000074192.24010.0011718
 ---
 
