@@ -155,6 +155,7 @@
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
+  highlight: van-quyet-nguyen
 - id: doi:10.1177/20552076251393380
   title: Enhancing deep learning models for predicting smoking Status using clinical
     data in patients with chronic obstructive pulmonary disease
@@ -373,6 +374,7 @@
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
+  highlight: van-quyet-nguyen
 - id: doi:10.1007/s10732-018-9402-0
   title: Estimating searching cost of regular path queries on large graphs by exploiting
     unit-subqueries
@@ -385,8 +387,9 @@
   link: https://doi.org/hck6cq
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  highlight: van-quyet-nguyen
 - id: doi:10.23919/APNOMS56106.2022.9919936
   title: Effective Edge Server Placement for Efficient Federated Clustering
   authors:
