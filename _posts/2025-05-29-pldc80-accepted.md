@@ -2,7 +2,9 @@
 title: PLDC-80 paper published and dataset instructions shared
 image: images/pldc80.png
 author: david
-tags: agriculture, computer-vision, dataset, publication
+tags: agriculture, computer-vision, dataset, publication, conference
+dois:
+  - doi:10.3745/PKIPS.y2025m05a.687
 ---
 
 The [PLDC-80 paper](https://doi.org/10.3745/PKIPS.y2025m05a.687) has been accepted to and published at ASK 2025 and alongside it the corresponding dataset instructions can be found in our [repository](https://github.com/CNU-DNS-Lab/PLDC-80).
