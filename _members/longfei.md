@@ -13,7 +13,7 @@ LONGFEI LI received the B.S. degree in mechanical engineering and the M.S. degre
 His research interests include:
 
 - network management
-- time series analysis.
+- time series analysis
 {: style="margin-left: 2rem; display: flow-root;" }
 
 Select Publications:
