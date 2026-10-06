@@ -25,15 +25,20 @@
   width: 100px;
 }
 
-.portrait[data-style="semismall"] {
+
+.portrait[data-style="alum"] {
+  width: 100px;
+}
+
+.portrait[data-style="master"] {
   width: 150px;
 }
 
-.portrait[data-style="largeish"] {
+.portrait[data-style="phd"] {
   width: 160px;
 }
 
-.portrait[data-style="halfsmall"] {
+.portrait[data-style="undergrad"] {
   width: 125px;
 }
 
@@ -64,17 +69,23 @@
   top: -2px;
 }
 
-.portrait[data-style="semismall"] .icon {
+
+.portrait[data-style="alum"] .icon {
   left: -2px;
   top: -2px;
 }
 
-.portrait[data-style="largeish"] .icon {
+.portrait[data-style="undergrad"] .icon {
   left: -2px;
   top: -2px;
 }
 
-.portrait[data-style="halfsmall"] .icon {
+.portrait[data-style="phd"] .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.portrait[data-style="master"] .icon {
   left: -2px;
   top: -2px;
 }
@@ -83,15 +94,15 @@
   display: none;
 }
 
-.portrait[data-style="small"] .portrait-name {
+.portrait[data-style="alum"] .portrait-name {
   font-size: 0.75em;
 }
 
-.portrait[data-style="small"] .portrait-description {
+.portrait[data-style="alum"] .portrait-description {
   font-size: 0.65em !important;
 }
 
-.portrait[data-style="small"] .portrait-affiliation {
+.portrait[data-style="alum"] .portrait-affiliation {
   font-size: 0.65em !important;
 }
 
@@ -121,6 +132,6 @@
   }
 }
 
-.portrait[data-style="small"] .portrait-affiliation {
+.portrait[data-style="alum"] .portrait-affiliation {
   display: block;
 }
