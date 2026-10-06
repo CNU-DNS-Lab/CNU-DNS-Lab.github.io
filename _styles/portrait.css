@@ -106,4 +106,8 @@
   display: none;
 }
 
+.portrait[data-style=small] .portrait-affiliation {
+  display: block;
+}
+
 /*# sourceMappingURL=portrait.css.map */
