@@ -13,7 +13,7 @@ HAOYU CHEN received the B.S. degree in mechanical engineering from Chonnam Natio
 His research interests include:
 - image segmentation
 - image classification
-- image recognition.
+- image recognition
 {: style="margin-left: 2rem; display: flow-root;" }
 
 Select Publications:
