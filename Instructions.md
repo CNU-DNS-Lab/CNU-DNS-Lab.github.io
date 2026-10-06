@@ -515,6 +515,9 @@ title: "Your Awesome Post Title Here"
 image: images/your-thumbnail-filename.png
 author: your-username
 tags: tag1, tag2, tag3
+dois:
+  - doi:10.0.0/your-doi-here
+  - doi:10.0.0/your-doi-here-2
 ---
 
 <!-- excerpt start -->
@@ -540,6 +543,7 @@ At the very top of your file, between the `---` dashes, are your settings. Here 
 | `image` | **Optional.** Path to your thumbnail/header image. Store your images in the repo's `images/` folder. | `image: images/pldc80.png` |
 | `author` | **Optional.** Your team member ID (the exact filename of your profile page **without** the `.md` extension). This automatically links your photo and name. | `author: david` |
 | `tags` | **Optional.** Comma-separated list of topics for filtering. | `tags: agriculture, computer-vision` |
+| `doi` | **Optional.** list of doi or dois of papers related to the post | `tags: agriculture, computer-vision` |
 
 ---
 
