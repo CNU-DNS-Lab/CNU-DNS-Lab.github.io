@@ -20,8 +20,6 @@ layout: default
 {{ content }}
 
 {% if page.dois and page.dois.size > 0 %}
-  {% include section.html %}
-  <h2>Referenced Publications</h2>
   {% capture doi_filter %}{{ page.dois | jsonify }}.include?(id.to_s){% endcapture %}
   <div style="margin-left: 2rem; display: flow-root;">
     {% include select_references.html data="citations" component="citation" filter=doi_filter %}
