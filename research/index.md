@@ -17,4 +17,4 @@ Here you can find published research conducted at DNS Lab.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" %}
+{% include list.html data="citations" component="citation" filter="(id && !id.to_s.empty?) and (date && !date.to_s.empty?) and (authors && !authors.empty?) and (publisher && !publisher.to_s.empty?)" %}
