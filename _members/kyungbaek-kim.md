@@ -1,6 +1,6 @@
 ---
 name: Kyungbaek Kim
-image: images/kim.png
+image: images/kyungbaek-kim.png
 role: professor
 affiliation: Chonnam National University
 aliases:
