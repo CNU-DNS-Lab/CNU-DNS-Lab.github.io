@@ -29,6 +29,9 @@
   width: 150px;
 }
 
+.portrait[data-style="largeish"] {
+  width: 160px;
+}
 
 .portrait[data-style="halfsmall"] {
   width: 125px;
@@ -62,6 +65,11 @@
 }
 
 .portrait[data-style="semismall"] .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.portrait[data-style="largeish"] .icon {
   left: -2px;
   top: -2px;
 }
