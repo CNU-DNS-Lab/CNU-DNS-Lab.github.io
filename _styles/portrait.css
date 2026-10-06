@@ -13,6 +13,9 @@
   max-width: calc(100% - 20px - 20px);
   text-decoration: none;
 }
+.portrait .portrait-affiliation {
+  display: none;
+}
 
 .portrait[data-style=small] {
   width: 100px;
