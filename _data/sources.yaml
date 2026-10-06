@@ -1,3 +1,4 @@
+# Kyungbaek Kim
 - id: doi:10.3745/JIPS.01.0024
 - id: doi:10.1109/INFCOM.2011.5935047
 - id: doi:10.1145/3184066.3184089
@@ -27,12 +28,18 @@
 - id: doi:10.1587/transinf.2018EDL8020
 - id: doi:10.1109/COMSNETS.2012.6151325
 - id: doi:10.1145/3426020.3426093
-- id: doi:10.3837/tiis.2019.05.023
 - id: doi:10.1145/2543711
 - id: doi:10.1109/ICUFN57995.2023.10199942
 - id: doi:10.1145/3426020.3426072
 - id: doi:10.9728/dcs.2020.21.5.959
 - id: doi:10.1587/transinf.2017EDL8060
+- id: doi:10.3837/tiis.2019.05.023
+  authors:
+  - Giang-Truong Nguyen
+  - Van-Quyet Nguyen
+  - Sinh-Ngoc Nguyen,
+  - Kyungbaek Kim
+
 
 # - id: doi:10.1371/journal.pcbi.1007128
 #   type: paper
