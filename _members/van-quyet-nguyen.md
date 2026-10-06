@@ -7,7 +7,7 @@ affiliation: UTEHY<br>(Lecturer)
 links:
   email: quyetict@utehy.edu.vn
   website: https://quyetnv.utehy.edu.vn/index.html
-  thesis: https://doi.org/10.23173/jnu.000000075141.24010.0011966
+  thesis: https://doi.org/10.23173/jnu.000000061188.24010.0000389
   orcid: 0000-0002-6898-4224
 ---
 
