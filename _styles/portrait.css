@@ -18,6 +18,14 @@
   width: 100px;
 }
 
+.portrait[data-style=semi-small] {
+  width: 150px;
+}
+
+.portrait[data-style=half-small] {
+  width: 125px;
+}
+
 .portrait[data-style=tiny] {
   flex-direction: row;
   gap: 15px;
@@ -41,6 +49,16 @@
 }
 
 .portrait[data-style=small] .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.portrait[data-style=semi-small] .icon {
+  left: -2px;
+  top: -2px;
+}
+
+.portrait[data-style=half-small] .icon {
   left: -2px;
   top: -2px;
 }
