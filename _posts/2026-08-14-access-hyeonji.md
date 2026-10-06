@@ -1,5 +1,5 @@
 ---
-title: Hyeonji Jang' Paper published in IEEE Access Vol. 14
+title: Hyeonji Jang's Paper published in IEEE Access Vol. 14
 image: https://ieeeaccess.ieee.org/wp-content/uploads/2025/07/IEEE-Access-Newsroom-Placeholder.webp
 author: david
 tags: publication, journal
