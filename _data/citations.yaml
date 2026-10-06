@@ -10,6 +10,7 @@
   date: '2026-03-31'
   link: https://doi.org/hck6bz
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0316509
@@ -24,6 +25,7 @@
   date: '2026-03-24'
   link: https://doi.org/hck535
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-bappi.yaml
   highlight:
@@ -40,6 +42,7 @@
   date: '2026-02-24'
   link: https://doi.org/hck6b2
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ACCESS.2026.3676500
@@ -54,6 +57,7 @@
   date: '2026-01-01'
   link: https://doi.org/hck6b3
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-shivani.yaml
   highlight:
@@ -70,6 +74,7 @@
   date: '2026-01-01'
   link: https://doi.org/hck6b4
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-ugur.yaml
   highlight:
@@ -84,6 +89,7 @@
   date: '2026-01-01'
   link: https://doi.org/hck6b5
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2026.3723800
@@ -98,6 +104,7 @@
   date: '2026-01-01'
   link: https://doi.org/hck6b6
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-hyeonji-jang.yaml
   highlight:
@@ -114,6 +121,7 @@
   date: '2025-12-31'
   link: https://doi.org/hck6b7
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.icte.2025.08.001
@@ -127,6 +135,7 @@
   date: '2025-10-01'
   link: https://doi.org/hck533
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-bappi.yaml
   highlight:
@@ -143,6 +152,7 @@
   date: '2025-07-21'
   link: https://doi.org/hck6b8
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1177/20552076251393380
@@ -158,6 +168,7 @@
   date: '2025-05-01'
   link: https://doi.org/hck6b9
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
 - id: doi:10.1109/ICAIIC64266.2025.10920778
@@ -171,6 +182,7 @@
   date: '2025-02-18'
   link: https://doi.org/hck6cb
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ACCESS.2025.3623702
@@ -185,6 +197,7 @@
   date: '2025-01-01'
   link: https://doi.org/hck6cc
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
   highlight:
@@ -201,6 +214,7 @@
   date: '2025-01-01'
   link: https://doi.org/hck6cd
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-david.yaml
   highlight:
@@ -215,6 +229,7 @@
   date: '2025-01-01'
   link: https://doi.org/hck6cf
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-hyeonseok.yaml
   highlight:
@@ -229,6 +244,7 @@
   date: '2025-01-01'
   link: https://doi.org/hck6cg
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources-longfei-chen.yaml
   highlight:
@@ -243,6 +259,7 @@
   date: '2024-01-01'
   link: https://doi.org/g83667
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2024.3405957
@@ -255,6 +272,7 @@
   date: '2024-01-01'
   link: https://doi.org/hck6ch
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
   highlight:
@@ -271,6 +289,7 @@
   date: '2023-02-20'
   link: https://doi.org/hck6cj
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICUFN57995.2023.10199942
@@ -285,6 +304,7 @@
   date: '2023-07-04'
   link: https://doi.org/hck6ck
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - title: Network State Prediction with Attention-Based Graph Convolutional Network
@@ -293,6 +313,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85174824148&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10922-023-09724-5
@@ -310,6 +331,7 @@
   date: '2023-02-03'
   link: https://doi.org/hck6cm
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'Optimizing Cluster Head Placement in Federated Clustering: A Genetic Algorithm
@@ -319,6 +341,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85174833860&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3568562.3568667
@@ -333,6 +356,7 @@
   date: '2022-12-01'
   link: https://doi.org/hck6cn
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/electronics11182938
@@ -346,6 +370,7 @@
   date: '2022-09-16'
   link: https://doi.org/hck6cp
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/s10732-018-9402-0
@@ -359,6 +384,7 @@
   date: '2018-11-30'
   link: https://doi.org/hck6cq
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS56106.2022.9919936
@@ -371,6 +397,7 @@
   date: '2022-09-28'
   link: https://doi.org/hck6cr
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2022.3169616
@@ -383,6 +410,7 @@
   date: '2022-01-01'
   link: https://doi.org/hck6cs
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.21203/rs.3.rs-1714722/v1
@@ -400,6 +428,7 @@
   date: '2022-06-08'
   link: https://doi.org/hck6ct
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS56106.2022.9919928
@@ -412,6 +441,7 @@
   date: '2022-09-28'
   link: https://doi.org/hck6cv
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/electronics10090990
@@ -426,6 +456,7 @@
   date: '2021-04-21'
   link: https://doi.org/hck6cw
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS52696.2021.9562690
@@ -438,6 +469,7 @@
   date: '2021-09-08'
   link: https://doi.org/hck6cx
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transinf.2020EDL8056
@@ -451,6 +483,7 @@
   date: '2021-02-01'
   link: https://doi.org/hck6cz
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS52696.2021.9562682
@@ -464,6 +497,7 @@
   date: '2021-09-08'
   link: https://doi.org/hck6c2
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3412841.3441987
@@ -476,6 +510,7 @@
   date: '2021-03-22'
   link: https://doi.org/hck6c3
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3426020.3426169
@@ -492,6 +527,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6c4
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3426020.3426093
@@ -504,6 +540,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6c5
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3426020.3426092
@@ -517,6 +554,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6c6
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS50412.2020.9236957
@@ -529,6 +567,7 @@
   date: '2020-09-01'
   link: https://doi.org/hck6c7
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3426020.3426170
@@ -542,6 +581,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6c8
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3426020.3426110
@@ -555,6 +595,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6c9
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS50412.2020.9237014
@@ -566,6 +607,7 @@
   date: '2020-09-01'
   link: https://doi.org/hck6db
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3426020.3426071
@@ -578,6 +620,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6dc
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3426020.3426072
@@ -590,6 +633,7 @@
   date: '2020-09-17'
   link: https://doi.org/hck6dd
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3368926.3369724
@@ -605,6 +649,7 @@
   date: '2019-01-01'
   link: https://doi.org/gnd4pv
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/SMARTCOMP.2019.00065
@@ -619,6 +664,7 @@
   date: '2019-06-01'
   link: https://doi.org/hck6df
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3837/tiis.2019.05.023
@@ -633,6 +679,7 @@
   date: '2019-05-31'
   link: https://doi.org/hck6dg
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3745/JIPS.01.0024
@@ -644,6 +691,7 @@
   date: '2018-02-28'
   link: https://doi.org/ggjjpd
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3184066.3184089
@@ -659,6 +707,7 @@
   date: '2018-02-02'
   link: https://doi.org/hck6dh
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2018EDL8020
@@ -674,6 +723,7 @@
   date: '2018-06-01'
   link: https://doi.org/gd7mz4
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-10-5041-1_43
@@ -687,6 +737,7 @@
   date: '2017-01-01'
   link: https://doi.org/hck6dj
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2017EDL8060
@@ -699,6 +750,7 @@
   date: '2017-01-01'
   link: https://doi.org/gcr68r
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CAIPT.2017.8320668
@@ -712,6 +764,7 @@
   date: '2017-08-01'
   link: https://doi.org/hck6dk
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3155133.3155160
@@ -724,6 +777,7 @@
   date: '2017-12-07'
   link: https://doi.org/hck6dm
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2017.8094142
@@ -737,6 +791,7 @@
   date: '2017-09-01'
   link: https://doi.org/hck6dn
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICUFN.2017.7993753
@@ -754,6 +809,7 @@
   date: '2017-07-01'
   link: https://doi.org/hck6dp
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/BigMM.2017.58
@@ -768,6 +824,7 @@
   date: '2017-04-01'
   link: https://doi.org/hck6dq
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/APNOMS.2017.8094143
@@ -780,6 +837,7 @@
   date: '2017-09-01'
   link: https://doi.org/hck6dr
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2016.7737233
@@ -797,6 +855,7 @@
   date: '2016-10-01'
   link: https://doi.org/hck6ds
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transinf.2016EDL8064
@@ -809,6 +868,7 @@
   date: '2016-01-01'
   link: https://doi.org/hck6dt
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/IoTDI.2015.40
@@ -824,6 +884,7 @@
   date: '2016-04-01'
   link: https://doi.org/hck6dv
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICOIN.2015.7057934
@@ -835,6 +896,7 @@
   date: '2015-01-01'
   link: https://doi.org/g75t9k
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2014EDL8245
@@ -846,6 +908,7 @@
   date: '2015-01-01'
   link: https://doi.org/hck6dw
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2014.6996581
@@ -864,6 +927,7 @@
   date: '2014-09-01'
   link: https://doi.org/hck6dx
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TPDS.2013.280
@@ -876,6 +940,7 @@
   date: '2014-10-01'
   link: https://doi.org/f6hvgs
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2543711
@@ -889,6 +954,7 @@
   date: '2014-03-01'
   link: https://doi.org/hck6dz
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E97.D.1905
@@ -903,6 +969,7 @@
   date: '2014-01-01'
   link: https://doi.org/hck6d2
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.14257/ijmue.2014.9.2.16
@@ -914,6 +981,7 @@
   date: '2014-02-28'
   link: https://doi.org/hck6d3
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transinf.E97.D.1918
@@ -925,6 +993,7 @@
   date: '2014-01-01'
   link: https://doi.org/hck6d4
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-642-40861-8_34
@@ -935,6 +1004,7 @@
   date: '2014-01-01'
   link: https://doi.org/hck6d5
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/2488222.2489273
@@ -948,6 +1018,7 @@
   date: '2013-06-29'
   link: https://doi.org/hck6d6
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TC.2012.68
@@ -962,6 +1033,7 @@
   date: '2013-07-01'
   link: https://doi.org/f4znw8
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/COMSNETS.2012.6151325
@@ -976,6 +1048,7 @@
   date: '2012-01-01'
   link: https://doi.org/hck6d7
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SRDS.2012.35
@@ -988,6 +1061,7 @@
   date: '2012-10-01'
   link: https://doi.org/hck6d8
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E94.D.1830
@@ -998,6 +1072,7 @@
   date: '2011-01-01'
   link: https://doi.org/bwzvzz
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/2088876.2088878
@@ -1012,6 +1087,7 @@
   date: '2011-12-12'
   link: https://doi.org/fzf52n
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/INFCOM.2011.5935047
@@ -1024,6 +1100,7 @@
   date: '2011-04-01'
   link: https://doi.org/cmxtt7
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/GLOCOM.2010.5685229
@@ -1036,6 +1113,7 @@
   date: '2010-12-01'
   link: https://doi.org/bz5p69
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-642-16955-7_9
@@ -1048,6 +1126,7 @@
   date: '2010-01-01'
   link: https://doi.org/cff3wr
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E93.D.3403
@@ -1059,6 +1138,7 @@
   date: '2010-01-01'
   link: https://doi.org/dg2fq6
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'SocialFilter: Introducing social trust to collaborative spam mitigation'
@@ -1067,6 +1147,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85018515597&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.comcom.2008.12.044
@@ -1077,6 +1158,7 @@
   date: '2009-04-01'
   link: https://doi.org/bnzrbm
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - title: 'FaceTrust: Assessing the credibility of online personas via social networks'
@@ -1084,6 +1166,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-84898111360&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietcom/e91-b.12.4020
@@ -1094,6 +1177,7 @@
   date: '2008-12-01'
   link: https://doi.org/fhqqst
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICN.2008.27
@@ -1104,6 +1188,7 @@
   date: '2008-04-01'
   link: https://doi.org/br5xhq
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.4018/978-1-59140-993-9.ch017
@@ -1116,6 +1201,7 @@
   date: '2008-01-01'
   link: https://doi.org/b7qrt8
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/1244002.1244252
@@ -1130,6 +1216,7 @@
   date: '2007-03-11'
   link: https://doi.org/bpwbkz
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4018/978-1-59140-993-9.ch025
@@ -1141,6 +1228,7 @@
   date: '2008-01-01'
   link: https://doi.org/cwfb66
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietisy/e90-1.1.48
@@ -1152,6 +1240,7 @@
   date: '2007-01-01'
   link: https://doi.org/bdcfsc
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietisy/e90-d.9.1452
@@ -1163,6 +1252,7 @@
   date: '2007-09-01'
   link: https://doi.org/bmkbx4
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/11919568_97
@@ -1174,6 +1264,7 @@
   date: '2006-01-01'
   link: https://doi.org/d8zjhc
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/11847366_94
@@ -1185,6 +1276,7 @@
   date: '2006-01-01'
   link: https://doi.org/b7kjnh
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/JCN.2006.6182773
@@ -1196,6 +1288,7 @@
   date: '2006-09-01'
   link: https://doi.org/hck6d9
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/AICT.2005.41
@@ -1209,6 +1302,7 @@
   date: '2005-01-01'
   link: https://doi.org/db7zqh
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-540-30582-8_80
@@ -1221,6 +1315,7 @@
   date: '2005-01-01'
   link: https://doi.org/c82pfq
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Thread-aware garbage collection for server applications
@@ -1228,6 +1323,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-2642568485&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09168532
@@ -1237,6 +1333,7 @@
   date: ''
   link: https://portal.issn.org/resource/ISSN/09168532
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-540-45076-4_9
@@ -1249,6 +1346,7 @@
   date: '2003-01-01'
   link: https://doi.org/bxsdbh
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - title: 'Subway: Peer-to-peer clustering of clients for web proxy'
@@ -1257,6 +1355,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-1642296704&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/MASCOT.2002.1167062
@@ -1271,6 +1370,7 @@
   date: ''
   link: https://doi.org/dsg8qd
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - title: Least popularity-per-byte replacement algorithm for a proxy cache
@@ -1279,6 +1379,7 @@
   date: '2024-01-02'
   link: http://www.scopus.com/inward/record.url?eid=2-s2.0-0034849875&partnerID=MN8TOARS
   orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3745/PKIPS.y2025m11a.787
