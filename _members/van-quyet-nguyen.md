@@ -20,8 +20,8 @@ His research interests include:
 - parallel algorithms
 - graph-based solutions
 {: style="margin-left: 2rem; display: flow-root;" }
-(* 
+
 Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /longfei/i" limit="3"%}
-</div> *)
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /van-quyet-nguyen/i" limit="3"%}
+</div>
