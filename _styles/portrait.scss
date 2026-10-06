@@ -21,12 +21,12 @@
   width: 100px;
 }
 
-.portrait[data-style="semi-small"] {
+.portrait[data-style="semismall"] {
   width: 150px;
 }
 
 
-.portrait[data-style="half-small"] {
+.portrait[data-style="halfsmall"] {
   width: 125px;
 }
 
@@ -57,18 +57,30 @@
   top: -2px;
 }
 
-.portrait[data-style="semi-small"] .icon {
+.portrait[data-style="semismall"] .icon {
   left: -2px;
   top: -2px;
 }
 
-.portrait[data-style="half-small"] .icon {
+.portrait[data-style="halfsmall"] .icon {
   left: -2px;
   top: -2px;
 }
 
 .portrait[data-style="tiny"] .icon {
   display: none;
+}
+
+.portrait[data-style="small"] .portrait-name {
+  font-size: 0.75em;
+}
+
+.portrait[data-style="small"] .portrait-description {
+  font-size: 0.65em !important;
+}
+
+.portrait[data-style="small"] .portrait-affiliation {
+  font-size: 0.65em !important;
 }
 
 .portrait-image {
