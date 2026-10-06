@@ -14,7 +14,7 @@ links:
   thesis: https://doi.org/10.23173/jnu.000000076408.24010.0012633
 ---
 
-HYEONSEOK JIN received the B.S. degree in computer and information engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea, in 2023 and 2025, respectively. He is currently preparing to pursue the Ph.D. degree in artificial intelligence. His research interests include:
+HYEONSEOK JIN received the B.S. degree in computer and information engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, Gwangju, South Korea, in 2023 and 2025, respectively. He is currently pursuing the Ph.D. degree in artificial intelligence at [KENTECH](https://view.kentech.ac.kr/). His research interests include:
 
 - artificial intelligence
 - deep learning
