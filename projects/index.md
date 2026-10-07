@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 Current Projects carried out at DNS Lab include:
-{% include list.html component="card" data="projects" style="small" %}
+{% include list.html component="simple-card" data="projects" style="small" %}
 
 
 ## Open-Source Resources
