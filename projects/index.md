@@ -9,14 +9,26 @@ nav:
 
 Current Projects carried out at DNS Lab include:
 
+{% capture col1 %}
 - KISA DNS-Based DID Resolution
 - Digital Agricultire
--  GITRC-Mobility AI
--  BEMS-MARL
--  SLAM
--  Glocal LAB
--  Fed-Med
+- GITRC-Mobility AI
+{% endcapture %}
+{% capture col2 %}
+- BEMS-MARL
+- SLAM
+{% endcapture %}
+{% capture col3 %}
+- Glocal LAB
+- Fed-Med
+{% endcapture %}
 
+{%
+  include cols.html
+  col1=col1
+  col2=col2
+  col3=col3
+%}
 
 {% include section.html %}
 
@@ -29,6 +41,6 @@ Here we link to open source repositories and datasets provided by our lab.
 
 {% include section.html %}
 
-## All
+## Open-Source
 
 {% include list.html component="card" data="projects" style="small" %}
