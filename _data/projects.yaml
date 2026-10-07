@@ -15,14 +15,12 @@
   description: Research on DNS-based resolution to support CRUD operations across diverse DID methods without relying on the centralized Universal Resolver.
   tags:
     - DID
-
     
 - title: GITRC – Mobility AI
   subtitle: AI for smart digital Agriculture systems
   description: Mobility intelligence for networks using AI. Research on AI-driven vehicle traffic flow optimization and inter-vehicle communication protocols.
   tags:
     - GITRC
-
     
 - title: SLAM
   subtitle: Simultaneous Localization and Mapping indoor system
@@ -30,21 +28,18 @@
   tags:
     - SLAM
 
-    
 - title: Glocal LAB – AI + Military
   subtitle: AI-assisted agent for the military
   description: Planned research on improving radar object detection accuracy and exploring AI adoption in military applications. Status: Preparatory stage; full-scale research has not yet started.
   tags:
     - Glocal-LAB
 
-    
 - title: AICONV – AI
   subtitle: AI for healthcare, energy & monitoring systems
   description: AI for healthcare, energy & monitoring systems.
   tags:
     - AICONV
 
-    
 - title: MARL - BIMS
   subtitle: Smart Building Support with MARL based Energy Saving
   description: Smart Building Support with MARL based Energy Saving. Research on optimizing building energy consumption using multi-agent reinforcement learning (MARL).
