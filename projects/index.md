@@ -6,8 +6,10 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
-
+[Jump to Open-Source Resources](#open-source-resources)
 Current Projects carried out at DNS Lab include:
+{% include search-info.html %}
+
 {% include list.html component="simple-card" data="projects" style="small" %}
 
 
