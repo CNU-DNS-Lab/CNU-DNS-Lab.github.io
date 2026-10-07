@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
 
 Current Projects carried out at DNS Lab include:
-{% include tags.html tags="Digital-Agricultire, KISA-DNS-Based-DID-Resolution, GITRC-Mobility-AI, BEMS-MARL, SLAM, Glocal-LAB, Fed-Med" %}
+{% include tags.html tags="Digital-Agriculture, KISA-DNS-Based-DID-Resolution, GITRC-Mobility-AI, BEMS-MARL, SLAM, Glocal-LAB, Fed-Med" %}
 Resource Category:
 {% include tags.html tags="dataset, software, publication" %}
 
