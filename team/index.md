@@ -7,8 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+<p class="center">
 Meet our Professor, current students in DNS Lab, as well as alumni that worked at DNS Lab during their studies at CNU.
 {% include section.html %}
+</p>
 
 ## Professor
 
