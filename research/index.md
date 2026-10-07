@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
+<p class="center">
 Here you can find published research conducted at DNS Lab.
+</p>
 
 {% include section.html %}
 
