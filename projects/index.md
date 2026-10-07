@@ -11,13 +11,13 @@ Current Projects carried out at DNS Lab include:
 {% include list.html component="simple-card" data="projects" style="small" %}
 
 
+{% include section.html %}
+
 ## Open-Source Resources
 
 Resource Category:
 {% include tags.html tags="dataset, software, publication" %}
 
 {% include search-info.html %}
-
-{% include section.html %}
 
 {% include list.html component="card" data="open-source" style="small" %}
