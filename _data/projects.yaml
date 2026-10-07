@@ -7,6 +7,7 @@
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - dataset
+    - Digital-Agriculture
 
 - title: PLDC-Net
   subtitle: PLDC-Net implemented using TensorFlow and Keras
@@ -17,4 +18,5 @@
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - software
+    - Digital-Agriculture
 
