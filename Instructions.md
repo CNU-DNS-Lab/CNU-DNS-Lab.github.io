@@ -369,10 +369,10 @@ If your paper or report does not have a DOI or online ID yet, you can enter all 
 
 <details>
 
-<summary><B>🛠️ Guide: How to Add Projects & Datasets to the DNS Lab Website</B></summary>
+<summary><B>🛠️ Guide: How to Add Projects to the DNS Lab Website</B></summary>
 
-# 🛠️ Guide: How to Add Projects & Datasets to the DNS Lab Website
-This guide provides step-by-step instructions for members of **DNS Lab** to add open-source projects, datasets, software tools, and repositories to the lab website.
+# 🛠️ Guide: How to Add Projects to the DNS Lab Website
+This guide provides step-by-step instructions for members of **DNS Lab** to add projects to the lab website.
 
 ---
 
@@ -399,13 +399,95 @@ Scroll to the bottom of `projects.yaml` and add a new entry following the templa
 ```yaml
 - title: Your Project Name
   subtitle: A short one-line summary or tag-line
-  group: featured
+  description: A detailed description of what the software, dataset, or tool does, how to use it, or what findings it supports.
+  tags:
+    - project-name
+```
+
+---
+
+## 🛠️ Field Reference & Customization
+
+| Field | Required? | Description | Example |
+| :--- | :--- | :--- | :--- |
+| **`title`** | **Yes** | Name of the project, tool, or dataset. | `PLDC-80 Dataset` |
+| **`subtitle`** | Optional | Brief tagline shown below the title. | `Benchmarking Dataset for Plant Leaf Disease Classification` |
+| **`group`** | Optional | Set to `featured` to highlight prominent projects on the home page or top section. | `featured` |
+| **`description`** | **Yes** | 1–3 sentence summary explaining the project. Supports Markdown formatting. | `This repository includes code for the PLDC-Net architecture...` |
+| **`tags`** | **Yes** | Tag list for site filtering. Use project id without spaces (use dashes '-') (e.g. `digital-agriculture`). | `- digital-agriculture` |
+
+---
+
+## 💡 Real Example Entries
+
+Here are two example entries as structured in `/_data/projects.yaml`:
+
+```yaml
+- title: Digital Agriculture
+  subtitle: AI for smart digital Agriculture systems
+  description: This project focuses on utilizing AI models for the improvement of digital agriculture systems, by reducing loss of crops and increasing yield. Currently we focus on systems for the early identification of plant diseases in field through plant leaf disease identification DL computer vision models.
+  tags:
+    - Digital-Agriculture
+
+- title: Fed Med (ITRC)
+  subtitle: Federated Learning AI for the medical field.
+  description: Privacy-preserving distributed learning framework
+  tags:
+    - Fed-Med
+```
+
+## 📌 Step 3: Save & Commit Changes
+
+1. Scroll to the **Commit changes...** box at the bottom of GitHub.
+2. Add a clear commit message, e.g.:
+   ```text
+   Add new PLDC-Net project to projects.yaml
+   ```
+3. Select **Commit directly to the `main` branch** (or open a pull request).
+4. Click **Commit changes**.
+
+🎉 **Done!** GitHub Pages will build your changes and display the new project on the site automatically.
+
+</details>
+
+<details>
+
+<summary><B>💾 Guide: How to Add Repositories and Datasets to the DNS Lab Website</B></summary>
+
+# 💾 Guide: How to Add Repositories and Datasets to the DNS Lab Website
+This guide provides step-by-step instructions for members of **DNS Lab** to add open-source projects, datasets, software tools, and repositories to the lab website.
+
+---
+
+## 📌 Step 1: Open the `open-source.yaml` Data File
+
+Open source resources on the website are managed through a single YAML file located at:
+
+```text
+/_data/open-source.yaml
+```
+
+1. Navigate to the `/_data/` directory in the repository on GitHub.
+2. Click on `open-source.yaml`.
+3. Click the **Pencil Icon** (✏️ *Edit this file*) in the top-right corner.
+
+---
+
+## 📌 Step 2: Add Your Open Source Entry
+
+Scroll to the bottom of `open-source.yaml` and add a new entry following the template below:
+
+### 📄 Copy-Paste Template
+
+```yaml
+- title: Your Repo Name
+  subtitle: A short one-line summary or tag-line
   image: images/your-project-thumbnail.png
   link: https://github.com/CNU-DNS-Lab/your-repo-name
   description: A detailed description of what the software, dataset, or tool does, how to use it, or what findings it supports.
   repo: CNU-DNS-Lab/your-repo-name
   tags:
-    - software
+    - software, project-id
 ```
 
 ---
@@ -421,7 +503,7 @@ Scroll to the bottom of `projects.yaml` and add a new entry following the templa
 | **`link`** | **Yes** | Primary URL where users can access the code, paper, or dataset. | `https://github.com/CNU-DNS-Lab/PLDC-Net` |
 | **`description`** | **Yes** | 1–3 sentence summary explaining the project. Supports Markdown formatting. | `This repository includes code for the PLDC-Net architecture...` |
 | **`repo`** | Optional | GitHub repository path (`organization/repo-name`). Displays live repo stats (e.g. stars/forks) if enabled. | `CNU-DNS-Lab/PLDC-Net` |
-| **`tags`** | Optional | Tag list for site filtering (`software`, `dataset`, `publication`, `resource`). | `- dataset` |
+| **`tags`** | Optional | Tag list for site project assignment and filtering (`project-id`, `software`, `dataset`, `publication`). | `- digital-agriculture - dataset` |
 
 ---
 
@@ -439,16 +521,18 @@ Here are two example entries as structured in `/_data/projects.yaml`:
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - dataset
+    - Digital-Agriculture
 
 - title: PLDC-Net
   subtitle: PLDC-Net implemented using TensorFlow and Keras
   group: featured
   image: images/pldcnet.png
   link: https://github.com/CNU-DNS-Lab/PLDC-Net
-  description: This repository includes the code for the architecture of PLDC-Net as well as a script with the setup to train it. The default parameters are set to be the same as they were in the paper when the model was trained on PLDC-80.
+  description: This repository includes the code for the architecture of PLDC-Net as well as a script to with the set up to train it. The default parameters are set to be the same as they were in the paper when the model was trained on PLDC-80.
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
     - software
+    - Digital-Agriculture
 ```
 
 ---
@@ -477,6 +561,10 @@ If your project includes a thumbnail (`image: images/your-project.png`):
 🎉 **Done!** GitHub Pages will build your changes and display the new project on the site automatically.
 
 </details>
+
+
+
+
 
 
 <details>
