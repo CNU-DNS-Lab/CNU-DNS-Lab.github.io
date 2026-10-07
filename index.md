@@ -3,8 +3,10 @@
 
 # CNU DNS Lab's Website
 
+<p class="center">
 Welcome to the website of DNS Lab at Chonnam National University. Here you can find projects conducted in our lab, papers published, members, and contact information.
 {% include section.html %}
+</p>
 
 ## Highlights
 
