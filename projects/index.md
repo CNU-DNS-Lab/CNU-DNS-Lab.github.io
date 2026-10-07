@@ -10,6 +10,7 @@ nav:
 {% include section.html %}
 
 [Jump to Open-Source Resources](#open-source-resources)
+
 Current Projects carried out at DNS Lab include:
 {% include search-info.html %}
 
