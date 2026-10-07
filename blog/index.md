@@ -7,7 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
+<p class="center">
 Blog posts can be found here.
+</p>
 
 {% include section.html %}
 
