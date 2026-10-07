@@ -3,13 +3,13 @@ name: Longfei Li
 image: images/longfei.png
 role: master
 group: alum
-affiliation: Wenzhou Fudeer<br>(AI Engineer)
+affiliation: Wenzhou Fudeer<br>(Director)
 links:
   email: lilongfei0712@gmail.com
   thesis: https://doi.org/10.23173/jnu.000000075141.24010.0011966
 ---
 
-LONGFEI LI received the B.S. degree in mechanical engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, South Korea, in 2022 and 2025, respectively. He currently works at Wenzhou Fudeer Sealing Technology Co.,Ltd. as an AI Engineer.
+LONGFEI LI received the B.S. degree in mechanical engineering and the M.S. degree in artificial intelligence convergence from Chonnam National University, South Korea, in 2022 and 2025, respectively. He currently works at Wenzhou Fudeer Sealing Technology Co.,Ltd. as Director and AI Engineer.
 His research interests include:
 
 - network management
