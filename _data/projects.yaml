@@ -6,28 +6,34 @@
     
 - title: Fed Med (ITRC)
   subtitle: Federated Learning AI for the medical field.
-  description: Privacy-preserving distributed learning framework
+  description: Privacy-preserving distributed learning framework. Research on a privacy-preserving distributed learning framework based on federated learning.
   tags:
     - Fed-Med
+
+- title: DNS-Based DID Resolution (KISA)
+  subtitle: Decentralized Identifier Resolution basde on DNS
+  description: Research on DNS-based resolution to support CRUD operations across diverse DID methods without relying on the centralized Universal Resolver.
+  tags:
+    - DID
 
     
 - title: GITRC – Mobility AI
   subtitle: AI for smart digital Agriculture systems
-  description: Mobility intelligence for networks using AI
+  description: Mobility intelligence for networks using AI. Research on AI-driven vehicle traffic flow optimization and inter-vehicle communication protocols.
   tags:
     - GITRC
 
     
 - title: SLAM
   subtitle: Simultaneous Localization and Mapping indoor system
-  description: Point cloud processing, localization, and map generation.
+  description: Point cloud processing, localization, and map generation. Research on path planning using 2D and 3D LiDAR and point cloud data.
   tags:
     - SLAM
 
     
 - title: Glocal LAB – AI + Military
   subtitle: AI-assisted agent for the military
-  description: AI-assisted agent for the military.
+  description: Planned research on improving radar object detection accuracy and exploring AI adoption in military applications. Status: Preparatory stage; full-scale research has not yet started.
   tags:
     - Glocal-LAB
 
@@ -41,7 +47,7 @@
     
 - title: MARL - BIMS
   subtitle: Smart Building Support with MARL based Energy Saving
-  description: Smart Building Support with MARL based Energy Saving.
+  description: Smart Building Support with MARL based Energy Saving. Research on optimizing building energy consumption using multi-agent reinforcement learning (MARL).
   tags:
     - MARL
 
