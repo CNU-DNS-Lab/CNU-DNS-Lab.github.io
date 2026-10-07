@@ -9,19 +9,16 @@ nav:
 
 {% include section.html %}
 
-[Jump to Open-Source Resources](#open-source-resources)
+<p class="center">
+  [Jump to Open-Source Resources](#open-source-resources)
+</p>
 
 Current Projects carried out at DNS Lab include:
 {% include search-info.html %}
 
 {% include list.html component="simple-card" data="projects" style="small" %}
 
-
-{% include section.html %}
-
 ## Open-Source Resources
-
-{% include section.html %}
 
 Resource Category:
 {% include tags.html tags="dataset, software, publication" %}
