@@ -1,21 +1,47 @@
-- title: PLDC-80 Dataset
-  subtitle: Benchmarking Dataset for Plant Leaf Disease Classification
-  group: featured
-  image: images/pldc80.png
-  link: https://github.com/CNU-DNS-Lab/PLDC-Net
-  description: Instructions for building PLDC-80, a Benchmarking Dataset for Plant Leaf Disease Classification, from public sources.
-  repo: CNU-DNS-Lab/PLDC-Net
+- title: Digital Agriculture
+  subtitle: AI for smart digital Agriculture systems
+  description: This project focuses on utilizing AI models for the improvement of digital agriculture systems, by reducing loss of crops and increasing yield. Currently we focus on systems for the early identification of plant diseases in field through plant leaf disease identification DL computer vision models.
   tags:
-    - dataset
     - Digital-Agriculture
+    
+- title: Fed Med (ITRC)
+  subtitle: Federated Learning AI for the medical field.
+  description: Privacy-preserving distributed learning framework
+  tags:
+    - Fed-Med
 
-- title: PLDC-Net
-  subtitle: PLDC-Net implemented using TensorFlow and Keras
-  group: featured
-  image: images/pldcnet.png
-  link: https://github.com/CNU-DNS-Lab/PLDC-Net
-  description: This repository includes the code for the architecture of PLDC-Net as well as a script to with the set up to train it. The default parameters are set to be the same as they were in the paper when the model was trained on PLDC-80.
-  repo: CNU-DNS-Lab/PLDC-Net
+    
+- title: GITRC – Mobility AI
+  subtitle: AI for smart digital Agriculture systems
+  description: Mobility intelligence for networks using AI
   tags:
-    - software
-    - Digital-Agriculture
+    - GITRC
+
+    
+- title: SLAM
+  subtitle: Simultaneous Localization and Mapping indoor system
+  description: Point cloud processing, localization, and map generation.
+  tags:
+    - SLAM
+
+    
+- title: Glocal LAB – AI + Military
+  subtitle: AI-assisted agent for the military
+  description: AI-assisted agent for the military.
+  tags:
+    - Glocal-LAB
+
+    
+- title: AICONV – AI
+  subtitle: AI for healthcare, energy & monitoring systems
+  description: AI for healthcare, energy & monitoring systems.
+  tags:
+    - AICONV
+
+    
+- title: MARL - BIMS
+  subtitle: Smart Building Support with MARL based Energy Saving
+  description: Smart Building Support with MARL based Energy Saving.
+  tags:
+    - MARL
+
