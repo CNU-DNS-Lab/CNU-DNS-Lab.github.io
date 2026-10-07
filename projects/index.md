@@ -6,6 +6,9 @@ nav:
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
+
+{% include section.html %}
+
 [Jump to Open-Source Resources](#open-source-resources)
 Current Projects carried out at DNS Lab include:
 {% include search-info.html %}
@@ -16,6 +19,8 @@ Current Projects carried out at DNS Lab include:
 {% include section.html %}
 
 ## Open-Source Resources
+
+{% include section.html %}
 
 Resource Category:
 {% include tags.html tags="dataset, software, publication" %}
