@@ -10,7 +10,7 @@ nav:
 {% include section.html %}
 
 <p class="center">
-  [Jump to Open-Source Resources](#open-source-resources)
+  <a href="#open-source-resources">Jump to Open-Source Resources</a>
 </p>
 
 Current Projects carried out at DNS Lab include:
