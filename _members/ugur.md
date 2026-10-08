@@ -6,7 +6,7 @@ affiliation: Chonnam National University
 links:
   github: UgurErcelik
   google-scholar: fu2zI0YAAAAJ
-  thesis: https://doi.org/10.23173/jnu.000000077433.24010.0015407
+  thesis: http://www.dcollection.net/handler/jnu/000000077433
 ---
 
 UGUR ERCELIK received the B.S. degree in information systems engineering from Kocaeli University, Izmit, Türkiye, in 2022. He is currently pursuing the M.S. degree in artificial intelligence convergence with Chonnam National University. 
