@@ -1,6 +1,6 @@
 ---
 name: Van-Quyet Nguyen
-image: images/van-quyet-nguyen.jpg
+image: images/members/van-quyet-nguyen.jpg
 role: phd
 group: alum
 affiliation: UTEHY<br>(Lecturer)
