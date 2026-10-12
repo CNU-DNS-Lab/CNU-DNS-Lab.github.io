@@ -1,6 +1,6 @@
 ---
 name: Geonmin Kim
-image: images/geonmin.png
+image: images/members/geonmin.png
 role: master
 affiliation: Chonnam National University
 links:
