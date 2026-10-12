@@ -21,7 +21,7 @@ Welcome to the website of DNS Lab at Chonnam National University. Here you can f
 <div style="margin-left: 2rem; display: flow-root;">
   {% assign sorted_citations = site.data.citations | sort: "date" | reverse | slice: 0, 5 %}
   {% for item in sorted_citations %}
-    {% include citation.html item=item %}
+    {% include citation.html include=item %}
   {% endfor %}
 </div>
 
