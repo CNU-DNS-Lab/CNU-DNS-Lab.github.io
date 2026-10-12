@@ -1,6 +1,6 @@
 ---
 name: Myeonghoon Lee
-image: images/myeonghoon-lee.png
+image: images/members/myeonghoon-lee.png
 role: master
 group: alum
 links:
