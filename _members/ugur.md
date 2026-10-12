@@ -1,6 +1,6 @@
 ---
 name: Ugur Ercelik
-image: images/ugur.png
+image: images/members/ugur.png
 role: phd
 affiliation: Chonnam National University
 links:
