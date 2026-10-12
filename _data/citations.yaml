@@ -1,20 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
 - id: doi:10.32431/kace.2026.29.3.006
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Analysis of the Effectiveness of Generative AI-based Programming Classes
+    for Middle School Students
+  authors:
+  - Hyunchul Shim
+  - Kyungbaek Kim
+  publisher: The Journal of Korean Association of Computer Education
+  date: '2026-03-31'
   link: https://doi.org/hck6bz
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pone.0316509
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'HCLmNet: A unified hybrid continual learning strategy multimodal network
+    for lung cancer survival prediction'
+  authors:
+  - MD Ilias Bappi
+  - David J. Richter
+  - Shivani Sanjay Kolekar
+  - Kyungbaek Kim
+  publisher: PLOS One
+  date: '2026-03-24'
   link: https://doi.org/hck535
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -23,21 +31,31 @@
   highlight:
   - bappi
   - kyungbaek-kim
+  - front-page
 - id: doi:10.1109/ICAIIC68212.2026.11454411
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Evaluating Knowledge Distillation for Plant Leaf Disease Classification
+  authors:
+  - David J. Richter
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: 2026 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2026-02-24'
   link: https://doi.org/hck6b2
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ACCESS.2026.3676500
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'ATC-FL: Adaptive Thompson Sampling for Efficient Clustering in Federated
+    Learning'
+  authors:
+  - Shivani Sanjay Kolekar
+  - Jisoo Shin
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
   link: https://doi.org/hck6b3
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -46,10 +64,15 @@
   highlight:
   - shivani
 - id: doi:10.1109/ACCESS.2026.3650927
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: An Improved Small Defect Classification System Using Image Patching Methodology
+    on Aluminum Car Doors
+  authors:
+  - Ugur Ercelik
+  - Hyeonseok Jin
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
   link: https://doi.org/hck6b4
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -58,20 +81,28 @@
   highlight:
   - ugur
 - id: doi:10.1109/ACCESS.2026.3723070
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: "Corrections to \u201CMulti-Convolutional Channel Residual Spatial Attention\
+    \ U-Net for Industrial and Medical Image Segmentation\u201D"
+  authors:
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
   link: https://doi.org/hck6b5
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ACCESS.2026.3723800
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Execution-Aware Stage-Wise Evaluation Framework for Indirect Prompt Injection
+    in LLM-Based Email Agents
+  authors:
+  - Hyeonji Jang
+  - Eunseong Lee
+  - Kyungbaek Kim
+  - Misoo Kim
+  publisher: IEEE Access
+  date: '2026-01-01'
   link: https://doi.org/hck6b6
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -80,21 +111,30 @@
   highlight:
   - hyeonji-jang
   - kyungbaek-kim
+  - front-page
 - id: doi:10.5805/SFTI.2025.27.6.636
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Pre-processing Method for Conversation-Based Fashion Curating Automation
+    Recommendation System
+  authors:
+  - Chulwoong Choi
+  - Wolhee Do
+  - Kyungbaek Kim
+  publisher: Fashion &amp; Textile Research Journal
+  date: '2025-12-31'
   link: https://doi.org/hck6b7
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.icte.2025.08.001
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: "Deep learning-based diabetic retinopathy recognition and grading: Challenges,\
+    \ gaps, and an improved approach \u2014 A survey"
+  authors:
+  - Md Ilias Bappi
+  - Jannat Afrin Juthy
+  - Kyungbaek Kim
+  publisher: ICT Express
+  date: '2025-10-01'
   link: https://doi.org/hck533
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -103,10 +143,15 @@
   highlight:
   - bappi
 - id: doi:10.3390/app15148089
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'A Survey on Video Big Data Analytics: Architecture, Technologies, and Open
+    Research Challenges'
+  authors:
+  - Thi-Thu-Trang Do
+  - Quyet-Thang Huynh
+  - Kyungbaek Kim
+  - Van-Quyet Nguyen
+  publisher: Applied Sciences
+  date: '2025-07-21'
   link: https://doi.org/hck6b8
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -114,10 +159,16 @@
   file: sources.yaml
   highlight: van-quyet-nguyen
 - id: doi:10.1177/20552076251393380
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Enhancing deep learning models for predicting smoking Status using clinical
+    data in patients with chronic obstructive pulmonary disease
+  authors:
+  - Sehyun Cho
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  - Sola Cho
+  - Ja Yun Choi
+  publisher: DIGITAL HEALTH
+  date: '2025-05-01'
   link: https://doi.org/hck6b9
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -138,10 +189,15 @@
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.1109/ACCESS.2025.3623702
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'A Data-Driven Model to Predict Regular Strength Exercise Patterns in Patients
+    With Chronic Obstructive Pulmonary Disease: A Secondary Analysis'
+  authors:
+  - Hyeonseok Jin
+  - Ja Yun Choi
+  - Sehyun Cho
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
   link: https://doi.org/hck6cc
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -150,10 +206,15 @@
   highlight:
   - hyeonseok
 - id: doi:10.1109/ACCESS.2025.3584404
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Systematic Review of the Current State of Transfer Learning Accelerated
+    CNN-Based Plant Leaf Disease Classification
+  authors:
+  - David J. Richter
+  - Md Ilias Bappi
+  - Shivani Sanjay Kolekar
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
   link: https://doi.org/hck6cd
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -178,10 +239,12 @@
   - hyeonseok
   - kyungbaek-kim
 - id: doi:10.1109/ACCESS.2025.3545117
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'STE-NTP: A Long-Short Period Aware Network Traffic Prediction Model'
+  authors:
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2025-01-01'
   link: https://doi.org/hck6cg
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -203,10 +266,13 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ACCESS.2024.3405957
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Multi-Convolutional Channel Residual Spatial Attention U-Net for Industrial
+    and Medical Image Segmentation
+  authors:
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: IEEE Access
+  date: '2024-01-01'
   link: https://doi.org/hck6ch
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -215,20 +281,30 @@
   highlight:
   - chen
 - id: doi:10.1109/ICAIIC57133.2023.10067059
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Data Pipeline Design for Dangerous Driving Behavior Detection System
+  authors:
+  - Hyeonjun Jo
+  - Sungwoong Yeom
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: 2023 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2023-02-20'
   link: https://doi.org/hck6cj
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICUFN57995.2023.10199942
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Design of Precision Medicine Web-service Platform Towards Health Care Digital
+    Twin
+  authors:
+  - Shivani Sanjay Kolekar
+  - Haoyu Chen
+  - Kyungbaek Kim
+  publisher: 2023 Fourteenth International Conference on Ubiquitous and Future Networks
+    (ICUFN)
+  date: '2023-07-04'
   link: https://doi.org/hck6ck
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -244,10 +320,18 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/s10922-023-09724-5
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'Networking Data and Intelligent Management in the Post-COVID19 Era: A Report
+    on APNOMS 2021'
+  authors:
+  - Jen-Jee Chen
+  - Ryo Yamamoto
+  - Kyungbaek Kim
+  - Jiun-Long Huang
+  - Kazuhiko Kinoshita
+  - Woojin Seok
+  - Li-Hsing Yen
+  publisher: Journal of Network and Systems Management
+  date: '2023-02-03'
   link: https://doi.org/hck6cm
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -264,20 +348,29 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3568562.3568667
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: "Big Data Knowledge Acquisition Platform for\_Smart\_Farming"
+  authors:
+  - Van-Quyet Nguyen
+  - Van-Hau Nguyen
+  - Minh-Quy Nguyen
+  - Quyet-Thang Huynh
+  - Kyungbaek Kim
+  publisher: The 11th International Symposium on Information and Communication Technology
+  date: '2022-12-01'
   link: https://doi.org/hck6cn
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/electronics11182938
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Smart Evacuation Guidance System for Large Buildings
+  authors:
+  - Van-Quyet Nguyen
+  - Huy-The Vu
+  - Van-Hau Nguyen
+  - Kyungbaek Kim
+  publisher: Electronics
+  date: '2022-09-16'
   link: https://doi.org/hck6cp
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -285,10 +378,14 @@
   file: sources.yaml
   highlight: van-quyet-nguyen
 - id: doi:10.1007/s10732-018-9402-0
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Estimating searching cost of regular path queries on large graphs by exploiting
+    unit-subqueries
+  authors:
+  - Van-Quyet Nguyen
+  - Quyet-Thang Huynh
+  - Kyungbaek Kim
+  publisher: Journal of Heuristics
+  date: '2018-11-30'
   link: https://doi.org/hck6cq
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -340,10 +437,13 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS56106.2022.9919928
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Security Service-aware Reinforcement Learning for Efficient Network Service
+    Provisioning
+  authors:
+  - Hyeonjun Jo
+  - Kyungbaek Kim
+  publisher: 2022 23rd Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2022-09-28'
   link: https://doi.org/hck6cv
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -378,10 +478,14 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transinf.2020EDL8056
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Effective Anomaly Detection in Smart Home by Analyzing Sensor Correlations
+  authors:
+  - Giang-Truong NGUYEN
+  - Van-Quyet NGUYEN
+  - Van-Hau NGUYEN
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2021-02-01'
   link: https://doi.org/hck6cz
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -415,20 +519,30 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3426020.3426169
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Accelerating Parallel Evaluation of Regular Path Queries on Large Graphs
+    by Estimating Joining Cost of Subqueries
+  authors:
+  - Van-Quyet Nguyen
+  - Van-Hau Nguyen
+  - Huy-The Vu
+  - Minh-Quy Nguyen
+  - Quyet-Thang Huynh
+  - Kyungbaek Kim
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
   link: https://doi.org/hck6c4
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3426020.3426093
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: AutoEncoder Based Feature Extraction for Multi-Malicious Traffic Classification
+  authors:
+  - Sungwoong Yeom
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
   link: https://doi.org/hck6c5
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -449,10 +563,13 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.23919/APNOMS50412.2020.9236957
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Dynamic Network Provisioning with AI-enabled Path Planning
+  authors:
+  - Hong-Nam Quach
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: 2020 21st Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2020-09-01'
   link: https://doi.org/hck6c7
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -512,10 +629,13 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3426020.3426072
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Survey on Reinforcement Learning based Efficient Routing in SDN
+  authors:
+  - Hong-Nam Quach
+  - Sungwoong Yeom
+  - Kyungbaek Kim
+  publisher: The 9th International Conference on Smart Media and Applications
+  date: '2020-09-17'
   link: https://doi.org/hck6dd
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -538,104 +658,142 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/SMARTCOMP.2019.00065
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Scalable Approach for Dynamic Evacuation Routing in Large Smart Buildings
+  authors:
+  - Van-Quyet Nguyen
+  - Huu-Duy Nguyen
+  - Quyet-Thang Huynh
+  - Nalini Venkatasubramanian
+  - Kyungbaek Kim
+  publisher: 2019 IEEE International Conference on Smart Computing (SMARTCOMP)
+  date: '2019-06-01'
   link: https://doi.org/hck6df
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3837/tiis.2019.05.023
-  title: ''
+  title: Traffic Seasonality aware Threshold Adjustment for Effective Source-side
+    DoS Attack Detection
   authors:
   - Giang-Truong Nguyen
   - Van-Quyet Nguyen
   - Sinh-Ngoc Nguyen,
   - Kyungbaek Kim
-  publisher: ''
-  date: ''
+  publisher: KSII Transactions on Internet and Information Systems
+  date: '2019-05-31'
   link: https://doi.org/hck6dg
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3745/JIPS.01.0024
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Survey about Consensus Algorithms Used in Blockchain
+  authors:
+  - Giang-Truong Nguyen
+  - Kyungbaek Kim
+  publisher: Journal of Information Processing Systems
+  date: '2018-02-28'
   link: https://doi.org/ggjjpd
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3184066.3184089
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Design and implementation of intrusion detection system using convolutional
+    neural network for DoS detection
+  authors:
+  - Sinh-Ngoc Nguyen
+  - Van-Quyet Nguyen
+  - Jintae Choi
+  - Kyungbaek Kim
+  publisher: Proceedings of the 2nd International Conference on Machine Learning and
+    Soft Computing
+  date: '2018-02-02'
   link: https://doi.org/hck6dh
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2018EDL8020
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Source-Side Detection of DRDoS Attack Request with Traffic-Aware Adaptive
+    Threshold
+  authors:
+  - Sinh-Ngoc NGUYEN
+  - Van-Quyet NGUYEN
+  - Giang-Truong NGUYEN
+  - JeongNyeo KIM
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2018-06-01'
   link: https://doi.org/gd7mz4
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-10-5041-1_43
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Assessing the Impact of DoS Attacks on IoT Gateway
+  authors:
+  - Yungee Lee
+  - Wangkwang Lee
+  - Giwon Shin
+  - Kyungbaek Kim
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2017-01-01'
   link: https://doi.org/hck6dj
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2017EDL8060
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient Regular Path Query Evaluation by Splitting with Unit-Subquery Cost
+    Matrix
+  authors:
+  - Van-Quyet NGUYEN
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2017-01-01'
   link: https://doi.org/gcr68r
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CAIPT.2017.8320668
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Enabling disaster-resilient SDN with location trustiness
+  authors:
+  - Van-Quyet Nguyen
+  - Sinh Ngoc Nguyen
+  - Kyungbaek Kim
+  publisher: 2017 4th International Conference on Computer Applications and Information
+    Processing Technology (CAIPT)
+  date: '2017-08-01'
   link: https://doi.org/hck6dk
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/3155133.3155160
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Estimating the Evaluation Cost of Regular Path Queries on Large Graphs
+  authors:
+  - Van-Quyet Nguyen
+  - Kyungbaek Kim
+  publisher: Proceedings of the Eighth International Symposium on Information and
+    Communication Technology
+  date: '2017-12-07'
   link: https://doi.org/hck6dm
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2017.8094142
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Location-aware dynamic network provisioning
+  authors:
+  - Van-Quyet Nguyen
+  - Sinh-Ngoc Nguyen
+  - Deokjai Choi
+  - Kyungbaek Kim
+  publisher: 2017 19th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2017-09-01'
   link: https://doi.org/hck6dn
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -674,20 +832,31 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/APNOMS.2017.8094143
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Suspicious traffic detection based on edge gateway sampling method
+  authors:
+  - Sinh-Ngoc Nguyen
+  - Jintae Choi
+  - Kyungbaek Kim
+  publisher: 2017 19th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2017-09-01'
   link: https://doi.org/hck6dr
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2016.7737233
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Design of service abstraction model for enhancing network provision in future
+    network
+  authors:
+  - Dharma N. Gde
+  - ' Quyet Nguyen-Van'
+  - ' Tiep Vu Duc'
+  - ' Ngoc Nguyen-Sinh'
+  - Prayuda J. D. Alvin
+  - ' Kyungbaek Kim'
+  - ' Deokjai Choi'
+  publisher: 2016 18th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2016-10-01'
   link: https://doi.org/hck6ds
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -735,140 +904,191 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.2014EDL8245
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Predicting User Attitude by Using GPS Location Clustering
+  authors:
+  - Rajashree S. SOKASANE
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2015-01-01'
   link: https://doi.org/hck6dw
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/APNOMS.2014.6996581
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Aggregation management design for user-defined network infrastructure
+  authors:
+  - Ardiansyah Musa
+  - Sungmin Hwang
+  - Fiqri Muthohar
+  - Gihyun Bang
+  - Deokjai Choi
+  - Kyungbaek Kim
+  - Wangcheol Song
+  - Seungjoon Seok
+  - Seunghae Kim
+  publisher: The 16th Asia-Pacific Network Operations and Management Symposium
+  date: '2014-09-01'
   link: https://doi.org/hck6dx
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TPDS.2013.280
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient and Reliable Application Layer Multicast for Flash Dissemination
+  authors:
+  - Kyungbaek Kim
+  - Sharad Mehrotra
+  - Nalini Venkatasubramanian
+  publisher: IEEE Transactions on Parallel and Distributed Systems
+  date: '2014-10-01'
   link: https://doi.org/f6hvgs
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/2543711
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Leveraging Social Feedback to Verify Online Identity Claims
+  authors:
+  - Michael Sirivianos
+  - Kyungbaek Kim
+  - Jian Wei Gan
+  - Xiaowei Yang
+  publisher: ACM Transactions on the Web
+  date: '2014-03-01'
   link: https://doi.org/hck6dz
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E97.D.1905
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Paging out Multiple Clusters to Improve Virtual Memory System Performance
+  authors:
+  - Woo Hyun AHN
+  - Joon-Woo CHOI
+  - Jaewon OH
+  - Seung-Ho LIM
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2014-01-01'
   link: https://doi.org/hck6d2
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.14257/ijmue.2014.9.2.16
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Reduce Authentication Delay in Eduroam Using Flat Layer Approach
+  authors:
+  - Rajashree Sokasane
+  - Kyungbaek Kim
+  publisher: International Journal of Multimedia and Ubiquitous Engineering
+  date: '2014-02-28'
   link: https://doi.org/hck6d3
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1587/transinf.E97.D.1918
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Two-Step Boosting for OSN Based Sybil-Resistant Trust Value of Non-Sybil
+    Identities
+  authors:
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2014-01-01'
   link: https://doi.org/hck6d4
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-642-40861-8_34
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Using Multiple Verifiers to Detect Sybils in a Social Network Graph
+  authors:
+  - Kyungbaek Kim
+  publisher: Lecture Notes in Electrical Engineering
+  date: '2014-01-01'
   link: https://doi.org/hck6d5
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/2488222.2489273
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: DYNATOPS
+  authors:
+  - Ye Zhao
+  - Kyungbaek Kim
+  - Nalini Venkatasubramanian
+  publisher: Proceedings of the 7th ACM international conference on Distributed event-based
+    systems
+  date: '2013-06-29'
   link: https://doi.org/hck6d6
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/TC.2012.68
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'ReCREW: A Reliable Flash-Dissemination System'
+  authors:
+  - M. Deshpande
+  - ' Kyungbaek Kim'
+  - B. Hore
+  - S. Mehrotra
+  - N. Venkatasubramanian
+  publisher: IEEE Transactions on Computers
+  date: '2013-07-01'
   link: https://doi.org/f4znw8
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/COMSNETS.2012.6151325
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Assessing the veracity of identity assertions via OSNs
+  authors:
+  - Michael Sirivianos
+  - Kyungbaek Kim
+  - Jian Wei Gan
+  - Xiaowei Yang
+  publisher: 2012 Fourth International Conference on Communication Systems and Networks
+    (COMSNETS 2012)
+  date: '2012-01-01'
   link: https://doi.org/hck6d7
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/SRDS.2012.35
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'GSFord: Towards a Reliable Geo-social Notification System'
+  authors:
+  - Kyungbaek Kim
+  - Ye Zhao
+  - Nalini Venkatasubramanian
+  publisher: 2012 IEEE 31st Symposium on Reliable Distributed Systems
+  date: '2012-10-01'
   link: https://doi.org/hck6d8
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E94.D.1830
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Assessing the Impact of Node Churn to Random Walk-Based Overlay Construction
+  authors:
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2011-01-01'
   link: https://doi.org/bwzvzz
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1145/2088876.2088878
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Enhancing cellular infrastructures
+  authors:
+  - Jinsu Wang
+  - Sharad Mehrotra
+  - Kyungbaek Kim
+  - Nalini Venkatasubramanian
+  publisher: Adaptive and Reflective Middleware on Proceedings of the International
+    Workshop
+  date: '2011-12-12'
   link: https://doi.org/fzf52n
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -901,20 +1121,25 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-642-16955-7_9
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: 'FaReCast: Fast, Reliable Application Layer Multicast for Flash Dissemination'
+  authors:
+  - Kyungbaek Kim
+  - Sharad Mehrotra
+  - Nalini Venkatasubramanian
+  publisher: Lecture Notes in Computer Science
+  date: '2010-01-01'
   link: https://doi.org/cff3wr
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1587/transinf.E93.D.3403
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Relative MTTF-Based Incentive Scheme for Availability-Based Replication in
+    P2P Systems
+  authors:
+  - Kyungbaek KIM
+  publisher: IEICE Transactions on Information and Systems
+  date: '2010-01-01'
   link: https://doi.org/dg2fq6
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -930,10 +1155,11 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.comcom.2008.12.044
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Dynamic nodeID based heterogeneity aware p2p system
+  authors:
+  - Kyungbaek Kim
+  publisher: Computer Communications
+  date: '2009-04-01'
   link: https://doi.org/bnzrbm
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -948,30 +1174,35 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietcom/e91-b.12.4020
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Lifetime-Aware Replication for Data Durability in P2P Storage Network
+  authors:
+  - K. KIM
+  publisher: IEICE Transactions on Communications
+  date: '2008-12-01'
   link: https://doi.org/fhqqst
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/ICN.2008.27
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Time-Related Replication for P2P Storage System
+  authors:
+  - Kyungbaek Kim
+  publisher: Seventh International Conference on Networking (icn 2008)
+  date: '2008-04-01'
   link: https://doi.org/br5xhq
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.4018/978-1-59140-993-9.ch017
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Content-Aware Caching for Cooperative Transcoding Proxies
+  authors:
+  - Kyungbaek Kim
+  - Byungjip Kim
+  - Daeyeon Park
+  publisher: Encyclopedia of Internet Technologies and Applications
+  date: '2008-01-01'
   link: https://doi.org/b7qrt8
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -993,70 +1224,86 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.4018/978-1-59140-993-9.ch025
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient and Scalable Client-Clustering for Proxy Cache
+  authors:
+  - Kyungbaek Kim
+  - Daeyeon Park
+  publisher: Encyclopedia of Internet Technologies and Applications
+  date: '2008-01-01'
   link: https://doi.org/cwfb66
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietisy/e90-1.1.48
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient and Tailored Resource Management for the P2P Web Caching
+  authors:
+  - K. KIM
+  - D. PARK
+  publisher: IEICE Transactions on Information and Systems
+  date: '2007-01-01'
   link: https://doi.org/bdcfsc
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/ietisy/e90-d.9.1452
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Reducing Replication Overhead for Data Durability in DHT Based P2P System
+  authors:
+  - K. KIM
+  - D. PARK
+  publisher: IEICE Transactions on Information and Systems
+  date: '2007-09-01'
   link: https://doi.org/bmkbx4
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/11919568_97
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Heterogeneity Aware P2P Algorithm by Using Mobile nodeID
+  authors:
+  - Kyungbaek Kim
+  - Daeyeon Park
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
   link: https://doi.org/d8zjhc
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/11847366_94
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Reducing Data Replication Overhead in DHT Based Peer-to-Peer System
+  authors:
+  - Kyungbaek Kim
+  - Daeyeon Park
+  publisher: Lecture Notes in Computer Science
+  date: '2006-01-01'
   link: https://doi.org/b7kjnh
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/JCN.2006.6182773
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Reducing outgoing traffic of proxy cache by using client-cluster
+  authors:
+  - Kyungbaek Kim
+  - Daeyeon Park
+  publisher: Journal of Communications and Networks
+  date: '2006-09-01'
   link: https://doi.org/hck6d9
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/AICT.2005.41
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient resource management for the P2P Web caching
+  authors:
+  - ' Kyungbaek Kim'
+  - ' Daeyeon Park'
+  publisher: Advanced Industrial Conference on Telecommunications/Service Assurance
+    with Partial and Intermittent Resources Conference/E-Learning on Telecommunications
+    Workshop (AICT/SAPIR/ELETE'05)
+  date: '2005-01-01'
   link: https://doi.org/db7zqh
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -1094,10 +1341,13 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/978-3-540-45076-4_9
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient and Scalable Client-Clustering for Proxy Cache
+  authors:
+  - Kyungbaek Kim
+  - Woo Jin Kim
+  - Daeyeon Park
+  publisher: Lecture Notes in Computer Science
+  date: '2003-01-01'
   link: https://doi.org/bxsdbh
   orcid: 0000-0001-9985-3051
   kyungbaek-kim: true
@@ -1137,18 +1387,23 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3745/PKIPS.y2025m11a.787
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: Efficient Fashion Complementary Prediction via 4-bit Quantized LLM Fine-Tuning
+    with LoRA
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-11-06'
   link: https://doi.org/hck827
   plugin: sources.py
   file: sources-roshidat.yaml
 - id: doi:10.3745/PKIPS.y2024m10a.660
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: A Study of MultiModal Foundation Model in Fashion Recommendation
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbeak Kim
+  publisher: Annual Conference of KIPS
+  date: '2024-10-31'
   link: https://doi.org/hck828
   plugin: sources.py
   file: sources-roshidat.yaml
@@ -1166,6 +1421,7 @@
   link: https://doi.org/hcmf9j
   highlight:
   - seyeon-jeong
+  - front-page
   plugin: sources.py
   file: sources-seyeon-jeong.yaml
 - id: doi:10.1038/s41598-025-03235-w
@@ -1204,6 +1460,7 @@
   highlight:
   - david
   - kyungbaek-kim
+  - front-page
   plugin: sources.py
   file: sources-david.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.713
@@ -1241,7 +1498,7 @@
   - Ugur Ercelik
   - Kyungbaek Kim
   publisher: Annual Conference of KIPS
-  date: '2026-01-01'
+  date: '2026-05-20'
   link: https://doi.org/hck826
   plugin: sources.py
   file: sources-ugur.yaml
@@ -1322,6 +1579,7 @@
   highlight:
   - shivani
   - kyungbaek-kim
+  - front-page
   plugin: sources.py
   file: sources-shivani.yaml
 - id: doi:10.1109/ICAIIC68212.2026.11454181
@@ -1503,10 +1761,13 @@
   plugin: sources.py
   file: sources-bappi.yaml
 - id: doi:10.3745/PKIPS.y2025m05a.705
-  title: ''
-  authors: []
-  publisher: ''
-  date: ''
+  title: "Exploring the Impact of Data Augmentation Techniques on Parkinson\u2019\
+    s Disease Detection Using S-BERT"
+  authors:
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
   link: https://doi.org/hck54k
   plugin: sources.py
   file: sources-bappi.yaml
