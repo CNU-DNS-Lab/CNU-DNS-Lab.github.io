@@ -1,6 +1,6 @@
 ---
 name: Dere Roshidat Oluwabukola
-image: images/roshidat.png
+image: images/members/roshidat.png
 role: phd
 affiliation: Chonnam National University
 aliases:
