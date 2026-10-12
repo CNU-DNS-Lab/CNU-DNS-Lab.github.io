@@ -1,6 +1,6 @@
 ---
 name: Hyeonseok Jin
-image: images/hyeonseok.png
+image: images/members/hyeonseok.png
 role: master
 group: alum
 affiliation: KENTECH<br>(PhD Student)
