@@ -1,6 +1,6 @@
 ---
 name: Kimhor Mong
-image: images/kimhor.png
+image: images/members/kimhor.png
 role: master
 affiliation: Chonnam National University
 aliases:
