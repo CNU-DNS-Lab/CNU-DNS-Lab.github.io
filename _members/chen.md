@@ -1,6 +1,6 @@
 ---
 name: Haoyu Chen
-image: images/chen.png
+image: images/members/chen.png
 role: master
 group: alum
 affiliation: CATL<br>(AI Engineer)
