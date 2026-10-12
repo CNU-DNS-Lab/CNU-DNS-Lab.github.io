@@ -18,10 +18,7 @@ Welcome to the website of DNS Lab at Chonnam National University. Here you can f
 
 #### Recent Publications:
 <div style="margin-left: 2rem; display: flow-root;">
-  {% assign sorted_citations = site.data.citations | sort: "date" | reverse | slice: 0, 5 %}
-  {% for item in sorted_citations %}
-    {% include citation.html include=item %}
-  {% endfor %}
+{% include select_references.html data="citations" component="citation" limit="5"%}
 </div>
 
 #### Recent News:
