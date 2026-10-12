@@ -96,7 +96,9 @@ Meet the DNS Lab team.
 {% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /front-page/i" limit="5"%}
 </div>
 <p class="center">
+  
 [All publications can be found here!](research)
+
 </p>
 
 ## Recent Publications:
@@ -104,7 +106,9 @@ Meet the DNS Lab team.
 {% include select_references.html data="citations" component="citation" limit="5"%}
 </div>
 <p class="center">
+  
 [All publications can be found here!](research)
+
 </p>
 
 ## Recent News:
@@ -114,7 +118,9 @@ Meet the DNS Lab team.
   {% endfor %}
 </div>
 <p class="center">
+  
 [All news can be found here!](blog)
+
 </p>
 
 ## Current Projects:
@@ -154,7 +160,9 @@ Meet the DNS Lab team.
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
 
 <p class="center">
+  
 [All projects can be found here!](projects)
+
 </p>
 
 
