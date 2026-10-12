@@ -1,6 +1,6 @@
 ---
 name: David Richter
-image: images/david.png
+image: images/members/david.png
 role: phd
 affiliation: Chonnam National University
 aliases:
