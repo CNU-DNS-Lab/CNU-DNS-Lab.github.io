@@ -1,6 +1,6 @@
 ---
 name: Urusha Shakhakarmi
-image: images/urusha.png
+image: images/members/urusha.png
 role: master
 affiliation: Chonnam National University
 links:
