@@ -1,6 +1,6 @@
 ---
 name: Shivani Sanjay Kolekar
-image: images/shivani.png
+image: images/members/shivani.png
 role: phd
 affiliation: Chonnam National University
 links:
