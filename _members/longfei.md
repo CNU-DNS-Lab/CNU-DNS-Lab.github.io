@@ -1,6 +1,6 @@
 ---
 name: Longfei Li
-image: images/longfei.png
+image: images/members/longfei.png
 role: master
 group: alum
 affiliation: Wenzhou Fudeer<br>(Director)
