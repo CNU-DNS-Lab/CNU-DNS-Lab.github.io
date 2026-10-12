@@ -1,6 +1,6 @@
 ---
 name: Bayaraa Tumur Orchir
-image: images/tumur.png
+image: images/members/tumur.png
 role: master
 affiliation: Chonnam National University
 aliases:
