@@ -1,6 +1,6 @@
 ---
 name: Seyeon Jeong
-image: images/seyeon-jeong.png
+image: images/members/seyeon-jeong.png
 role: master
 affiliation: Chonnam National University
 links:
