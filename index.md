@@ -10,6 +10,67 @@ Welcome to the website of DNS Lab at Chonnam National University. Here you can f
 
 ## Highlights
 
+
+
+### Select Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+{% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /front-page/i" limit="5"%}
+</div>
+
+### Recent Publications:
+<div style="margin-left: 2rem; display: flow-root;">
+  {% assign sorted_citations = site.data.citations | sort: "date" | reverse | slice: 0, 5 %}
+  {% for item in sorted_citations %}
+    {% include citation.html item=item %}
+  {% endfor %}
+</div>
+
+### Recent News:
+<div style="display: flow-root;">
+  {% for post in site.posts limit: 5 %}
+    {% include post-excerpt.html post=post %}
+  {% endfor %}
+</div>
+
+### Current Projects:
+{% capture col1 %}
+<ul>
+  {% for project in site.data.projects %}
+    {% assign rem = forloop.index0 | modulo: 3 %}
+    {% if rem == 0 %}
+      <li>{{ project.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endcapture %}
+
+{% capture col2 %}
+<ul>
+  {% for project in site.data.projects %}
+    {% assign rem = forloop.index0 | modulo: 3 %}
+    {% if rem == 1 %}
+      <li>{{ project.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endcapture %}
+
+{% capture col3 %}
+<ul>
+  {% for project in site.data.projects %}
+    {% assign rem = forloop.index0 | modulo: 3 %}
+    {% if rem == 2 %}
+      <li>{{ project.title }}</li>
+    {% endif %}
+  {% endfor %}
+</ul>
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+
+### Navigation:
+
 {% capture text %}
 
 Here you can find a list of select published research by our lab.
