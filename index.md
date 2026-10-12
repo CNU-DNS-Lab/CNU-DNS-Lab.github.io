@@ -11,7 +11,6 @@ Welcome to the website of DNS Lab at Chonnam National University. Here you can f
 ## Highlights
 
 
-
 #### Select Publications:
 <div style="margin-left: 2rem; display: flow-root;">
 {% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /front-page/i" limit="5"%}
