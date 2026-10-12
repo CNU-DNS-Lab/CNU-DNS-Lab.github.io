@@ -1,6 +1,6 @@
 ---
 name: Minjun Choi
-image: images/minjun-choi.png
+image: images/members/minjun-choi.png
 role: master
 affiliation: Chonnam National University
 links:
