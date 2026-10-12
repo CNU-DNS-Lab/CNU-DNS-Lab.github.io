@@ -1,6 +1,6 @@
 ---
 name: Hyeonji Jang
-image: images/hyeonji-jang.png
+image: images/members/hyeonji-jang.png
 role: master
 affiliation: Chonnam National University
 links:
