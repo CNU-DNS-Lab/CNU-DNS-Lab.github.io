@@ -31,4 +31,4 @@ Resource Category:
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="open-source" style="small" %}
+{% include list.html component="card" data="open-source" %}
