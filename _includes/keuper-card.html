@@ -1,20 +1,15 @@
-{%- if include.style == "small" -%}
-  {%- assign width = 200 -%}
-{%- else -%}
-  {%- assign width = 350 -%}
-{%- endif -%}
-
-<div class="card" data-style="{{ include.style }}" style="--width: {{ width }}px;">
+{::nomarkdown}
+<div class="card" data-style="{{ include.style }}">
   <a
     {% if include.link %}
       href="{{ include.link | relative_url | uri_escape }}"
     {% endif %}
-    aria-label="{{ include.title | default: "card link" | regex_strip }}"
+    aria-label="{{ include.title | default: 'card link' | regex_strip }}"
     class="card-image"
   >
     <img
       src="{{ include.image | relative_url | uri_escape }}"
-      alt="{{ include.title | default: "card image" | regex_strip }}"
+      alt="{{ include.title | default: 'card image' | regex_strip }}"
       loading="lazy"
       {% include fallback.html %}
     >
@@ -53,3 +48,4 @@
     {% endif %}
   </div>
 </div>
+{:/}
