@@ -1,3 +1,4 @@
+{{ " " }}
 {%- if include.style == "small" -%}
   {%- assign width = 200 -%}
 {%- else -%}
@@ -12,9 +13,8 @@
   {%- assign tag = "span" -%}
 {%- endif -%}
 
-{::nomarkdown}
-<div class="keuper-card" style="--width: {{ width }}px">
-  <{{ tag }} href="{{ include.link | relative_url | uri_escape }}" class="keuper-card_image{% if include.image-fit == 'contain' %} keuper-card_image_contain{% endif %}">
+<span class="card" style="--width: {{ width }}px">
+  <{{ tag }} href="{{ include.link | relative_url | uri_escape }}" class="card_image{% if include.image-fit == 'contain' %} card_image_contain{% endif %}">
     <img
       src="{{ include.image | relative_url | uri_escape }}"
       onerror="this.src = '{{ placeholder }}'; this.onerror = null;"
@@ -22,30 +22,25 @@
       alt="{{ include.title | default: 'card image' | escape }}"
     >
     {% if include.ribbon %}
-      <img class="keuper-card_ribbon" src="{{ include.ribbon | relative_url | uri_escape }}" alt="{{ include.award | default: 'Award' | escape }}">
+      <img class="card_ribbon" src="{{ include.ribbon | relative_url | uri_escape }}" alt="{{ include.award | default: 'Award' | escape }}">
     {% endif %}
   </{{ tag }}>
 
-  <div class="keuper-card_text">
-    {%- if include.title -%}
-      <{{ tag }} href="{{ include.link | relative_url | uri_escape }}" {% if include.tooltip %}data-tooltip="{{ include.tooltip | xml_escape }}"{% endif %} class="keuper-card_title">
-        {{- include.title -}}
-      </{{ tag }}>
-    {%- endif -%}
+  {%- if include.title -%}
+    <{{ tag }} href="{{ include.link | relative_url | uri_escape }}" {% if include.tooltip %}data-tooltip="{{ include.tooltip | xml_escape }}"{% endif %} class="card_title">
+      {{- include.title -}}
+    </{{ tag }}>
+  {%- endif -%}
 
-    {%- if include.subtitle -%}
-      <span class="keuper-card_subtitle">{{- include.subtitle -}}</span>
-    {%- endif -%}
+  {%- if include.subtitle -%}
+    <span class="card_subtitle">{{- include.subtitle -}}</span>
+  {%- endif -%}
 
-    {%- if include.description -%}
-      <div class="keuper-card_description">
-        {{- include.description | markdownify -}}
-      </div>
-    {%- endif -%}
+  {%- if include.description -%}
+    {{- include.description | markdownify -}}
+  {%- endif -%}
 
-    {%- if include.tags or include.repo -%}
-      {%- include tags.html tags=include.tags repo=include.repo -%}      
-    {%- endif -%}
-  </div>
-</div>
-{:/}
+  {%- if include.tags or include.repo -%}
+    {%- include tags.html tags=include.tags repo=include.repo -%}      
+  {%- endif -%}
+</span>
