@@ -52,29 +52,46 @@
 }
 
 /* ==========================================
-   KEUPER Card Style Option
+   KEUPER Style: Framed Image, Text Outside
    ========================================== */
 .card[data-style="keuper"] {
+  background: transparent !important;
+  box-shadow: none !important;
+  border: none !important;
+  width: 350px;
+  max-width: calc(100% - 20px - 20px);
+  margin: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  vertical-align: top;
   text-align: center;
 }
 
 .card[data-style="keuper"] .card-image {
-  background: #ffffff; /* Clean white background for logos */
-  padding: 24px;       /* Breathing room around logos */
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.08); /* Clean subtle border */
+  border-radius: var(--rounded);
+  box-shadow: var(--shadow);             /* Puts the shadow/frame on the image box */
+  padding: 24px;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .card[data-style="keuper"] .card-image img {
-  object-fit: contain; /* Prevents logos from being cropped */
+  object-fit: contain;                   /* Keeps logos uncropped */
   aspect-ratio: 16 / 9;
   width: 100%;
   height: auto;
 }
 
 .card[data-style="keuper"] .card-text {
+  background: transparent !important;
+  box-shadow: none !important;
+  padding: 16px 8px;                     /* Spacing between frame and text */
   align-items: center;
   text-align: center;
+  width: 100%;
 }
