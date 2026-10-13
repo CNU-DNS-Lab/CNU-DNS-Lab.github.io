@@ -1,5 +1,6 @@
 - title: Digital Agriculture
   subtitle: AI for smart digital Agriculture systems
+  image: https://www.mafra.go.kr/sites/mafra/images/img_MI_03.png
   description: This project focuses on utilizing AI models for the improvement of digital agriculture systems, by reducing loss of crops and increasing yield. Currently we focus on systems for the early identification of plant diseases in field through plant leaf disease identification DL computer vision models.
   tags:
     - Digital-Agriculture
