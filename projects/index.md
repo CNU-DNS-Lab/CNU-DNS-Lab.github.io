@@ -19,7 +19,7 @@ Current Projects carried out at DNS Lab include:
 
 {% include search-info.html %}
 
-{% include list.html component="card" data="projects" %}
+{% include list.html component="card" data="projects" style="keuper" %}
 
 ## Open-Source Resources
 
