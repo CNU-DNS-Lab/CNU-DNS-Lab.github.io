@@ -47,4 +47,32 @@
   font-style: italic;
 }
 
+/* ==========================================
+   KEUPER Card Style Option
+   ========================================== */
+.card[data-style=keuper] {
+  text-align: center;
+}
+
+.card[data-style=keuper] .card-image {
+  background: #ffffff; /* Clean white background for logos */
+  padding: 24px; /* Breathing room around logos */
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.card[data-style=keuper] .card-image img {
+  object-fit: contain; /* Prevents logos from being cropped */
+  aspect-ratio: 16/9;
+  width: 100%;
+  height: auto;
+}
+
+.card[data-style=keuper] .card-text {
+  align-items: center;
+  text-align: center;
+}
+
 /*# sourceMappingURL=card.css.map */
