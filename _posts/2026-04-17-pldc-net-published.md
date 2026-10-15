@@ -1,6 +1,6 @@
 ---
 title: PLDC-Net paper published and Code public
-image: images/pldcnet.png
+image: images/opensource/pldcnet.png
 author: david
 tags: agriculture, computer-vision, model, publication, journal
 dois:
