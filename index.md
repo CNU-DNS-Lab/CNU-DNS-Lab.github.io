@@ -92,17 +92,14 @@ Meet the DNS Lab team.
 
 
 ## Select Publications:
-<div style="margin-left: 2rem; display: flow-root;">
 {% include select_references.html data="citations" component="citation" filter="highlight.to_s =~ /front-page/i" limit="5"%}
-</div>
+
 <p class="center">
   <a href="research">All publications can be found here!</a>
 </p>
 
 ## Recent Publications:
-<div style="margin-left: 2rem; display: flow-root;">
 {% include select_references.html data="citations" component="citation" limit="5"%}
-</div>
 
 <p class="center">
   <a href="research">All publications can be found here!</a>
