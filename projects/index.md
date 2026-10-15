@@ -27,7 +27,7 @@ Current Projects carried out at DNS Lab include:
 Resource Category:
 </p>
 
-{% include tags.html tags="dataset, software, publication" %}
+{% include tags.html tags="dataset, model, publication" %}
 
 {% include search-info.html %}
 
