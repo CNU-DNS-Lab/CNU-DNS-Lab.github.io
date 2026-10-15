@@ -1,6 +1,6 @@
 ---
 title: PLDC-80 paper published and dataset instructions shared
-image: images/pldc80.png
+image: images/opensource/pldc80.png
 author: david
 tags: agriculture, computer-vision, dataset, publication, conference
 dois:
