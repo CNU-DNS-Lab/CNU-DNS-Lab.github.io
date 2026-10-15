@@ -1,7 +1,6 @@
 - title: PLDC-80 Dataset
   subtitle: Benchmarking Dataset for Plant Leaf Disease Classification
-  group: featured
-  image: images/pldc80.png
+  image: images/opensource/pldc80.png
   link: https://github.com/CNU-DNS-Lab/PLDC-Net
   description: Instructions for building PLDC-80, a Benchmarking Dataset for Plant Leaf Disease Classification, from public sources.
   repo: CNU-DNS-Lab/PLDC-Net
@@ -11,12 +10,21 @@
 
 - title: PLDC-Net
   subtitle: PLDC-Net implemented using TensorFlow and Keras
-  group: featured
-  image: images/pldcnet.png
+  image: images/opensource/pldcnet.png
   link: https://github.com/CNU-DNS-Lab/PLDC-Net
   description: This repository includes the code for the architecture of PLDC-Net as well as a script with the set up to train it on PLDC-80. 
   repo: CNU-DNS-Lab/PLDC-Net
   tags:
-    - software
+    - model
     - Digital-Agriculture
+
+- title: DATC-STP
+  subtitle: Accurate yet Efficient Spatiotemporal Prediction with Transformer-style CNN
+  image: images/opensource/datc-stp.png
+  link: https://github.com/CNU-DNS-Lab/DATC-STP
+  description: This repository includes the code for the architecture of DATC-STP for Accurate yet Efficient Spatiotemporal Prediction using a Transformer-style CNN.
+  repo: CNU-DNS-Lab/DATC-STP
+  tags:
+    - model
+    - Spatiotemporal-Prediction
 
