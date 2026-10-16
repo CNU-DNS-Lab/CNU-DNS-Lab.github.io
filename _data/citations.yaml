@@ -1331,7 +1331,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: issn:09168532
-  title: ISSN 0916-8532 - IEICE transactions on information and systems
+  title: Making sure you're not a bot!
   authors: []
   publisher: ''
   date: ''
