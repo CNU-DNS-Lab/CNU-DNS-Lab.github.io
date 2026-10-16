@@ -35,6 +35,8 @@ Spend less time worrying about managing a website and citations, and more time r
 
 [**Documentation**](https://greene-lab.gitbook.io/lab-website-template-docs)
 
+[**GitHub Template**](https://github.com/greenelab/lab-website-template)
+
 ## Key Features
 
 - 🤖 Based on Git, GitHub, and Jekyll.
