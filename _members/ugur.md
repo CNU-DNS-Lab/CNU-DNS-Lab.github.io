@@ -6,6 +6,7 @@ affiliation: Chonnam National University
 links:
   github: UgurErcelik
   google-scholar: fu2zI0YAAAAJ
+  researchgate: Ugur-Ercelik
   thesis: http://www.dcollection.net/handler/jnu/000000077433
 ---
 
