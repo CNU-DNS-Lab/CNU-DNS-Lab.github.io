@@ -79,10 +79,15 @@ You can include any of the following social/academic links under `links:`. *Make
 
 * `email`: `your-email@domain.com`
 * `google-scholar`: ID of your Google Scholar profile
-* `github`: Your GitHub username or full profile URL
+* `github`: Your GitHub username
 * `linkedin`: Full URL to your LinkedIn profile
 * `twitter`: Your Twitter handle (without `@`)
+* `orcid`: Your ORCID
+* `researchgate`: Your ResearchGate URL ID
 * `home-page`: URL to your personal website
+* `website`: URL to your personal website
+* `thesis`: URL to your thesis
+* `cv`: URL to your cv
 
 ---
 
