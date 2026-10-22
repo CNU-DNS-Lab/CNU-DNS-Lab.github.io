@@ -7,7 +7,8 @@ affiliation: UTEHY<br>(Lecturer)
 links:
   email: quyetict@utehy.edu.vn
   website: https://quyetnv.utehy.edu.vn/index.html
-  thesis: https://doi.org/10.23173/jnu.000000061188.24010.0000389
+  dissertation: https://doi.org/10.23173/jnu.000000061188.24010.0000389
+  researchgate: Van-Quyet-Nguyen-2
   orcid: 0000-0002-6898-4224
 ---
 
