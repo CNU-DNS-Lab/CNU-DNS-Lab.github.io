@@ -1,2 +1,4 @@
 - id: doi:10.14257/ijseia.2014.8.10.17
   remove: true
+- id: doi:10.1109/ACCESS.2026.3723070
+  remove: true
