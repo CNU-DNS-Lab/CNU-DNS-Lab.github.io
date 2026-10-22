@@ -11,6 +11,7 @@ links:
   website: https://jhs-164179.github.io/
   cv: https://jhs-164179.github.io/files/CV_hyeonseokjin.pdf
   linkedin: hyeonseok-jin
+  researchgate: Hyeonseok-Jin-2
   thesis: https://doi.org/10.23173/jnu.000000076408.24010.0012633
 ---
 
