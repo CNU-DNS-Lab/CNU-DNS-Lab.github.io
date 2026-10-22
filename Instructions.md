@@ -86,9 +86,8 @@ You can include any of the following social/academic links under `links:`. *Make
 * `researchgate`: Your ResearchGate URL ID
 * `home-page`: URL to your personal website
 * `website`: URL to your personal website
-* `thesis`: URL to your Master's thesis
-* `dissertation`: URL to your PhD Dissertation
-* `cv`: URL to your CV
+* `thesis`: URL to your thesis
+* `cv`: URL to your cv
 
 ---
 
