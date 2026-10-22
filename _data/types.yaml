@@ -154,8 +154,15 @@ cv:
 
 thesis:
   icon: fa-solid fa-book
-  text: Thesis/Dissertation
-  tooltip: Thesis/Dissertation
+  text: Thesis
+  tooltip: Thesis
+  link: $VALUE
+
+
+dissertation:
+  icon: fa-solid fa-book-bookmark
+  text: Dissertation
+  tooltip: Dissertation
   link: $VALUE
 
 # alerts
