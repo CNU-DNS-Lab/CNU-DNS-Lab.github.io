@@ -7,6 +7,7 @@ links:
   orcid: 0009-0000-7616-3074
   github: ibappi
   google-scholar: IfRRXdcAAAAJ
+  researchgate: Ilias-Bappi
   thesis: https://doi.org/10.23173/jnu.000000076370.24010.0012617
 ---
 
