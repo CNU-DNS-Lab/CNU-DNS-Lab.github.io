@@ -1501,7 +1501,7 @@
   publisher: The transactions of The Korean Institute of Electrical Engineers
   date: '2026-02-28'
   link: https://doi.org/hcpkgb
-  highlught:
+  highlight:
   - ugur
   plugin: sources.py
   file: sources-ugur.yaml
