@@ -21,7 +21,11 @@ layout: default
 <div>
   {% include button.html type="publications" link=search_url text="Publications" style="bare" %}<br>
 
-  {% assign sorted_links = page.links | sort %}
+  {% assign sorted_links = page.links %}
+  {% if page.links %}
+    {% assign sorted_links = page.links | sort %}
+  {% endif %}
+  
   {% for link in sorted_links %}
     {% assign key = link[0] %}
     {% assign value = link[1] %}
