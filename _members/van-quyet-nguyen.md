@@ -10,7 +10,7 @@ links:
   dissertation: https://doi.org/10.23173/jnu.000000061188.24010.0000389
   researchgate: Van-Quyet-Nguyen-2
   orcid: 0000-0002-6898-4224
-  scholar: xIbzrlAAAAAJ
+  google-scholar: xIbzrlAAAAAJ
 ---
 
 Dr. Van-Quyet Nguyen received the Ph.D degree in Computer Science from the Chonnam National University (JNU), South Korea, in 2019. He received the M.Sc in Computer and Information Science from the Hanoi University of Science and Technology (HUST), Ha Noi, Viet Nam, in 2013. He received the B.Sc degree in Information Technology from the Hung Yen University of Technology and Education (UTEHY), Hung Yen, Viet Nam, in 2009. He has over 10 years research and working experience in Big Data analytics and its applications. He is currently a lecturer at the Hung Yen University of Technology and Education.
