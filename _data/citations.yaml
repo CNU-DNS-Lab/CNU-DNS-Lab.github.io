@@ -1373,95 +1373,6 @@
   kyungbaek-kim: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.3745/PKIPS.y2025m11a.787
-  title: Efficient Fashion Complementary Prediction via 4-bit Quantized LLM Fine-Tuning
-    with LoRA
-  authors:
-  - Oluwabukola Dere Roshidat
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2025-11-06'
-  link: https://doi.org/hck827
-  plugin: sources.py
-  file: sources-roshidat.yaml
-- id: doi:10.3745/PKIPS.y2024m10a.660
-  title: A Study of MultiModal Foundation Model in Fashion Recommendation
-  authors:
-  - Oluwabukola Dere Roshidat
-  - Kyungbeak Kim
-  publisher: Annual Conference of KIPS
-  date: '2024-10-31'
-  link: https://doi.org/hck828
-  plugin: sources.py
-  file: sources-roshidat.yaml
-- id: doi:10.1109/MetroXRAINE66377.2025.11340228
-  title: 'DMTR Norm: Improving the Performance of Handwriting Verification Model with
-    Distortion Minimized Text Region Preprocessing'
-  authors:
-  - SeYeon Jeong
-  - MyeongHoon Lee
-  - HyeonSu Jung
-  - KyungBaek Kim
-  publisher: 2025 IEEE International Conference on Metrology for eXtended Reality,
-    Artificial Intelligence and Neural Engineering (MetroXRAINE)
-  date: '2025-10-22'
-  link: https://doi.org/hcmf9j
-  highlight:
-  - seyeon-jeong
-  - front-page
-  - myeonghoon-lee
-  plugin: sources.py
-  file: sources-seyeon-jeong.yaml
-- id: doi:10.1038/s41598-025-03235-w
-  title: 'Assessing the performance of domain-specific models for plant leaf disease
-    classification: a comprehensive benchmark of transfer-learning on open datasets'
-  authors:
-  - David J. Richter
-  - Kyungbaek Kim
-  publisher: Scientific Reports
-  date: '2025-05-30'
-  link: https://doi.org/hck6pq
-  highlight:
-  - david
-  plugin: sources.py
-  file: sources-david.yaml
-- id: doi:10.3745/PKIPS.y2025m05a.687
-  title: 'PLDC-80: A Combined Augmented Hybrid Plant Leaf Disease Classification Benchmarking
-    Dataset'
-  authors:
-  - David J. Richter
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2025-05-29'
-  link: https://doi.org/hck6p9
-  plugin: sources.py
-  file: sources-david.yaml
-- id: doi:10.1002/pld3.70167
-  title: "PLDC\u2010Net: A Domain\u2010Specific Base Model for Plant Leaf Disease\
-    \ Classification Domain Adaptation Tasks"
-  authors:
-  - "David\_J. Richter"
-  - Kyungbaek Kim
-  publisher: Plant Direct
-  date: '2026-04-01'
-  link: https://doi.org/hck6vp
-  highlight:
-  - david
-  - kyungbaek-kim
-  - front-page
-  plugin: sources.py
-  file: sources-david.yaml
-- id: doi:10.3745/PKIPS.y2025m05a.713
-  title: 'SSDC-MiniNet: A Tiny CNN Steel Surface Defect Classifier'
-  authors:
-  - Adam Pradipta
-  - David J. Richter
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2025-05-29'
-  link: https://doi.org/hck6qw
-  plugin: sources.py
-  file: sources-david.yaml
 - id: doi:10.1109/ICUFN69619.2026.11628618
   title: Communication-Aware Adaptive Decentralized Traffic Signal Control via Broadcast
     gate
@@ -1505,172 +1416,6 @@
   - ugur
   plugin: sources.py
   file: sources-ugur.yaml
-- id: doi:10.1109/NOMS59830.2024.10575786
-  title: 'GTT-NTP: A Graph Convolutional Networks-Based Network Traffic Prediction
-    model'
-  authors:
-  - Longfei Li
-  - Kyungbaek Kim
-  publisher: NOMS 2024-2024 IEEE Network Operations and Management Symposium
-  date: '2024-05-06'
-  link: https://doi.org/g8p3ch
-  highlight:
-  - longfei
-  plugin: sources.py
-  file: sources-longfei-chen.yaml
-- id: doi:10.1109/ICAIIC60209.2024.10463204
-  title: 'Advancing AI Voice Synthesis: Integrating Emotional Expression in Multi-Speaker
-    Voice Generation'
-  authors:
-  - Shivani Sanjay Kolekar
-  - David J. Richter
-  - Md Ilias Bappi
-  - Kyungbaek Kim
-  publisher: 2024 International Conference on Artificial Intelligence in Information
-    and Communication (ICAIIC)
-  date: '2024-02-19'
-  link: https://doi.org/hck6n9
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.3745/PKIPS.y2021m11a.537
-  title: Web based Microservice Framework for Survival Analysis of Lung Cancer Patient
-    using Digital Twin
-  authors:
-  - Shivani Sanjay Kolekar
-  - Sungwoong Yeom
-  - Chulwoong Choi
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2021-11-04'
-  link: https://doi.org/hck6pc
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.1109/NOMS57970.2025.11073667
-  title: Resource-Efficient Federated Fine-Tuning of LLMs for Downstream Tasks of
-    Speech Recognition
-  authors:
-  - Shivani Sanjay Kolekar
-  - Kyungbaek Kim
-  publisher: NOMS 2025-2025 IEEE Network Operations and Management Symposium
-  date: '2025-05-12'
-  link: https://doi.org/hck6pd
-  highlight:
-  - shivani
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.23919/APNOMS67058.2025.11181385
-  title: Sensitivity-aware Federated ASR Fine-Tuning with Balancing Accuracy and Network
-    Cost
-  authors:
-  - Shivani Kolekar
-  - Kyungbaek Kim
-  publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
-  date: '2025-09-22'
-  link: https://doi.org/hck6pf
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.1109/ICDCSW72724.2026.00017
-  title: Reliable Federated Fine-Tuning for Multilingual ASR
-  authors:
-  - Shivani Sanjay Kolekar
-  - Md Ilias Bappi
-  - Kyungbaek Kim
-  publisher: 2026 IEEE 46th International Conference on Distributed Computing Systems
-    Workshops (ICDCSW)
-  date: '2026-06-01'
-  link: https://doi.org/hck6pg
-  highlight:
-  - shivani
-  - kyungbaek-kim
-  - front-page
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.1109/ICAIIC68212.2026.11454181
-  title: 'Federated Speech Encoder Fine-Tuning for Multilingual Cross Site Parkinson''s
-    Speech Classification: Performance Fairness Analysis'
-  authors:
-  - Shivani Kolekar
-  - Jisoo Shin
-  - Haewoon Nam
-  - Kyungbaek Kim
-  publisher: 2026 International Conference on Artificial Intelligence in Information
-    and Communication (ICAIIC)
-  date: '2026-02-24'
-  link: https://doi.org/hck6ph
-  plugin: sources.py
-  file: sources-shivani.yaml
-- id: doi:10.3745/TKIPS.2025.14.2.123
-  title: Solar Power Generation Forecasting Using a Hybrid LSTM-Linear Model with
-    Multi-Head Attention
-  authors:
-  - Hyeonseok Jin
-  - David J. Richter
-  - Ilias Bappi
-  - Kyungbaek Kim
-  publisher: The Transactions of the Korea Information Processing Society
-  date: '2025-02-28'
-  link: https://doi.org/hck6nc
-  plugin: sources.py
-  file: sources-hyeonseok.yaml
-- id: doi:10.48550/arXiv.2507.11550
-  title: Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal
-    Traffic Prediction
-  authors:
-  - Hyeonseok Jin
-  - Geonmin Kim
-  - Kyungbaek Kim
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/hck6nd
-  highlight:
-  - hyeonseok
-  plugin: sources.py
-  file: sources-hyeonseok.yaml
-- id: doi:10.3745/PKIPS.y2025m05a.683
-  title: 'TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective
-    Building Energy Prediction'
-  authors:
-  - Hyeonseok Jin
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2025-05-29'
-  link: https://doi.org/hck6pb
-  plugin: sources.py
-  file: sources-hyeonseok.yaml
-- id: doi:10.9728/dcs.2017.18.1.149
-  title: Design of a Platform for Collecting and Analyzing Agricultural Big Data
-  authors:
-  - Van-Quyet Nguyen
-  - Sinh Ngoc Nguyen
-  - Kyungbaek Kim
-  publisher: Journal of Digital Contents Society
-  date: '2017-02-28'
-  link: https://doi.org/hck8zv
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.9728/dcs.2020.21.5.959
-  title: Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease
-    Classification
-  authors:
-  - Ji-yeon Park
-  - Hyeon-ji Kim
-  - Kyungbaek Kim
-  publisher: Journal of Digital Contents Society
-  date: '2020-05-31'
-  link: https://doi.org/grns59
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.3745/PKIPS.y2026m05a.161
-  title: Improve SQL Injection Classification with Feature Engineering
-  authors:
-  - Kimhor Mong
-  - Tumur-Ochir Bayaraa
-  - Kyungbaek Kim
-  publisher: Annual Conference of KIPS
-  date: '2026-05-20'
-  link: https://doi.org/hcmgf5
-  plugin: sources.py
-  file: sources-kimhor.yaml
 - id: doi:10.30693/SMJ.2025.14.1.17
   title: Assessing the Effectiveness of Augmentation Techniques in Enhancing Plant
     Leaf Disease Classification
@@ -1784,6 +1529,250 @@
   link: https://doi.org/hck54m
   plugin: sources.py
   file: sources-bappi.yaml
+- id: doi:10.1109/NOMS59830.2024.10575786
+  title: 'GTT-NTP: A Graph Convolutional Networks-Based Network Traffic Prediction
+    model'
+  authors:
+  - Longfei Li
+  - Kyungbaek Kim
+  publisher: NOMS 2024-2024 IEEE Network Operations and Management Symposium
+  date: '2024-05-06'
+  link: https://doi.org/g8p3ch
+  highlight:
+  - longfei
+  plugin: sources.py
+  file: sources-longfei-chen.yaml
+- id: doi:10.3745/PKIPS.y2025m11a.787
+  title: Efficient Fashion Complementary Prediction via 4-bit Quantized LLM Fine-Tuning
+    with LoRA
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-11-06'
+  link: https://doi.org/hck827
+  plugin: sources.py
+  file: sources-roshidat.yaml
+- id: doi:10.3745/PKIPS.y2024m10a.660
+  title: A Study of MultiModal Foundation Model in Fashion Recommendation
+  authors:
+  - Oluwabukola Dere Roshidat
+  - Kyungbeak Kim
+  publisher: Annual Conference of KIPS
+  date: '2024-10-31'
+  link: https://doi.org/hck828
+  plugin: sources.py
+  file: sources-roshidat.yaml
+- id: doi:10.1109/MetroXRAINE66377.2025.11340228
+  title: 'DMTR Norm: Improving the Performance of Handwriting Verification Model with
+    Distortion Minimized Text Region Preprocessing'
+  authors:
+  - SeYeon Jeong
+  - MyeongHoon Lee
+  - HyeonSu Jung
+  - KyungBaek Kim
+  publisher: 2025 IEEE International Conference on Metrology for eXtended Reality,
+    Artificial Intelligence and Neural Engineering (MetroXRAINE)
+  date: '2025-10-22'
+  link: https://doi.org/hcmf9j
+  highlight:
+  - seyeon-jeong
+  - front-page
+  - myeonghoon-lee
+  plugin: sources.py
+  file: sources-seyeon-jeong.yaml
+- id: doi:10.3745/TKIPS.2025.14.2.123
+  title: Solar Power Generation Forecasting Using a Hybrid LSTM-Linear Model with
+    Multi-Head Attention
+  authors:
+  - Hyeonseok Jin
+  - David J. Richter
+  - Ilias Bappi
+  - Kyungbaek Kim
+  publisher: The Transactions of the Korea Information Processing Society
+  date: '2025-02-28'
+  link: https://doi.org/hck6nc
+  plugin: sources.py
+  file: sources-hyeonseok.yaml
+- id: doi:10.48550/arXiv.2507.11550
+  title: Deformable Dynamic Convolution for Accurate yet Efficient Spatio-Temporal
+    Traffic Prediction
+  authors:
+  - Hyeonseok Jin
+  - Geonmin Kim
+  - Kyungbaek Kim
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hck6nd
+  highlight:
+  - hyeonseok
+  plugin: sources.py
+  file: sources-hyeonseok.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.683
+  title: 'TSPM: Two-stage Spatiotemporal Prediction Module with Floor Plan for Effective
+    Building Energy Prediction'
+  authors:
+  - Hyeonseok Jin
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6pb
+  plugin: sources.py
+  file: sources-hyeonseok.yaml
+- id: doi:10.1038/s41598-025-03235-w
+  title: 'Assessing the performance of domain-specific models for plant leaf disease
+    classification: a comprehensive benchmark of transfer-learning on open datasets'
+  authors:
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: Scientific Reports
+  date: '2025-05-30'
+  link: https://doi.org/hck6pq
+  highlight:
+  - david
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.687
+  title: 'PLDC-80: A Combined Augmented Hybrid Plant Leaf Disease Classification Benchmarking
+    Dataset'
+  authors:
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6p9
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.1002/pld3.70167
+  title: "PLDC\u2010Net: A Domain\u2010Specific Base Model for Plant Leaf Disease\
+    \ Classification Domain Adaptation Tasks"
+  authors:
+  - "David\_J. Richter"
+  - Kyungbaek Kim
+  publisher: Plant Direct
+  date: '2026-04-01'
+  link: https://doi.org/hck6vp
+  highlight:
+  - david
+  - kyungbaek-kim
+  - front-page
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.3745/PKIPS.y2025m05a.713
+  title: 'SSDC-MiniNet: A Tiny CNN Steel Surface Defect Classifier'
+  authors:
+  - Adam Pradipta
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2025-05-29'
+  link: https://doi.org/hck6qw
+  plugin: sources.py
+  file: sources-david.yaml
+- id: doi:10.1109/ICAIIC60209.2024.10463204
+  title: 'Advancing AI Voice Synthesis: Integrating Emotional Expression in Multi-Speaker
+    Voice Generation'
+  authors:
+  - Shivani Sanjay Kolekar
+  - David J. Richter
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: 2024 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2024-02-19'
+  link: https://doi.org/hck6n9
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.3745/PKIPS.y2021m11a.537
+  title: Web based Microservice Framework for Survival Analysis of Lung Cancer Patient
+    using Digital Twin
+  authors:
+  - Shivani Sanjay Kolekar
+  - Sungwoong Yeom
+  - Chulwoong Choi
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2021-11-04'
+  link: https://doi.org/hck6pc
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.1109/NOMS57970.2025.11073667
+  title: Resource-Efficient Federated Fine-Tuning of LLMs for Downstream Tasks of
+    Speech Recognition
+  authors:
+  - Shivani Sanjay Kolekar
+  - Kyungbaek Kim
+  publisher: NOMS 2025-2025 IEEE Network Operations and Management Symposium
+  date: '2025-05-12'
+  link: https://doi.org/hck6pd
+  highlight:
+  - shivani
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.23919/APNOMS67058.2025.11181385
+  title: Sensitivity-aware Federated ASR Fine-Tuning with Balancing Accuracy and Network
+    Cost
+  authors:
+  - Shivani Kolekar
+  - Kyungbaek Kim
+  publisher: 2025 25th Asia-Pacific Network Operations and Management Symposium (APNOMS)
+  date: '2025-09-22'
+  link: https://doi.org/hck6pf
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.1109/ICDCSW72724.2026.00017
+  title: Reliable Federated Fine-Tuning for Multilingual ASR
+  authors:
+  - Shivani Sanjay Kolekar
+  - Md Ilias Bappi
+  - Kyungbaek Kim
+  publisher: 2026 IEEE 46th International Conference on Distributed Computing Systems
+    Workshops (ICDCSW)
+  date: '2026-06-01'
+  link: https://doi.org/hck6pg
+  highlight:
+  - shivani
+  - kyungbaek-kim
+  - front-page
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.1109/ICAIIC68212.2026.11454181
+  title: 'Federated Speech Encoder Fine-Tuning for Multilingual Cross Site Parkinson''s
+    Speech Classification: Performance Fairness Analysis'
+  authors:
+  - Shivani Kolekar
+  - Jisoo Shin
+  - Haewoon Nam
+  - Kyungbaek Kim
+  publisher: 2026 International Conference on Artificial Intelligence in Information
+    and Communication (ICAIIC)
+  date: '2026-02-24'
+  link: https://doi.org/hck6ph
+  plugin: sources.py
+  file: sources-shivani.yaml
+- id: doi:10.9728/dcs.2017.18.1.149
+  title: Design of a Platform for Collecting and Analyzing Agricultural Big Data
+  authors:
+  - Van-Quyet Nguyen
+  - Sinh Ngoc Nguyen
+  - Kyungbaek Kim
+  publisher: Journal of Digital Contents Society
+  date: '2017-02-28'
+  link: https://doi.org/hck8zv
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.9728/dcs.2020.21.5.959
+  title: Accessing Impact of DCGAN Image Data Augmentation for CNN based Tomato Disease
+    Classification
+  authors:
+  - Ji-yeon Park
+  - Hyeon-ji Kim
+  - Kyungbaek Kim
+  publisher: Journal of Digital Contents Society
+  date: '2020-05-31'
+  link: https://doi.org/grns59
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.23919/APNOMS67058.2025.11181398
   title: Edge-Based Policy Caching for Low Latency Security Enforcement in Hybrid
     Clouds
@@ -1816,3 +1805,14 @@
   - geonmin
   plugin: sources.py
   file: sources-geonmin.yaml
+- id: doi:10.3745/PKIPS.y2026m05a.161
+  title: Improve SQL Injection Classification with Feature Engineering
+  authors:
+  - Kimhor Mong
+  - Tumur-Ochir Bayaraa
+  - Kyungbaek Kim
+  publisher: Annual Conference of KIPS
+  date: '2026-05-20'
+  link: https://doi.org/hcmgf5
+  plugin: sources.py
+  file: sources-kimhor.yaml
