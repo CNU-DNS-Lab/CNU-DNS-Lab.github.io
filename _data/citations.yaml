@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.20944/preprints202611.1746.v1
+  title: 'CNN for Plant Leaf Disease Classification: An Introduction'
+  authors:
+  - David J. Richter
+  - Kyungbaek Kim
+  publisher: MDPI AG
+  date: '2026-11-17'
+  link: https://doi.org/hctftb
+  orcid: 0000-0001-9985-3051
+  kyungbaek-kim: true
+  plugin: sources.py
+  file: sources-david.yaml
 - id: doi:10.32431/kace.2026.29.3.006
   title: Analysis of the Effectiveness of Generative AI-based Programming Classes
     for Middle School Students
