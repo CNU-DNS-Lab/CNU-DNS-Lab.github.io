@@ -1,17 +1,19 @@
-- id: doi:10.1109/ACCESS.2024.3433540
-- id: doi:10.1109/ACCESS.2025.3584404
+- id: doi:10.1109/ACCESS.2024.3433540 # A review of reinforcement learning for fixed-wing aircraft control tasks - IEEE Access
+- id: doi:10.1109/ACCESS.2025.3584404 # A Systematic Review of the Current State of Transfer Learning accelerated CNN-Based Plant Leaf Disease Classification - IEEE Access
   highlight:
   - david
-- id: doi:10.1038/s41598-025-03235-w
+- id: doi:10.1038/s41598-025-03235-w # Assessing the performance of domain-specific models for plant leaf disease classification: a comprehensive benchmark of transfer-learning on open datasets - Scientific Reports
   highlight:
   - david
-- id: doi:10.3745/PKIPS.y2025m05a.687
-- id: doi:10.1002/pld3.70167
+- id: doi:10.3745/PKIPS.y2025m05a.687 # PLDC-80: A Combined Augmented Hybrid Plant Leaf Disease Classification Benchmarking Dataset - ASK25
+- id: doi:10.1002/pld3.70167 # PLDC-Net: A Domain-Specific Base Model for Plant Leaf Disease Classification Domain Adaptation Tasks - Plant Direct
   highlight:
   - david
   - kyungbaek-kim
   - front-page
-# - id: doi:10.23173/jnu.000000076557.24010.0012721
-- id: doi:10.1109/ICAIIC68212.2026.11454411
-- id: doi:10.1109/ICAIIC64266.2025.10920778
-- id: doi:10.3745/PKIPS.y2025m05a.713
+- id: doi:10.1109/ICAIIC68212.2026.11454411 # Evaluating Knowledge Distillation for Plant Leaf Disease Classification - ICAIIC26
+- id: doi:10.1109/ICAIIC64266.2025.10920778 # Assessing the Impact of State-Space Complexity on an Image Based DQN via the Game of Snake - ICAIIC25
+- id: doi:10.3745/PKIPS.y2025m05a.713 # SSDC-MiniNet: A Tiny CNN Steel Surface Defect Classifier - ASK25
+- id: doi:10.20944/preprints202611.1746.v1 # CNN for Plant Leaf Disease Classification: An Introduction - Preprints
+
+# - id: doi:10.23173/jnu.000000076557.24010.0012721 # Thesis - added via profile
